@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "DroneLedger open dataset of drone incidents"
+authors:
+  - name: "DroneLedger"
+    website: "https://droneincidents.com"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.23345422
+url: "https://droneincidents.com"
+repository-code: "https://github.com/droneincidents/dataset"
+type: dataset
