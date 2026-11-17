@@ -2,8 +2,8 @@
  "type": "FeatureCollection",
  "publisher": "DroneLedger",
  "site": "https://droneincidents.com",
- "generated": "2026-11-16T04:46:35+00:00",
- "release": "20261116T044644962708-7a3d81",
+ "generated": "2026-11-17T02:14:44+00:00",
+ "release": "20261117T021532168539-55c2e2",
  "license": {
   "name": "CC BY 4.0",
   "url": "https://creativecommons.org/licenses/by/4.0/",
@@ -47,7 +47,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "6313b95ca08845e72a92d86606dec83792233a2814013c40473c13ac82857c7f"
+    "recordHash": "631d1b594bf1ac68cd6b8a206a1768ff9f18993c535124a0edf1deff1287033f"
    }
   },
   {
@@ -85,7 +85,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "c195c3767e3dd00c8cb5a5993227cf547e16244798e91fe24b831070cccfa879"
+    "recordHash": "c96b58e00799cad9d530fd306ba79d92566d0f3feb7953d9b87572897373b47e"
    }
   },
   {
@@ -117,7 +117,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e40ebb2b6889ea0f757a87726993b20030d8291c2f6eaebcc2a62ba2a76a5cc8"
+    "recordHash": "5bf186bba9bc42ef9cfe40b13d01c90e14bacf8a718583d02f8279ef2ea25591"
    }
   },
   {
@@ -155,7 +155,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "67fef8347567fa47d2e69b516e9bcddb3e3f8357003a3afe0e8a67e1426b862a"
+    "recordHash": "d9c464bbaa033e9f2267a526dacfc5690475a88876bf0096dbf4cec4536c98c6"
    }
   },
   {
@@ -193,7 +193,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "0001e3fb0ff066bfb6536c18a7ce3fdccef157b2a25f7df047eb29952a5f7a47"
+    "recordHash": "b755d09fedd5d01d26e0338d46484b5f6ad9384a63061d71643e5fcfc6e74a40"
    }
   },
   {
@@ -231,7 +231,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "b05be6b97d5e29f7af978e62d0a4ace8764363fea9c834456ed9b8e09a03bd9b"
+    "recordHash": "14c7f8a08a9c1a07eaff7a07e3e06addc6687a15fb4c1362e9afb9e73505cb57"
    }
   },
   {
@@ -269,7 +269,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "ad7658667962aad63d81d45a324c64dc4eb43e545b1d3c8ea9a5f557eca25681"
+    "recordHash": "fc32832ab7cf6d6d06f1a1dd904ba7a671a2fe1aaa34a5cb4c7b6548b5e33b1e"
    }
   },
   {
@@ -301,7 +301,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "50b6f2b18c1e42558733e2e510adf9ed8da02c4263730ec565889da3d7857a91"
+    "recordHash": "31828780fe7f41d803d2c353dbd526dcdec5ac9c0f912825ee1379239dee10f6"
    }
   },
   {
@@ -333,7 +333,71 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "40ea517f611de4287fd3e4d7c8a438567a04b387376d221e2fc08b34f25981c2"
+    "recordHash": "6b89355a359ea580082cdb68e458aa30ae747addb5919d58d5f563395d25f03d"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-bg-2026-11-16-b88b425220",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in the Black Sea, off Bulgaria",
+    "place": "Black Sea",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "date": "2026-11-16",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 3,
+    "updatedAt": "2026-11-17",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-bg-2026-11-16-b88b425220/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "5cda799c2ce37d2974de11fc83dbe96ad464813be6a5309d841204e3773f9bdd"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-bh-2026-11-15-4275659957",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Bahrain",
+    "place": "Bahrain",
+    "country": "Bahrain",
+    "countryCode": "BH",
+    "date": "2026-11-15",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 8,
+    "updatedAt": "2026-11-16",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-bh-2026-11-15-4275659957/",
+    "sourceLocationPrecision": "country",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "808fb29e199a02f710fd395393745749edc8152135929ce4548b4f0b6c07df9e"
    }
   },
   {
@@ -365,7 +429,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7051d38e429982806fa3d8968fb3358c0e196cb750db7fb66ee2ea213f9bae55"
+    "recordHash": "07dfb1e3fec702d986fe52dffa7f40576f8ad8e4d2076d71bc32dc3fdbdff586"
    }
   },
   {
@@ -397,7 +461,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "64f1bbc257fd6ba0bf80eb54e142bf3110fb5f3d5da435594d0b66d5e55e5cfe"
+    "recordHash": "b120482cc3274574c3a5bc63bedd17d27c196610253c71146df0d7b9881f4c04"
    }
   },
   {
@@ -429,7 +493,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "34a059912a0be464e6d8d6333f38c3a1f47950e5663382af6ddc0c3ca0f5a437"
+    "recordHash": "5ef44b9a391c1539d78b59c5f7e54dbdd8c68dd80f9be5ddccc1edbc12f4ecc5"
    }
   },
   {
@@ -461,7 +525,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b5ab52ef3c00c2f4676b157a0ed96e120407f4d180862eb5a17958c9a769a5ee"
+    "recordHash": "53cd881cfdb0a79ee9d3f6b7c3494fe1f4e0d07648f1657ed71d102fdbbfd272"
    }
   },
   {
@@ -493,7 +557,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "aa4f6c25f020c4899657f413ec9e81a9fda60f46d543c53a39fc884031b37ed3"
+    "recordHash": "277610f0dc6ee7ef40f2c63ecfabc1f22a366c093477a4c785e663c37cef0a45"
    }
   },
   {
@@ -525,7 +589,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f88cd9850ee24ee53ba40bf542b9f8de68ec74bea975a167c8a3ecef32cb8fd0"
+    "recordHash": "3d72d114d70867ef4ed38986e125a00a065ff84dc106d41fdb9cd2ab90f235b4"
    }
   },
   {
@@ -557,7 +621,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f5c51e652be89e7165c47d1946482c7a71cd6c72134b4e2cf4f59a125bcd3ef7"
+    "recordHash": "6b11b30da4ee242496c8cfd821d3b6c31706f1ddac72eee87a234320a880e8d9"
    }
   },
   {
@@ -589,7 +653,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4950097daa070819438dcd1aabd50969f2e9eaab8884662cee7fe9307a7f3bf2"
+    "recordHash": "97d35428d2b1de844e47d4ba046096d7675c5d7bbad510513435ea9e6b16b28a"
    }
   },
   {
@@ -621,7 +685,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "75dd817b111193521686736ad0e061c8dffc745595c671a96eaba21e8254080a"
+    "recordHash": "1301ef0aa9a0f158d3dff201a7f93dd0bd734e821c866736980a3af7d344976f"
    }
   },
   {
@@ -653,7 +717,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f52be08bea593c4a54cda62a27737dbda0aed82a561b9eba67354bdc422c7cc2"
+    "recordHash": "9670f5f19769e36f3a3ec02775e12182d611596103c128bde9e11f2ef587f85a"
    }
   },
   {
@@ -685,7 +749,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0c3a56509311cc29a1a936200aa72774ad28d80324ee0578911e79927196fab2"
+    "recordHash": "434dd2b08b348fc0ff09a04c4ee3e3f9c01fceda28628571aaff7b7acb1de459"
    }
   },
   {
@@ -717,7 +781,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5e15cf0b79a281ddd92c75b1fd5765b0a1bc5457eb4fba2269f9d59aec1e10af"
+    "recordHash": "42de96b4e105b60c386c07e028305e1bbb537a343460a2a20c95cbc4f85749c5"
    }
   },
   {
@@ -749,7 +813,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "37c4ffc1e915c5ae64963acddc451e1c83d8bb8a9ba051ea3caa7a73172f46b2"
+    "recordHash": "450618316910fec292152e514017161500bee625da17c797e259045bd4ba44f1"
    }
   },
   {
@@ -781,7 +845,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d286acd08ea5ee1009e4ab92b57584f9fae628e1ad12d0a6dc6d43aeceb76d7b"
+    "recordHash": "9ee96fcea8514c378aa07a0c39abb53cff8611278b5c311a5530db54061e1b96"
    }
   },
   {
@@ -813,7 +877,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a5a1a11ee280c7c5b56d00d22fb387798558a66d0dac21fcde46446f2c86cd43"
+    "recordHash": "17a733ff0f8a6a45b8177c5442a92cf4f3620c37895670325eb45a7f5d1c4dfb"
    }
   },
   {
@@ -845,7 +909,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3d608d3208269b45673e76df8713c6c52f2587ad0273a54566dec818247b982c"
+    "recordHash": "92b4bf73fcb3c83ab46fb5f601bb93ebcb82d9555c7c2a783020c1f22deee310"
    }
   },
   {
@@ -877,7 +941,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1362689028159624f57afec31a2501f85f56972bc72954ad57e435f2c9e72611"
+    "recordHash": "6dc544de354dad15c4bbb1fbd1d369ef4b98ac052f58095b5fd66b691bda2637"
    }
   },
   {
@@ -909,7 +973,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "08c65c9e1a107de2b211a6e75c68eac998133f8ec6a0ecace318862e23073f8c"
+    "recordHash": "ffc70b0cae282c16175f639945459d0ab983fb69db51eafcc21ed2a392435fab"
    }
   },
   {
@@ -941,7 +1005,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9196beec73f1b831d8a94125f704d1e8f00508eaa23bcc8e6cb28352696db842"
+    "recordHash": "a37a03bae100f32b555db836b66ec11a1d21a908bcccf899f59c95ff5fbc6c66"
    }
   },
   {
@@ -973,7 +1037,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "42c514362b19ac956d96220347b4adda6d35586f405e59a4fe05c6668aed6077"
+    "recordHash": "a0edf9461d0bb8c68f5f75beea37136f476dd05e8882f30023a1bd34a4b2bded"
    }
   },
   {
@@ -1005,7 +1069,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9973ca33ede140c566c7b5054072c48b4b755fd7cf3347ec3029816ea935a57f"
+    "recordHash": "dc8c48764924b11a57902779f9f6b5b7c17891b3885af261cda1834047611c05"
    }
   },
   {
@@ -1037,7 +1101,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e854f88f09922cf15d41875b9df3370176ebc77b13d23c26dc87996b09f6b7c3"
+    "recordHash": "dc6033f2e655608adc34750c62302315a92311a71a5e4028aa2441f983da6e70"
    }
   },
   {
@@ -1069,7 +1133,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ffcfbcfee83d9fc2ee55044f2bd5828e16beaefcc0449c80147ac14a0889db20"
+    "recordHash": "47b67115a917779486cec6e8e1c97007baa9bc4bb9373bc34d128eb13bf78150"
    }
   },
   {
@@ -1101,7 +1165,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "351d3916ed19f261d176d90f70f8e6c695f00768347e6572732d3a6eea4d21ed"
+    "recordHash": "45c0358d3892aa880538a34227138da3661d429741f66a7fc9db83e6601199e0"
    }
   },
   {
@@ -1133,7 +1197,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "981b8860867ffa619bbf4b808416ddc338f6cf3cb9ab607794f0b3be89a7db93"
+    "recordHash": "be385776c94e7ff91553ff44c3db0eccaddf96b159409baa406bc804dd6caef1"
    }
   },
   {
@@ -1165,7 +1229,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4c444343618ee9be4b4e0a78546eb7c94438718fed2989680d1ce6ce56bd9538"
+    "recordHash": "017643385694cf29e2258a6745e1a5e19b2814aedec668c32818f8403297c541"
    }
   },
   {
@@ -1197,7 +1261,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5c366797c066caf200f3eea5eead5650be49bb03cdaca6168fb74f86b452d97b"
+    "recordHash": "67142c92af7ec297250a70b10f7455b0ede39fd6ef48a1151b763255e6cb4338"
    }
   },
   {
@@ -1229,7 +1293,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8873b44786677c6f532a9693f53da3ab494c5104d8f810c68510f0572def1f0a"
+    "recordHash": "32c398eea2b26c633033d94e21fb60fa7fe4561381a04536bd6242c0eda30782"
    }
   },
   {
@@ -1261,7 +1325,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "68601a6fedb13ac85e98c8dbb03561b0e2482731e6fe824b786d315d307fe1ef"
+    "recordHash": "edff7da30f938b933709e253fb390fe0c7c98d1c1be217212ddbc39493648eec"
    }
   },
   {
@@ -1293,7 +1357,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3c2de7632d3c1250de4cb6b250a5306ec67a89be9075e03f51f0c4762e18161b"
+    "recordHash": "e55c06f2ebc6c0d2cf197c9d16ffa9f8f41fc53e157d61f824e3aa36a026ad56"
    }
   },
   {
@@ -1325,7 +1389,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b4132cbe49b00bfcaddc5706e6edef46470aa189043a23fa3defad754d5b88d5"
+    "recordHash": "b9f4223f6892c30363e828af5d57f6300eab05f054998d8a3312a8811351fe69"
    }
   },
   {
@@ -1357,7 +1421,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "692ac26c3ba2d47390aac04ef3664a6ac6d8a5ea461ada1e2a739b71d85b2492"
+    "recordHash": "eb090037e6d4d50b4ecbdeb1b0a7d43a9b467c4cfd869c06eb5553934dc6c402"
    }
   },
   {
@@ -1389,7 +1453,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0b9da15291e182149373a74cce85d055254d8f0f0cd90a7fac346a3f0a55e5d5"
+    "recordHash": "6365ba1678161f97419f76f2c02702e3278e724242a8ac87c2a4639a0a248c51"
    }
   },
   {
@@ -1421,7 +1485,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ee754e56809d1d15ce6cd1aca6ba951abf4a088559acd1e7e5093737c7458e98"
+    "recordHash": "95cb51630ead2f58eb8e9851700ba06539a36864fdf485aaf3d7f93dad1b9240"
    }
   },
   {
@@ -1453,7 +1517,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8c4733b9e7d1e43e3892d02da4d2d469138b4ce2ed563078ee0fd57a340d06e8"
+    "recordHash": "4e3e7f4d324d8d52bdf92adb33413d66e0cbaec7512be12a659ffbe8de5fe2b1"
    }
   },
   {
@@ -1485,7 +1549,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "381c8dcb088e46c8a3306970a7374e3affeb63d2804f40357c8567be9208e24b"
+    "recordHash": "33278d5ac8c0a51271e74568116ee672d72ac4df8787b2c4dd2bd1d2280d55a4"
    }
   },
   {
@@ -1517,7 +1581,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "267e45e119d1de136a3cb4a31d90ec307e05b5b6441ec139c297db7b2e3a0fac"
+    "recordHash": "615a5570b76449195f30f193915cd01b2db6c5fc59338b476c5ef0e8cd6fac26"
    }
   },
   {
@@ -1549,7 +1613,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "81289493c2232ef97bc11a295b73e2edb4735a15fd11a94859b7becc39f65975"
+    "recordHash": "e43c7e9442fdc66075b5a5aaca4e6ce366e2a2d16ea824231fdc6794c4922953"
    }
   },
   {
@@ -1581,7 +1645,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7340b4c67e5ec367a5bc47ada85b6514b22bd312393e4d28883dd69daeb72532"
+    "recordHash": "dd62b7a7c0bf6d2a6b15d47eb304bece4c7a73e54a083dc5cc9329b63a9570f7"
    }
   },
   {
@@ -1613,7 +1677,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "385d416399f355043f77e3971a3b66e20395d17ac8d9a90593b4d4d28bf070a4"
+    "recordHash": "0bd41c3d0d5907c08765af65318ca32cae055a2d768d80ac1141845d73d96e18"
    }
   },
   {
@@ -1645,7 +1709,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e5d5fbcbe98e03abaf48b2f6c3395810c27f8d4a3edd129d9a6c76ed619bb2a1"
+    "recordHash": "615ef25f3d989228f99aeeaece6422f750fa6f80bae43ac1c0adbe3aca33318f"
    }
   },
   {
@@ -1677,7 +1741,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "92eaa40deeb891b0c8857fccdf53ef91c3afe2e270b8aec1074295ef191aa353"
+    "recordHash": "bfa91e431557953f5b7abd26ee1bc3e8f2a19df83a48ef95b2d6872b8c548728"
    }
   },
   {
@@ -1709,7 +1773,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b11c92a123427f37e3919dd3bc32580a4e0289367b59e42bb3b1a73b7e225f49"
+    "recordHash": "657fb05112ea8c418ac97ecb93f0a6200c83bedb7efb10a4726884e8955623f3"
    }
   },
   {
@@ -1741,7 +1805,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3ad3541314e00e4af4a920ca832db5e4e21887034aef1ece8441f2e63265e1c8"
+    "recordHash": "2631298e583b1e87d50487fa6765064386c8f4acef415a99d1736198953297a7"
    }
   },
   {
@@ -1749,11 +1813,11 @@
    "id": "auto-ro-2026-11-14-09f6105aff",
    "geometry": null,
    "properties": {
-    "title": "Drone report in Sfântu Gheorghe, Romania",
+    "title": "Vessel damage reported after drone attack in Sfântu Gheorghe",
     "place": "Sfântu Gheorghe",
     "country": "Romania",
     "countryCode": "RO",
-    "date": "2026-11-14",
+    "date": "2026-11-13",
     "dateKind": "event",
     "windowStart": null,
     "windowEnd": null,
@@ -1765,15 +1829,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 5,
-    "updatedAt": "2026-11-15",
+    "revision": 8,
+    "updatedAt": "2026-11-16",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-14",
     "url": "https://droneincidents.com/incident/auto-ro-2026-11-14-09f6105aff/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0c6ebd47c80b98d3984684fa4bb94679e7fbfe34f2ba56e4f54e64ab24eeec98"
+    "recordHash": "d29d36eec47ae3897fddd9d5d163fd6a5b95b5246560a5dac40f6e064265b1b9"
    }
   },
   {
@@ -1805,7 +1869,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2d6e8371ec4a06fdde80001b091dda684ef217e8482c87d976ec8708bf90a363"
+    "recordHash": "94f08ce43bb44674e9ac4c0722c174d732a2fddca8594ea47c3a3cd817f30ab9"
    }
   },
   {
@@ -1837,7 +1901,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0531a9a8989499ab82a14f2e1879258b09fed96ecfd1dd16fa94b80abbd2c2fb"
+    "recordHash": "152789c94509d434830d991dc2c6be607df80d56d35eb2903352863acef69d56"
    }
   },
   {
@@ -1869,7 +1933,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f5364fce1b2c946ea993c9d64fc2831f51fc90f7726a319572500ad95d38f62b"
+    "recordHash": "78e19e36dfe098db926d40281a9240bf141156d53c58c264b3d3c5430df44a27"
    }
   },
   {
@@ -1901,7 +1965,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b0d20648001df4136dd726f07f8044d0e6acc9c0b7a5f7d1ba4c395296d08460"
+    "recordHash": "7c222409e87361bed6b074bc137bc1d5fe56fc960a81dcaf18beee87000bd813"
    }
   },
   {
@@ -1933,7 +1997,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6de0fea3efd966c1adc068c8b09a3945588047c2a1c77e4d5f95a75575fa179b"
+    "recordHash": "5303546c80d114744eb06d583dccf7291500401bedbcc1602d0212fb6874b619"
    }
   },
   {
@@ -1965,7 +2029,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "747d808b63122c3c69fe1170b026733c6143e8837aa775ca51ebfb50e855c23f"
+    "recordHash": "96356805037d8f55ab95b3aaf6ca18bbf0a4f1b32ea064fa589b27c5fcdea907"
    }
   },
   {
@@ -1997,7 +2061,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "97ae77fd71ad7365e0ada086e8e91deabfe8ad6e78cc5172245d7ac81f1212b8"
+    "recordHash": "0305e9a321248c753b4d1d7be11d5e4f9902b6ea2f799c3084378c767883d7cd"
    }
   },
   {
@@ -2029,7 +2093,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f2728c14442fa0ac12abcb6aa708df632be7ff03fa631ce7db55aa6e9990d202"
+    "recordHash": "9794ec177148cb99f3217026ca6ccbe54eb8107ec9af171a5b6fb36648313f88"
    }
   },
   {
@@ -2061,7 +2125,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e5d84d750c79e6e8c8598dd2b91e6fe482217ffaa3788d4fffffb037ba9e5b06"
+    "recordHash": "2e7af9ae9b2c383c6a35d1cc810c2c1097c7ddabc19e86ef516a1d360576307b"
    }
   },
   {
@@ -2093,7 +2157,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c7453525d08f84834429d0ddfdee550e5f39f80d4e46f5708f0ceeee48c84dfb"
+    "recordHash": "9e4a43dd103945a67ca5000854bae10a9383375257fe3074e3601c2c1892b3db"
    }
   },
   {
@@ -2125,7 +2189,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "36a363b2ad0ef160208cb5c92a57bce87f156710fe458ae9ecef8917cd7731ab"
+    "recordHash": "b7d58262d23a8a2c0268bb7aacc93ff82d44b3186014a3f58d3def904f0bd8ee"
    }
   },
   {
@@ -2157,7 +2221,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e8176013c62abe73a206550f68cd7c59172e4bb5562be7e47e4501f7d90afe1f"
+    "recordHash": "3b72cbaffb4b7c9d900cb9b7f83cf4fa6ea01eb7f489c12fd6ce2f0565afd9e7"
    }
   },
   {
@@ -2189,7 +2253,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2b9e28efd550f4cd97a4844bd26fac62a8630abca61c33d245ec044fdef17f27"
+    "recordHash": "304154d31893fd83961de490c1d2a87029a30fdc27314718cb56141d6c4e3995"
    }
   },
   {
@@ -2221,7 +2285,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6be53a512e0456e505933967f132fd782c85da9caa4e1c1b27077af3380108f4"
+    "recordHash": "7957aebb4f24ade5f08e310b4376bb658d6dac85e1f970b4a286300a2a1252c7"
    }
   },
   {
@@ -2253,7 +2317,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "710342997ae8c07461ca7e390d1753e169cc9cc3933d1fd0e3840fc288c817d3"
+    "recordHash": "b8f31c71f1e13ff04faf8093a73e2f26ee56fc98c64264802f798399d310f46d"
    }
   },
   {
@@ -2277,15 +2341,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "multiple",
-    "revision": 13,
-    "updatedAt": "2026-11-06",
+    "revision": 15,
+    "updatedAt": "2026-11-16",
     "checkedAt": null,
     "autoCheckedAt": "2026-10-14",
     "url": "https://droneincidents.com/incident/auto-ru-2026-10-14-e5dac61977/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5683d1cf05bcc85468da3f9885dfcbcd0c51eedf60e48ea9f56226623562bff5"
+    "recordHash": "90cb60f2d60b8cb90d4efb4dad62033bcfbb6446af2bdd4b73173133952585df"
    }
   },
   {
@@ -2317,7 +2381,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cab8875a3282a8ea4d5df6ab565db9b3a93f5a32e3b2bcfa485abbf29744e31b"
+    "recordHash": "cfd93785fc236aeca34928ca28a615666ecfbf60ea3b0de4b9aa3d1255c83f25"
    }
   },
   {
@@ -2349,7 +2413,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "125d761070e0404f10c40d75b87c6719abada97070a2e64131dbf5e7e501c510"
+    "recordHash": "6ee0893496df11e81cf05dd8bd18a5d6e0fbe339f35bbedd3924b539bfd95784"
    }
   },
   {
@@ -2381,7 +2445,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b981a81dc9f83741d62aedd2f7e02276be23f1b09108b3f9f57bd0c1370b6300"
+    "recordHash": "b038321246e82756d8588a3c58cc2c72c7442c34a9c0431c35dd98a87de8d5cf"
    }
   },
   {
@@ -2413,7 +2477,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e58a5d38abf21e373a86b33444fa0287de40095845575d600f4c4107d6c6ef3b"
+    "recordHash": "4da2542fff69100ea4c7c0e08cef86b0e1c56ef369a17b72690a29155f97454a"
    }
   },
   {
@@ -2445,7 +2509,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "14df2d7b1926e72ddf9c97541e23c72812aa124502e45a7c409273fc32f55d0c"
+    "recordHash": "38ca929540807739184f8a87785ff31cd9ecf838b73397e4eef003cfbcb5c76b"
    }
   },
   {
@@ -2477,7 +2541,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e009f6714af3c89ad721b2ed51406d8ad9d0f1affc16c974e42b02e1c58270e4"
+    "recordHash": "c6b43706b7a9c65507980e58552a3d081c82eadf3e6af08c213f699384c5a5ac"
    }
   },
   {
@@ -2509,7 +2573,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a8d6a1f586f7c95e2524bac815a3d5271d8c4b5f720e204c76129538e86cba76"
+    "recordHash": "2832eb083bcc82bea1b2dd6e82b8d1180896a54b35aeb01149a82d67d9fe419a"
    }
   },
   {
@@ -2541,7 +2605,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5083041f312b86934501945f2eefd2d4f048fdf56ffaeca69d18b2cdc2ac32a5"
+    "recordHash": "46d3d5716488df6dc8c6ab4a9e93ec22dda61ae747d145e42548a7efada25d69"
    }
   },
   {
@@ -2573,7 +2637,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ff90e6ea3d6bfc34cea43a710a1cf5f10fe15d4687e8a48856454cee011df06f"
+    "recordHash": "839aeafb60bcd8b4688e6d1445d7929ae888507aff4750a48ec472c0bcaa5a12"
    }
   },
   {
@@ -2605,7 +2669,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "87d5c6667f283d425598d31a02f42e3e0b2339c33259ecc4defe2a4ec0951dfb"
+    "recordHash": "93b09063dfde8ddca5e38444f502455600226cc4d8e440611ff516d520ecec16"
    }
   },
   {
@@ -2637,7 +2701,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "26a20838a229ba87ee42b9727fdcea353f85eefd84357a06701e1c938ecf4fd8"
+    "recordHash": "d7b9d0310bd53f4836cf975d8dad77b5104d5da304a34b8a1221220300b20249"
    }
   },
   {
@@ -2669,7 +2733,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "53e916ce0f41b1f00b52c10ad92ca0673621703c57043471b2b0fc64aba79310"
+    "recordHash": "52597b4903e5057e359312011bea115cc065dc24f6473342ac3800dc19152d6d"
    }
   },
   {
@@ -2701,7 +2765,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "49e05d4e7a31fa86836fd5bc59541fc9f2c19c6aa2ddacad5f18fdcfae133ce1"
+    "recordHash": "3016788a0b03be21ebf808aa6dccfee1cfb8e0feff7ce9bcf1bd7bf7c04b2b51"
    }
   },
   {
@@ -2733,7 +2797,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "584885182215b74a8dd6ce52dc2853548361a4e4dd4dd312d2e088afc261e1e1"
+    "recordHash": "08d8883f89373d4be820939715bbbb57c54dd22793f7f53ae44bd1a7e903feb8"
    }
   },
   {
@@ -2765,7 +2829,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2b671a23f0cc8c4bf6ad3d6fb0a974f030e2fb8d379d05556fd0f01a72ceebb8"
+    "recordHash": "b212e7b786cdf2860b8e51c06adb0b089350cdf89ee89dc4a2446052d0efb340"
    }
   },
   {
@@ -2789,15 +2853,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 14,
-    "updatedAt": "2026-11-05",
+    "revision": 16,
+    "updatedAt": "2026-11-17",
     "checkedAt": null,
     "autoCheckedAt": "2026-10-26",
     "url": "https://droneincidents.com/incident/auto-ru-2026-10-22-4ba7c26d88/",
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a3d9e4580dbcdea1fef5a1558c539402bba25197739f8b57823a7ddc2fe1cbd5"
+    "recordHash": "c4c3097b3c00a12b1d8cc8be34954e91051ae03819c0e5f3ca8c4075c75ce187"
    }
   },
   {
@@ -2829,7 +2893,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4989032a5c991e5118c09fb4b60dd6daa7006d92afc85c41e0b3487b9d60094d"
+    "recordHash": "f5089211295a6dd721d6bb5d73595ea9b82eb76ff058f45f2d272576c2c9677d"
    }
   },
   {
@@ -2861,7 +2925,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1cfae3b4db041fda75dd3d952ca35d5db3db6e9e55e4098bb833c3108e2a1907"
+    "recordHash": "3fdcbfcd19cd1cad6516b5b368a2af4d2e9973da7671dfb72d1f8a2589f6abbd"
    }
   },
   {
@@ -2893,7 +2957,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d4049a36f9dd2469b0b7ccaf4867cd25fb97a8fc18fca10ececeb3342ecab476"
+    "recordHash": "edff7a33dad42dbf95d100c1b04f6bec7378c7e7f0135435b539609e127e7783"
    }
   },
   {
@@ -2925,7 +2989,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "935b929ff9c288cd17ab422c1ffa5bd585484c5d0eeda0a226bc2d08ac45e29f"
+    "recordHash": "60cad14dc067a4ac82c468a7560a7deaa0d13ad24d959fa79f59873931fb3a3d"
    }
   },
   {
@@ -2957,7 +3021,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2a0d39a75629e02c40b3efae2319c45d01268b0ad652c9f9a4b723b139bbbe10"
+    "recordHash": "67d48f4df458a05bb7bf5efc8e0d6397d78e08ef3b723119b4b0a11915395116"
    }
   },
   {
@@ -2989,7 +3053,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d1c221e53dc6219656be9c17e3c6be477befc4b59c39b21eda7f820e6bd4ed50"
+    "recordHash": "f27f0146e713da7955667a102291baa3fb2b533ef1b59faf894a9618059635fd"
    }
   },
   {
@@ -3021,7 +3085,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cc91114dae6a61c73ad5cc3ffefd0a7ba957c8a5f998fafed8c9dcf88544f13c"
+    "recordHash": "bbbb1b9ecdb246ea74f3b78631f6b1de39b737ca280aa838d7ec31a4890e4446"
    }
   },
   {
@@ -3053,7 +3117,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "fd0d0db449f1bd6cae8320f1ff6ee15262f86ab3971a61ffcdf0f1f8f599a6be"
+    "recordHash": "4aa1917fb649475200ec0f7778c13c715f80d1593754914219d6faf60e85b035"
    }
   },
   {
@@ -3085,7 +3149,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a1dbc10bda480d7a6a2e99402684fed41e3cadb9c02a0917e2ae3e3dfea99cc6"
+    "recordHash": "8f9303d24f52acce4916daa14482fdaa15aa06ca69ef686ed49db899014b65ae"
    }
   },
   {
@@ -3117,7 +3181,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "df6f936f240f7a175972d937dddbcbeef06bb8c020535093d73a372610cb65ce"
+    "recordHash": "22195bec0e52be0d08e447aa8463b7d8d3aab2464dfbe88129dea29233f58b60"
    }
   },
   {
@@ -3149,7 +3213,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9c5334d089291861f7d957ab07a7204c2b71d7a002edc8b4bfb84740783d2d5a"
+    "recordHash": "787942965a5b8456a9ff519d0c9abf77c8304b66bb35be8f27dd53bad5375ea3"
    }
   },
   {
@@ -3181,7 +3245,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ed6385e78fb0e6c2adaf07d00e012f758f54f0905a6f6f16581bcfac1793e732"
+    "recordHash": "923db7ef379779de30ff1716ddd79c237be51303cf512e4411492eaf803a3837"
    }
   },
   {
@@ -3213,7 +3277,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "df15cf7bbccbd8ee60c65e474e86f619655d483c75fdbcc68492a646af7d7db5"
+    "recordHash": "0ae9ed83c4b762649fe3144d15ced04c9ff043b670a24b68cb5bd68b89b4bf4e"
    }
   },
   {
@@ -3245,7 +3309,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "025ea0b971d4c3f2d7cc995f676cbf4f34c2f81f0ca16a2b12a6832dd95f400c"
+    "recordHash": "04938705175379d5c379b9db6973b899c40c375b6a21378b3fbdc2a5c45d81cb"
    }
   },
   {
@@ -3277,7 +3341,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3c0ba4727284653160ef3631c11d78612b73ac2296bd1e24a5c809c229f5adae"
+    "recordHash": "b408912ef3c352127dd8a83aea07aa2726d80512b3904dcf6be31b1656a8819e"
    }
   },
   {
@@ -3309,7 +3373,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f1cdec7bdc1359d35951fcbda8ef5083aaa4ecea19b0cdcb67c21b79fe6c7537"
+    "recordHash": "186182b02e14fc241ef36726ac7fe3d4ab5ab5f5002e8ca0d32f18e538b1023d"
    }
   },
   {
@@ -3341,7 +3405,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f61b01895b86ee5fb69cb326933c81291948ea338f32503b2b30b034ebe55e76"
+    "recordHash": "e0cb3e2f9ffdd94a40b09d761d0552e882162f409681b6c980597bc57987229e"
    }
   },
   {
@@ -3365,15 +3429,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "multiple",
-    "revision": 22,
-    "updatedAt": "2026-11-15",
+    "revision": 23,
+    "updatedAt": "2026-11-16",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-15",
     "url": "https://droneincidents.com/incident/auto-ru-2026-10-25-302e7f72b7/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5dae0be6f8232e4afa111611fe205afef19fd6039d9ceebdcde7dd484000f6e7"
+    "recordHash": "2c677be582f8e7588500125f0a95e69292d258d0db41ab4c33262086ce723bba"
    }
   },
   {
@@ -3405,7 +3469,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f29e6236c9686d7f54e3e2d7d465c1903041ac7de9fc34481dbc23e485edd911"
+    "recordHash": "98c60d3101f750caf4c8aaecef358f5399522a5edfb4e5e4d7f64f7acdf7af4f"
    }
   },
   {
@@ -3437,7 +3501,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d23374cd9351f094dd5339c51701de84e4294e670d7a749e2a045f4c356c57d2"
+    "recordHash": "bc48657ba7c129aef933fe6a78d18e131af6b73775c13a9895854c9525a8994b"
    }
   },
   {
@@ -3469,7 +3533,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "35fb46330f1daa478e32aadb9d0ce13c4cf4162daa3b50a801e8f2acbbfa40f6"
+    "recordHash": "9b9956734155a87d8e15b80729823383d2c1f48e0fc0b4f1c728c5acbaafc8b9"
    }
   },
   {
@@ -3501,7 +3565,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "44aaab2011961503424e8734a0418216b971e23e81d9210b3b68b8ac15921f60"
+    "recordHash": "d3b3bf265ae829a7ebb557472439deaef9fed893454954f8468213c6d978b8f7"
    }
   },
   {
@@ -3533,7 +3597,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1c3ba68d364bff8e5034b9963d2339568bbb4a81a261b65e0b1667e9eb9802bb"
+    "recordHash": "1c3cce1ca074e9947dd3a1b2654beee9a5c734b319fb297f42d09e03e63fe045"
    }
   },
   {
@@ -3565,7 +3629,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "81a724c5f4d0ec4b094558b4c452edbc8304fbd58adfaed6701a9aa38bb6e25a"
+    "recordHash": "43eadeee731bd92f3f7d7b4c07dcc087ebfa98f3500e85cca7d334a09d7b61fd"
    }
   },
   {
@@ -3597,7 +3661,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cbd71cbc0ba802d16b340d1fc3078079ac701e3907faf13b90f81ffc43748a64"
+    "recordHash": "5e008bd06c34a1e30af2983a0c6af7a696acbf77ca86b2560f47d3a5308ccb2b"
    }
   },
   {
@@ -3629,7 +3693,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b49c71273b849bd0927aab632877350d5a972af8a7a2bbe466391be9db5dba33"
+    "recordHash": "ef2796df47d7232e526b7ddbc0bb823e60b77a6fe1a36a81bd23867403b95ada"
    }
   },
   {
@@ -3661,7 +3725,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e1f4cd29abe11bdf8043dac174628349b885dcc43d66ddf006cfe290882016b8"
+    "recordHash": "a9a9286f2bb5682853ae9e640fa6cb91df2a285c2895a84cc36634196a9f7d8d"
    }
   },
   {
@@ -3693,7 +3757,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9fd4a8ffc17d638dc7f3ca36467e770029d0e40358134d97a2235ac68d51c420"
+    "recordHash": "98ed315527df08cd9e82a91a99cbe28004c26daacbc2a8948300d68c687fdbcf"
    }
   },
   {
@@ -3725,7 +3789,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d6965a20cb47578963458bc8a4cdb511b278a93191fc3b1dd44a3f9463e4a8a1"
+    "recordHash": "a518c0870e78a0a3817feb26228a704c50ffb98eb3b489cfaed2f07e13e636ba"
    }
   },
   {
@@ -3757,7 +3821,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a5c800f72b30410817ac6a718b3e8dc216426340c685b99065d1e9e1be62399b"
+    "recordHash": "4988cfad9b5531d0df0bc3e486a5af9e73e86f4cfaab25dedab5d46c970342c4"
    }
   },
   {
@@ -3789,7 +3853,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "84ec52833f8638f0ed2c42a2415bc64da159c64eb503be87d3b0bf492449d6d5"
+    "recordHash": "335e4506c5596fa45d696eb14ebd88de99472fb8908ae6cc4923f8b704f9a3ae"
    }
   },
   {
@@ -3821,7 +3885,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3501b758e772a6716d2257b45c3e1302f33efadc3316b746207cba193f075579"
+    "recordHash": "19dc389cd18c06319945c60d59b13f67f0bee1a42123b74bc0aa1e6932420091"
    }
   },
   {
@@ -3853,7 +3917,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "855cae4164533607ca94a05907ff5b38d40e072f117e610b1c00ea22aca7c128"
+    "recordHash": "93be607117e4635579680158c18d5aeec5c189c2bca361d475712fcd6b0756ff"
    }
   },
   {
@@ -3885,7 +3949,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4520e119e596d7d30d80267d95d9e3c75e18968d96711ed33a867c5791b1251e"
+    "recordHash": "cc2154dc2a108a64d2251fce990268b32b011bc8e801c2cf5c19e37d2badc498"
    }
   },
   {
@@ -3917,7 +3981,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cec9a594f5cec7de630bd704914d2f358855ce4b238dc7c702f44e179b2ed212"
+    "recordHash": "24a35f864b04f75a68c26b52fa33581a5cf607047a6a411bca6218ff0507c0d6"
    }
   },
   {
@@ -3949,7 +4013,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ecd8cdf098f26fe9572e322e179054abb4e39181ec26a297abf5dd6798b1c93e"
+    "recordHash": "3e654bb48407a41c5aada02d27f3b95a283b51aadbd052f33d121c75d2d88d32"
    }
   },
   {
@@ -3981,7 +4045,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a111eb531d18a7aeae00794ea25610a7a7d1bc8c0f6716915e9ca4251363c9ac"
+    "recordHash": "430c7f5e56c2319ddb0ee806b0876a20ed787cf8bb03ec49d8ba6408b1a7092d"
    }
   },
   {
@@ -4013,7 +4077,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ac0e2febd6b3532c40f0d3385b917405b3ef515a77526134fcdfbafc10b7854b"
+    "recordHash": "07436e1098e3d71c124f77a91a22f660b951514e2dd1a1a09501bcef2cdf81c9"
    }
   },
   {
@@ -4045,7 +4109,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "317640819c9fbb91b272df326c757593632b398a41b4c5f165e286df35ab6d41"
+    "recordHash": "b25e1a4f6795601a12ad1ccc969142ede7603e32f6090efbf118f9b0acf0184b"
    }
   },
   {
@@ -4077,7 +4141,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "79ea1f1b26266f39ca7fc8fd8c22c38704e2cf1aec818824b331f4dc1760a54f"
+    "recordHash": "576b476f095467330e1cd66134cf216d11c7a8bbdb48646df1a58e3a93deea20"
    }
   },
   {
@@ -4109,7 +4173,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e25ea442690374c1548b6eb3483fe939f4f0ede878a72816632d23e163fae86a"
+    "recordHash": "a71e33988e50e1717f90edd754c2dd495cbc0504597f0ce88b2a64d959f3f637"
    }
   },
   {
@@ -4141,7 +4205,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ff67c42d50c7a0921abfdfff05bfdaefb61cdcbe632b981ee3e5195493fefd4d"
+    "recordHash": "04576bea92fe4914dba9b8b8c47ffe5c4ee3c9f7b500f7cc202e4c2a7851d743"
    }
   },
   {
@@ -4173,7 +4237,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ef190efe12eafaabd88e9d1ce50398097b867330426c50374ff9c5c0ab80ba70"
+    "recordHash": "b0aa686258e3b1c1cbf8d9481c2071d05c6e4cf91aaa219a7eb867345bf01c51"
    }
   },
   {
@@ -4205,7 +4269,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7098340796daf0e0bc78cc8de618c7c9108f4babfb07b83d2308c498a67c9fd6"
+    "recordHash": "a81ffbfd8e482e0429538d7781551d82787c8d49c49c98add98de5bb4c42c4a5"
    }
   },
   {
@@ -4237,7 +4301,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "dc0654b57e0ff0eb89159b9ad8d57ab011c56238f2b4d29d344a6351c1437e24"
+    "recordHash": "063399cce5e0ebf4fe718e0c1c6b76bbe339ebe691dfd49e061579e276fc0e9d"
    }
   },
   {
@@ -4269,7 +4333,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e67a928c021e716e2023965b0f025e6d6bf1e6465ffa9dcfabad103173bdb184"
+    "recordHash": "77dc5bf807e1db4f9108e8dd927f551c4069c0d43174f4f049c4e265fe7209b5"
    }
   },
   {
@@ -4301,7 +4365,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d8594fc214d65b43eee39077918d262763fc5d5f2b03355d45f68feff131edfd"
+    "recordHash": "41a20095913420ff05f692f3cc0e766d24564770ac4790ac22bf857b0691a48b"
    }
   },
   {
@@ -4333,7 +4397,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cdab612d8a0fde0e55a3a848c280c795b3ab4639b920fbd6303a58d92fced902"
+    "recordHash": "5c45f6ee3e76d3572d375dc1fd70b88a5de2828a89c2bb248c40d863d511d9a8"
    }
   },
   {
@@ -4365,7 +4429,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "77ea10dd21d8eab2b790603fc4a16e2f960460d07664a915cac27a49bf63f90a"
+    "recordHash": "8c956615f413a728244d760eab1d175012ab68a6b6b28e01ac94d85197046736"
    }
   },
   {
@@ -4397,7 +4461,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c8ab6a71d45f0275c452a4f52062103cea241f53848eded11af7b820c39df2db"
+    "recordHash": "91506f21e5ee5c9aef7827ae3082ba9cf3523c70abccb5b782c90eb93beae9b3"
    }
   },
   {
@@ -4429,7 +4493,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "97a2b7aad21dc612057bb7398ba19c763713025ef6eaff3d2ad0fede1fbd7bd5"
+    "recordHash": "8aa31c7dd4ab5fee3f5c811b676abd5655ec462f9716c47be4775f76433f10ff"
    }
   },
   {
@@ -4461,7 +4525,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "284f46af4ffde1d515a71101d20a01c2357790f3607f32c8b79548aaa229a318"
+    "recordHash": "948feab6cc8d5aef43b127a485ea85567e0aaee46ff4ba6c72ff876dafaa74a9"
    }
   },
   {
@@ -4493,7 +4557,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d5604e127b810787d342b18de816c13457d972b1824511958eb650f7904acc5a"
+    "recordHash": "1b5472d7e7fcfe9fe37efea1f74aa26764beb5935f4d1c550fa3f61da7b00b8d"
    }
   },
   {
@@ -4525,7 +4589,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "72145c1c1149044dd7777e5090a2164edb2bf49106c3cd1656f31ed90b89c21c"
+    "recordHash": "787da63361e43beefdef1a3e1e4f07668aa4bd89a49a3d08be220fdd6c14bfb4"
    }
   },
   {
@@ -4557,7 +4621,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9595af53daed42680674bd00d388fe280d8f51c23cbd691d48f358514ecec13c"
+    "recordHash": "1057d073e8a19689ac3948d8cf173ec99e6381bb89c3fb45792e3e110d8dcc4c"
    }
   },
   {
@@ -4589,7 +4653,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "527e6f94df5008cb8dbeb8b3e2c65a54243643f57a9af73355d94acb5362887e"
+    "recordHash": "ce75781e2c614b6b3409b481ba9d920109ae0959fc212a1997d05a25a14edec8"
    }
   },
   {
@@ -4621,7 +4685,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "90309f1c2c3dbf456f6bdf0a894e3dd13d45060880086053df15291d3c417e15"
+    "recordHash": "254b1043d291e017e45d799327397d681c3e18cd28c9e60cd8333b154bea9ebf"
    }
   },
   {
@@ -4653,7 +4717,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "189b14da6465876beedec9bf83b0ad466f15a4262d8aa31f13fa611364bcf407"
+    "recordHash": "20c38d659b76155f870c4abbc7bc880d1e66ba438295eb94e01081ea60f382c7"
    }
   },
   {
@@ -4685,7 +4749,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6226605a2d76806706073fb91213fc72c17709d9cb407784b19223588af990f9"
+    "recordHash": "5c88a1ec9ec067737e0f642484aa8cad718a7a64c0d28dbb2bf87919d21dd946"
    }
   },
   {
@@ -4717,7 +4781,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "93b32000a47e7cc1cfb0f36dea2203e385b5dac0b9b953ce611091ebeb8d19fd"
+    "recordHash": "083947bbd162df30f30b92a8dee0065bff9b242f12944b35edc1fa3986fb2115"
    }
   },
   {
@@ -4749,7 +4813,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "17539585491905e9a15a8832b10bd92dc607fccda75bbb1ac5c21e7344ea9c93"
+    "recordHash": "9063e1ac4417a0683a17ab002707bcea1a69aba53103251ac7f498670c3dc921"
    }
   },
   {
@@ -4781,7 +4845,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b19188f375f1a47d11a0dd10b50e9637977f1810a653859b3a404909f52eef72"
+    "recordHash": "1029765b9a8f6f47ebfdcd7ccbf0f3567f03075db43f31c2f8a912c6deeec32b"
    }
   },
   {
@@ -4813,7 +4877,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c2536b603c93485b2445cdbcb7988425dcf918c307fbe0d3765b068ecdafb7af"
+    "recordHash": "259671f0a5e9a982754d8d38db4357aaf78287b169614f5f5cecaab61531af91"
    }
   },
   {
@@ -4845,7 +4909,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "959445a7ff4275e0bfbc8a3e0e8d5c51637b9ca56500bce4aa22b865148d54fd"
+    "recordHash": "d05922704d65c7cc6c52cc5b626d0df368b2fa4632e711afb8b06c563d16d657"
    }
   },
   {
@@ -4877,7 +4941,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4d778e7ff678d20e4471cf5ac7a24f080d801bef4ee54da1df70eb70c68a1418"
+    "recordHash": "e9565a3ef4bda6633d8b028852579544340a91bbb3cc75f34bf8d2483e15d4f2"
    }
   },
   {
@@ -4909,7 +4973,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "92f4f46141ea0828803ee404bf15ee915b0ce9c18017857713935f925d621318"
+    "recordHash": "9f940c060836fdf3a5ef49208d0f2d41098a8ba8e77d48765d824f6cc195db4f"
    }
   },
   {
@@ -4941,7 +5005,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "992cf00589e52f36a500a8573a3de9075fbddc1ca8c46446fe97ecfd700b9a77"
+    "recordHash": "814771ae3ab53c33f2f431fa343c8a2bd2d12033bce2f06c44d1b69c8652da88"
    }
   },
   {
@@ -4973,7 +5037,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "78f1804fe2e7c21beef50ddcbb58724f4df9de002c04a62e625b0dc129c3dc5b"
+    "recordHash": "a9424902e4c0e0694b6134d7656ff36c3d41bbdd8153b14611ce8e62c8fe3037"
    }
   },
   {
@@ -5005,7 +5069,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d84b67b381276be03d3db52dd7a01154d064bdffcced6ca963f78b4e6cb69b97"
+    "recordHash": "4995aae2a4060b8a95f34afbc1b819afb4af219d7f46da005cab713592b08c67"
    }
   },
   {
@@ -5037,7 +5101,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "06f82ad890e83ef50ae596e2ee22edf92a53274335eab47971490bdb79a7a3c3"
+    "recordHash": "ed31aaeb24191f2d0a01a96bc56b84aff50352cc19f54137d4c9e1a10e17267e"
    }
   },
   {
@@ -5069,7 +5133,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c3b5f5772e6f914e60c70c4f49fb107cd1c84bc6bfebd02ea0bd642d374290e6"
+    "recordHash": "986cbd5c6aab0e856379c9cd8c2a563b3fc1de5e5ed818d8fc97a11ab6bc2f7e"
    }
   },
   {
@@ -5101,7 +5165,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0d17386573c9b7114c28589f7b2699bf8746a0c7d60f3cac37fcac8ef18746b3"
+    "recordHash": "60fc14594689183feb55f604cd819a70bb4afa8b7da9a9c96ffa35dfbc0808bf"
    }
   },
   {
@@ -5133,7 +5197,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3db12d2795bb7fc5cff2b90126709fa927b56d087ef99866a32ead8e8c7b813e"
+    "recordHash": "10e4ffecefe311f3c34204bccc683c0e59ce0b9bfd5e3d4bbcfe413395f833e6"
    }
   },
   {
@@ -5165,7 +5229,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c94266df4a0cff0e9717ffdcc62dc9f7646e56734650c2a963a2ef70895440b0"
+    "recordHash": "24d2135374b51f0bb12b56f7e4de5ff6910658e6e5d9f6a1dc9b355721efd4c1"
    }
   },
   {
@@ -5197,7 +5261,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4e1fb01d657273f4674f1e6f4c06159bc0d5a21b5a738c0d75c2a4f427e75c0d"
+    "recordHash": "5a8eb4c9d3e349abe6fd150109392390cad35fdbfc643940ac865b05d07934af"
    }
   },
   {
@@ -5229,7 +5293,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2093917573b21e7665b7c52c1047cef2756c8022251001a16cfe6d6f5d813601"
+    "recordHash": "a46e224d386cd3c763e42d0b2eb12879e31de3d18a7293d783ef774b295273d7"
    }
   },
   {
@@ -5261,7 +5325,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6697697a5f81a71cd32d165dbdbbf6211d8cb2c0885692feb93a12a014cbb374"
+    "recordHash": "b9c48cf293151a41a407f4df807a4b0eb3745e20cf4dfe38d7121552e72a5cf3"
    }
   },
   {
@@ -5293,7 +5357,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ddbb58132b8e606da57b336b64ec47c1c4c0bbd156459ac7b2d606f9993e8bbf"
+    "recordHash": "0fa00049198f455c3fef1b9ba5e4b9c4fd5082ffbfd3027d71018797c703d2fa"
    }
   },
   {
@@ -5325,7 +5389,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f91b6739419e5d5baae1b1fc3a06428572e606503be0b4bb0967a1b47852aab3"
+    "recordHash": "e0161ec71de5b30fc116122981039db50931f868d43f0e97c95898a6b40d4262"
    }
   },
   {
@@ -5357,7 +5421,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9b884eb53623b797c692adc4e0638ae22b987741ae7db25f93022b989dbd4a8b"
+    "recordHash": "6d85829fd285d698309ae1d662b0c3420589a4342a06509cd5c587758a18261b"
    }
   },
   {
@@ -5389,7 +5453,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c649f8196ca9f08caa33f411d7ad93d92291ce3ccc79de30bb8202a22130e269"
+    "recordHash": "3b7526f48138619f02574e6eea2caa472233bc4e1aa90c603521b0d1e96be7f3"
    }
   },
   {
@@ -5421,7 +5485,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0864c8486064640c82461998787fabb8d197113f0a59a05702daaeb0eeaa506a"
+    "recordHash": "c3b85ff6cc458d744134de0f5a2db97ed43ed73297c60b028bf3a2b4133ea438"
    }
   },
   {
@@ -5453,7 +5517,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7cdc554358a6f374ad6cdbf6c24ee7a48ce2f90846b659b153c2b002b895f5ee"
+    "recordHash": "0736a490ce902133e79f9edaf5b36232761971db376cad7aaacb4c604535e1e4"
    }
   },
   {
@@ -5485,7 +5549,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "89d2d00d3c3f7e7bee487401f56fbf1eb9a0509600d3582033e1687dbb976d35"
+    "recordHash": "777a84105dbf4ade4b2b8a9ab32280c8c658be3a2ee61ecfbd47f8ba6eaa1c91"
    }
   },
   {
@@ -5517,7 +5581,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d062093d1c14b8d158a8ea9e8ce81748622039626264c053db3a678df347634a"
+    "recordHash": "9613d627474ef1248d5c3eeb31bfac6ae58b122c5036aedb838f814eabc7f2bc"
    }
   },
   {
@@ -5541,15 +5605,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "multiple",
-    "revision": 24,
-    "updatedAt": "2026-11-14",
+    "revision": 25,
+    "updatedAt": "2026-11-16",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-14",
     "url": "https://droneincidents.com/incident/auto-ru-2026-11-13-2882acdbaf/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "83d769d5f173ca710a13cc7ca4aeccc9a3903db450ce53147c170a86bf5024ae"
+    "recordHash": "e0b10ac3ad1190c47ca8bd3fbdeca38ff7e8a80acafc8f73c38e829909bdc4da"
    }
   },
   {
@@ -5581,7 +5645,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "54ee8f17002b3082a8ac19d7aeaa289d93d074801c07fa2281f1e317cbbefaaf"
+    "recordHash": "40b746784e535e3547652ad2e6ce4e00ddc491b79aa4ed99f8eaf97c9f1cb22c"
    }
   },
   {
@@ -5613,7 +5677,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f02618bcbb87ce24a4332cf32da0e422e4cd0192875415bdb561eadf480d2502"
+    "recordHash": "b8d571fb99525403909c5805123415861bd669c48f6783ed1d1aea2f6d89bdac"
    }
   },
   {
@@ -5645,7 +5709,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0b682681ba1bc7554bd02d77ba5bc164e9e24ecf0921b07df5c2e1b0ab3f9c67"
+    "recordHash": "1d1101528916612ae12ea338edf6f9b5306d0816a24a4381be94e82b12542c21"
    }
   },
   {
@@ -5677,7 +5741,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0da5744581ad5d36be7e78fdb968404e8dcfe9d076146314abb7fafb551fcd71"
+    "recordHash": "28da38e9b3e5e9396d421b28c4210237a5b98752996fdcaaa0f23a60ab37dd62"
    }
   },
   {
@@ -5709,7 +5773,39 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "de8f9357b4ccb8f79c75393f81fe8570a3c73ee1a6269226d0747a8ecb14aa12"
+    "recordHash": "31aa97a67d2db8549a7ec80e8c52acfcdb11071cea748fd6d7193db37bae72fe"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ru-2026-11-15-16bb9f6582",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Oryol oblast, Russia",
+    "place": "Oryol oblast",
+    "country": "Russia",
+    "countryCode": "RU",
+    "date": "2026-11-15",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-16",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ru-2026-11-15-16bb9f6582/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "3f9c47af4367fbd9eaa209e942ba336bd3cb3bc413cf7af9515b3e63e34c2a55"
    }
   },
   {
@@ -5733,7 +5829,7 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "multiple",
-    "revision": 8,
+    "revision": 9,
     "updatedAt": "2026-11-16",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-16",
@@ -5741,7 +5837,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "12b03a5dc1800f72854fb79343049bf43fa847525c1298a4c77094579ea2e017"
+    "recordHash": "32054a2d161508e211de832a104a32cf6f246023fa582b2765edfd837146e742"
    }
   },
   {
@@ -5765,15 +5861,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "multiple",
-    "revision": 15,
-    "updatedAt": "2026-11-15T09:44:40+00:00",
+    "revision": 17,
+    "updatedAt": "2026-11-16",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-15",
     "url": "https://droneincidents.com/incident/auto-ru-2026-11-15-adceff7384/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8b1418ce5977ea2af2fa21b3841a3c4dcfea34ea1d630b5979c1bcc562adbb5f"
+    "recordHash": "f5eb7b04df811341f6128826b3084e4372289517795c2c0cfbb81296d2628280"
    }
   },
   {
@@ -5805,7 +5901,39 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ed10584e564d788ab6200937a1e15ab3ab14318676f108da2f4d56a097d4640a"
+    "recordHash": "68d2d804cf3bb14bd84d76b2e48306cf3ec6108e4655f21c92da2d9c016b895c"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ru-2026-11-16-16494fdb39",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Belgorod, Russia",
+    "place": "Belgorod",
+    "country": "Russia",
+    "countryCode": "RU",
+    "date": "2026-11-16",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-16",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ru-2026-11-16-16494fdb39/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "70b5cf74095b51769c49003181319008b9eb0e3f0b1a43c37530cff526e93b71"
    }
   },
   {
@@ -5829,15 +5957,47 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 7,
-    "updatedAt": "2026-11-16",
+    "revision": 16,
+    "updatedAt": "2026-11-17",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-16",
     "url": "https://droneincidents.com/incident/auto-ru-2026-11-16-1e6ee2f395/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0301790c382d67e236c1479737dc95cbab29e8a014a2694589c8fcede335a83d"
+    "recordHash": "b8419d73e7ce85b3c189c1a0979a047a77e26eb286d45b78af256ddfa566491b"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ru-2026-11-16-a5412dba3a",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Azov, Russia",
+    "place": "Azov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "date": "2026-11-16",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 6,
+    "updatedAt": "2026-11-17",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ru-2026-11-16-a5412dba3a/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "629445985f8e02e4235d53741340fb99d9b33762d7e1a8f1e7f39eae3cdb4c5b"
    }
   },
   {
@@ -5869,7 +6029,39 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ecd74a2907857574fd5919ac0703878833143d6d1a8f37b25b8b893378fac48d"
+    "recordHash": "f87fe9078f00e721bd4b5a777cf1747ee8eac583a1f0f19b4fcc4e98e9ed1f69"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ru-2026-11-16-f4153887a9",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Rostov-on-Don, Russia",
+    "place": "Rostov-on-Don",
+    "country": "Russia",
+    "countryCode": "RU",
+    "date": "2026-11-16",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-16",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ru-2026-11-16-f4153887a9/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "d26d42178a0bec8571094716acae8f557834fac224716ece0c284be81177e2cf"
    }
   },
   {
@@ -5901,7 +6093,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "57471e9c128198379ce9d49e1f3ddc52175e5a9bea17c03579a7098487d5a011"
+    "recordHash": "9df21e3069a85bfe55c80589a2a7254dfcaf4c0e427265385dc3d4803a56e5ba"
    }
   },
   {
@@ -5925,15 +6117,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 2,
-    "updatedAt": "2026-11-13",
+    "revision": 3,
+    "updatedAt": "2026-11-17",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-13",
     "url": "https://droneincidents.com/incident/auto-ru-undated-2ed6febca2/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1275e2c2f098cb8ddf201e803964419053252bf116969fcc6f05ff1ae806bbb7"
+    "recordHash": "dfcdd456263aafadd43ba26405c8cdc348102940b16de7932e833c1fb323af7c"
    }
   },
   {
@@ -5965,7 +6157,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9e34c0a76ca1ab1ca633c2189dc0f1e101e07838cbcd6236aa44b38ebb1f6446"
+    "recordHash": "b8f4ab633e8d73a522e6e66896664983b7e01d75409eec45f50072f4dbc7e45b"
    }
   },
   {
@@ -5997,7 +6189,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f7c6e7f986cf7112ed7b1bf316c7fbc8f506d610f1ec59c4abc84041fe9eb545"
+    "recordHash": "827f47796e0bc6cb9542ed3b00cdcca84931068a6b52d95407873f04356c1c09"
    }
   },
   {
@@ -6029,7 +6221,39 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a1cec71845e46d9fa37c44b7200c0dbc7feb00a5153a380d0e3f417c764dded1"
+    "recordHash": "e063fd6149f1684efe629606e45f92d200117c2ba9cf0a12e50042cd3a11e185"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ru-undated-79192635b1",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Krasnodar Krai, Russia",
+    "place": "Krasnodar Krai",
+    "country": "Russia",
+    "countryCode": "RU",
+    "date": "2026-11-16",
+    "dateKind": "statement",
+    "windowStart": "2026-11-15",
+    "windowEnd": "2026-11-16",
+    "windowBasis": "source-relative-evening-night",
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 3,
+    "updatedAt": "2026-11-17",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ru-undated-79192635b1/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "0522be64fb9a0c40b34d9cfcc4e7bdead2b9ebb68ef3284d69edfcf8d7416815"
    }
   },
   {
@@ -6061,7 +6285,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "26dd4c9bae054ebe3a40e326e312c1df66ab5836b0d3e47a77cc2cd6f284cba9"
+    "recordHash": "b98bcabeb4542166d3331d6af52c2907b0e99b5908f726b44b6b801659518c79"
    }
   },
   {
@@ -6093,7 +6317,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6bf57228f4652952af1f003c889bf0046f153cfb38ec03757e6fa71b93ab5f53"
+    "recordHash": "bf4f326988ed4ce5b5953c2cb66ea26f305f0c9cef51fbe13bc5c97b5810b3e2"
    }
   },
   {
@@ -6125,7 +6349,39 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "865ca3302f73e5c7d930ba057b11f097c557e11fa3e002621117086dcd69ffb7"
+    "recordHash": "04ce3f8ca5dc469e38802ff947ddacecdabdf1120dcb7ef5b1c58fe349504f86"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ru-undated-bd184d6de6",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Bryansk Oblast, Russia",
+    "place": "Bryansk Oblast",
+    "country": "Russia",
+    "countryCode": "RU",
+    "date": "2026-11-16",
+    "dateKind": "statement",
+    "windowStart": "2026-11-15",
+    "windowEnd": "2026-11-16",
+    "windowBasis": "source-relative-evening-night",
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-16",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ru-undated-bd184d6de6/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "449c84fee959e602d73a2983617849eb3828c7c82835aed503ece44abb1b65cd"
    }
   },
   {
@@ -6157,7 +6413,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b46b448b6a867bf97c2affac42fac9e5367be8a70acf4d338953f7ff0b3e69fc"
+    "recordHash": "e4b0bdd019de6295dc5de67120ee96c7410cef2e69af4daa8da83c3a2b777fa0"
    }
   },
   {
@@ -6189,7 +6445,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d00665ab04e7add258ee577273c1925231f1c01967f2dd69ad444dae501f8e67"
+    "recordHash": "b206924758e4eb830ad8afbd0a5c211e1b8140d0de4f24c688c0420240949c58"
    }
   },
   {
@@ -6221,7 +6477,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "53470fbd3b2cb8c0813e0ec800d7e5cde2b39b096c7b2b08df37d6662da7ed5d"
+    "recordHash": "9e912fbcf4ae46d7f45d4a0ff5ca947ed87efff3ea8bdfb7fc257bbf9331b7c8"
    }
   },
   {
@@ -6253,7 +6509,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9687fef25e32429e730701b5cfc1f5dad9f16264300b4e3af40530e2f528020a"
+    "recordHash": "04555b6d9aa9a6340e236373da761060db12fcfc6e7cda998eacb2bc2547df65"
    }
   },
   {
@@ -6285,7 +6541,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d4859b2c3b46515eb6fb3fe24341b70b73411a65e38a7273242e8c9b8a74ba6f"
+    "recordHash": "44274a530eb4ee301d415d3ef6b5e166059369b8b427bb32a18740fa11a7fe8e"
    }
   },
   {
@@ -6317,7 +6573,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b33876be24a258d94fe2692bc537b1c913e64aae480fe20b8c57592021b01d39"
+    "recordHash": "4fbc6b5c460734d6a702eb13485f113ab9a2f8d31e1dc06f6e889e32f118d1a4"
    }
   },
   {
@@ -6349,7 +6605,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e87f09c6c70d02d2aacec4de408248f30754bafcea6c9c53a8ee5ebe12b6b023"
+    "recordHash": "6b4dd1e6ea24d42ada5679844128669b6db41debcc052d5f1191c7407e410e90"
    }
   },
   {
@@ -6381,7 +6637,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "66600818ebb60b84b78aeb8d7fb4fd3536d3896d962bd2f2b5fce9cc1253b351"
+    "recordHash": "efd33c81bbabfdb8b14f98b183a28880a2cb86a647069aa678b6ad3bd3635c1e"
    }
   },
   {
@@ -6413,7 +6669,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "fe42dac8d71d7cbb8199314fdebb5471686e8adc7b43315f46f713e63cf19a1d"
+    "recordHash": "6b5c04586af521fe50d249bac80024455c0046b738714a31920b2f9735662980"
    }
   },
   {
@@ -6445,7 +6701,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "bb6c05196885b4f64bbe858282cee2ec34bea17d6bfb20f25cb0630cd9f3a2c4"
+    "recordHash": "68530e10018c602eaeb5d99df790474736750ea2f3d87ef352e0781b4fd01fc0"
    }
   },
   {
@@ -6477,7 +6733,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "14f547d03ae1cdbe1f185b3a63c51d7af5a6a526a241af6c2b39f3e21bb21c42"
+    "recordHash": "66c18d46b907f6469d5cb0784412bcacbe67817b4d69843c9d4d56a99c39ecf6"
    }
   },
   {
@@ -6509,7 +6765,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "304b925aa0fef65692376f9851192685e669b17638b045591a0da719cdfceb54"
+    "recordHash": "48201cbb454d574b53e3f53c8f6292ada831de81c6c9c6a9b456b26bc05fc51a"
    }
   },
   {
@@ -6541,7 +6797,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "63d2dba1b0a3ded0fcfa51bf633a2b9791a931e8a2cca547c1db7672dfc9d534"
+    "recordHash": "612246a03611abda447c9cc8371208cc7f9678017e3eee5c938431328503eda4"
    }
   },
   {
@@ -6573,7 +6829,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e1a5136dbf3a33e9388b2a37a47c66bd1ba0c991c887f618ba4ac75a07e5d950"
+    "recordHash": "60ee7f1603078a43fd7a382db18f3bc64bdfac1e8585f1e771a1b1b78a852329"
    }
   },
   {
@@ -6605,7 +6861,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3948c5e35f7993996f21c0ce7df2a34eef129fe1f2939bc5fdb59a97b7be1fd6"
+    "recordHash": "e55209ca62e4c8483dd60b0ea34efc6b01cae8a8bd5d1bbff19571168869b6e3"
    }
   },
   {
@@ -6637,7 +6893,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c49bf6c3442800f6ca50f5cb068c105b2b5229b1148a2dc2ff230ad46401b7a6"
+    "recordHash": "7302d9a3e4e8549c57057568ceecbae066656c4c230c814d55485ee56e22ae33"
    }
   },
   {
@@ -6669,7 +6925,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b102ee504fd4c917a2b62f184f47f50dc0dbd2e552c1f4ce39184d17d60bf3a3"
+    "recordHash": "184cb7d409716c4b179f5992805e2b3dd4a4522f3c20faf6a27c6a0c8ca978d8"
    }
   },
   {
@@ -6701,7 +6957,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b46b75f9ddd663f41635fdefebc0965e8164e75bee4a95fddbcebcfd9a654a36"
+    "recordHash": "b3356e339588b72a2404e2b796a6753a0a910e60362fa33dfe29f8181ee1011d"
    }
   },
   {
@@ -6733,7 +6989,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "aa07e81fe6d80970b3a8226c9af89da258bb9863726cb63d151fe2b7f01cbb5f"
+    "recordHash": "d21009d30da39af54a3bd68450de231dfe998d567344470fe979a9903fa2b61c"
    }
   },
   {
@@ -6765,7 +7021,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2e91b91ca3ade9e6a1899be486953d9b6b513e46d776f49af55b0e29629ecaee"
+    "recordHash": "9c35ec91ddf9c4c60c5c8c6aaf554ea4e7d9e4e86a582640bbb49d31f2aaaad3"
    }
   },
   {
@@ -6797,7 +7053,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "683cae0c054bda7cc32c60f9dd2cf69085cb66b3f33f4070f9447d010b18092e"
+    "recordHash": "95cd0f456878a1ed16d2ec8578b9f8d0c571df2874da0a265f8fce6ddbfa45a2"
    }
   },
   {
@@ -6829,7 +7085,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "69012e920dc60945da8b0a499e267898cb8015ebacd0f28b3ad4f99641f045f9"
+    "recordHash": "c816c65c8a5c45c26fd7975dbffac11acd3a7ed0a25ac40fccf19ae6e46cd632"
    }
   },
   {
@@ -6861,7 +7117,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e0762ef306ad53f077ac713bcef728193e4fa9db8f4eea42bf5ee72d2a80c322"
+    "recordHash": "fc6dc63b037ca0f02091824269f99319818fadb461500faa1ecf72713d227a40"
    }
   },
   {
@@ -6893,7 +7149,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "33541e3b4b0c6b834b93d9017f6e0881ec4c3f08418f033db57dafe405ba5e70"
+    "recordHash": "b5a6dae18b121afd57196139d5621c86dbbc939667276a23585605f96b6b6865"
    }
   },
   {
@@ -6925,7 +7181,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e232e486f89daa311acf518313e51ba84c11c09918b0c9b7c67512c99553894d"
+    "recordHash": "47f3a5c0d1b717a87addba2e791923dbbb37b6f61f0706a13e06d5ba41370e91"
    }
   },
   {
@@ -6957,7 +7213,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cdb28dd1bf363d4bace40a75a8104ad5380a4cf961449ec1a384dd4545bed4da"
+    "recordHash": "c51f4f9968f37d1a353a1ab5e32e62735b683c95be82960a5e8993da5f6ead87"
    }
   },
   {
@@ -6989,7 +7245,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cbadfef92c4b2aa108dd222b8391d35eb66816ffcef7aa6abdddbe8367cd4b35"
+    "recordHash": "61e61897f83bfa3f8d5aece0507c08d61b7d393e018c28c3dc7ef5a5d0b38874"
    }
   },
   {
@@ -7021,7 +7277,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8a0f61d1750e26543d31ab02120d31f10c88f8eb8818714a544bb2838583e428"
+    "recordHash": "4900ca26da3d12c52683ad4010bf36c6db9ac92b43fff53624a43ff1c5259c7a"
    }
   },
   {
@@ -7053,7 +7309,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f1d55e842f940f38aff013741df466e7a83eec28a2359ccaea7e9c5fff20259b"
+    "recordHash": "5d86478566d7aeaac18f2ab2a8854733ed8b223c6420369871c997d291d93b4b"
    }
   },
   {
@@ -7085,7 +7341,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c3676795f9a0dc16b71f4b2a8107a5b35925d566f576e2d202ea4b85e0359877"
+    "recordHash": "7882fa13fe85a40d639b638abaeaf2a73ac37f561f5ed2d623b3a623549b8f58"
    }
   },
   {
@@ -7117,7 +7373,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4068ab218bac96fcff8cc38893e21b29ea3cbea0e47d75335d020fdc1cbc1715"
+    "recordHash": "ff3549e616b3f429ad03253a509c433d76df7211f8ab669e5dfe5276fc6e3321"
    }
   },
   {
@@ -7149,7 +7405,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3a6c5b2365440d0fc04aa054d8414a4039bc192e48f1433f58b356d85042515f"
+    "recordHash": "4a987a864e8dfb393dc0318192656303b5140a5be64838c3f008ce388cec9778"
    }
   },
   {
@@ -7181,7 +7437,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "104f8aeba919e382f6d22f11e812d9e31355c23377bc81cd98b36b055a4aec21"
+    "recordHash": "230a51fe969fd639f8b650ad0a5cd1c0cedb8d212756dc99fb1d3a3493ae0a55"
    }
   },
   {
@@ -7213,7 +7469,39 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "71796029becdf9bc4f630c20d98bd6774775ac0396158e336cb52bd9af0786bb"
+    "recordHash": "55c91e850209946dcfe1b3bd0e2389e8186b573d21c04d3d95732d6928d99be5"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-sd-2026-11-15-00575ca198",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in West Kordofan region, Sudan",
+    "place": "West Kordofan region",
+    "country": "Sudan",
+    "countryCode": "SD",
+    "date": "2026-11-15",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-16",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-sd-2026-11-15-00575ca198/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "5fc2d8d56622a46766633ffecb2a5200ce79c5ae61c31b318f96ca1ddc7a5181"
    }
   },
   {
@@ -7245,7 +7533,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "336ab884206e34fe434c302c4689253e9ae6fed91122777b6d4069b90eedf601"
+    "recordHash": "9ebc4619245e3cac683d5082218c52fa8aab56b446c8f59d0c84f3365e1fc53b"
    }
   },
   {
@@ -7277,7 +7565,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "573eaeacade4cacde8bb8bcc1b9a8d766397c94b88c906da95192e463341580b"
+    "recordHash": "ed0f9c7e9010b1a1f5709448b3b127cb7d9f496153bfa7af53d9a75c7f1a86d1"
    }
   },
   {
@@ -7309,7 +7597,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "61881909a2d72a4da9d2cc9bb10e5b179d63aa528809c5f086af0e41d629c67d"
+    "recordHash": "3c9eedaa09c932308e0cfb2c8072e857eb263b1305e9cba13cc56ba1e7c32c3c"
    }
   },
   {
@@ -7341,7 +7629,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "91406a36353dc1557eadc531a48bbf47860cdbbf7730db9e4d142dcba4e566cd"
+    "recordHash": "3e6016b0db14fcb5d6075b12483a8baf3a3b318484be03c54bfbd88a17c07eac"
    }
   },
   {
@@ -7373,7 +7661,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0c45f4e2320b6db54681f41a96f06a4c93f3098ece964c94112fc3d2b2364b2c"
+    "recordHash": "50720f5c80e833ee4c8794a8a403aca606213680550b0cd570f2a4d0a305b9ab"
    }
   },
   {
@@ -7405,7 +7693,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a635ebdadb3495fe4b90221f0e35c9e097c9ac480da550d2aa38fb224191de7d"
+    "recordHash": "ebab63f10ecd7eb2b3fab1cce8b999d3a0508154094e0b63cc769bf532e6d2fc"
    }
   },
   {
@@ -7437,7 +7725,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "28a30acae02c1f97bcc2eef400fc43a341e0c9baf751791fd21396afa273bdeb"
+    "recordHash": "6aeddff91146c3d79ee7bb90cd66a829a838c1ae3ef41bf1d03afbc85e2fe52f"
    }
   },
   {
@@ -7469,7 +7757,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1776de78f9a2551156f1588beed97a69deab05c8e3ef4ba456c82fe0338e0fba"
+    "recordHash": "0290ae75bef5aa7f4987ae36caa46ea07140729ca9cb7bc68be7c1f1565038f7"
    }
   },
   {
@@ -7501,7 +7789,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1a0d2d515a901640a1df0bed20c0182a1352da28873cbf896338d71dadd453b3"
+    "recordHash": "618f774953ec2540af87fe90f7933959197258dccbc4f194de21609e256b8743"
    }
   },
   {
@@ -7533,7 +7821,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f635e9d9b24d98b1b17d8c1f5aa48a34f7d82d60098904a287ca6c5e0d58bf68"
+    "recordHash": "ffceaf130486f3213afd36c5d113178f326dc900c02d9941838befe81cc56a3a"
    }
   },
   {
@@ -7565,7 +7853,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "97ac443068393fbcaedc63a69431259035d9ba55567dcf15a87b502ff13b9d41"
+    "recordHash": "76f6b81ed7d2ea3ae637326438b27704a8c88d04a2069882729f7454904465be"
    }
   },
   {
@@ -7597,7 +7885,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "78a0d25ba9d8f73ccd72d14b98a79933b54fb48aba299d64209e54950e74df44"
+    "recordHash": "a07361b3c92b96d0c4b6f8e4fb4c20eb28c4bd33399bc83ad43ea6fa99a2e769"
    }
   },
   {
@@ -7629,7 +7917,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6ecffaf8262b467b48befa5dd4b8df6520acda4d65452cb4d4e3a159e354b588"
+    "recordHash": "21114fb33f610d7deb55012e0a7742590f801c8654b9a0423b790a158452ce7e"
    }
   },
   {
@@ -7661,7 +7949,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e34ec03a3b83146e17d6a0ca466bae6e81695fa20fd8ad2c4d522862c1b42c8a"
+    "recordHash": "2ba01748ec2678b5bb5197c0b43cfb3b9de2581317c12c116373d5364179b5ce"
    }
   },
   {
@@ -7693,7 +7981,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "39bd0621b136ca0b7ce96dbeaa46b8b9abfc09e6dd95afeebfa8ded7b351f7c2"
+    "recordHash": "1054892204e98f382dfcaa7902832e2f4d1f3c4417a9325b4408540feb48853b"
    }
   },
   {
@@ -7725,7 +8013,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b93f54789051b4b979cb6f1689569c7bac72c381a8b102daa01a9d05a35f3878"
+    "recordHash": "ed143f407cd93a15864a16720b7cb66b1222173f4d7151921aa605787b23b7ad"
    }
   },
   {
@@ -7757,7 +8045,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9bb5a5be4938ab8bed7ec0a1b619fc451145edc4a9c9d5aab6012844149f1b12"
+    "recordHash": "2d4f00c1858bb6305a460e4ebdb766e27e1bf5257ea3df94f99fc03d467f179c"
    }
   },
   {
@@ -7789,7 +8077,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "82fbac2ae919c4d84df89e591ce166e846bcfa3661d0ad301b12ad05e1bb3959"
+    "recordHash": "edd5f15ac8bfd9958906c04330623290f160a5df5f0f2ad109a1e0c3d363cf5d"
    }
   },
   {
@@ -7821,7 +8109,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "552d132e0ddbc4b0fac6ef5c1d3df5c4e3d7c175e4db9526a551b0caad6f2766"
+    "recordHash": "f3a00da384f981e51baa03a4d17996242e56e3c197c0855f9b92b52289408c97"
    }
   },
   {
@@ -7853,7 +8141,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c18d9818770492602580208a20c4bd356047109f7429d36daf1cf23b65622910"
+    "recordHash": "66af46eb54882a40690587d205008a878827bd39ff9a6f270a2a94334bb19d92"
    }
   },
   {
@@ -7885,7 +8173,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "90ae3d529b7d48abcb2995ff9af07606009842ba6593137977879327a6fbcb95"
+    "recordHash": "b367d1e80e4307bbbfcec0959fd4b41926c26532c5856d78ae2d1ab5129009f0"
    }
   },
   {
@@ -7917,7 +8205,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4ee666c51b2c7c6a8286037f40669f2b1a3da3b47cd70f5ee25d65b8278245f1"
+    "recordHash": "ba6f1fd2060bba78a59cbb36cae732204c59bba5e7fda2cd0913f2331255bd06"
    }
   },
   {
@@ -7949,7 +8237,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "932d2356ca4abda87d5c3df7917fe704a00515f5d5cfe9593f6f92a14d850190"
+    "recordHash": "73e017ea69dd947fa2076e27a2497e6db90cdce214cf45cde452e4d0550d69c3"
    }
   },
   {
@@ -7981,7 +8269,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6091392163a587ae088413bdd97f845a83a552b9c66e3b5d8a53372ead0f57e7"
+    "recordHash": "6a4c6e6764fc5dd0c190cc08301473be94a763092e73b982ae8166214479a688"
    }
   },
   {
@@ -8013,7 +8301,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a44cf963facf4df603c9cc5e57150df05e4a044c12a2a2b1272e63f1a142a13a"
+    "recordHash": "81131c03ea0a4b404337df3c34a47cf9b94b54afed11c63e9f4117564ab1c76b"
    }
   },
   {
@@ -8045,7 +8333,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "097987a6fecd3d42fd8a8b1691da31df51d40fbe1cb2b195ad3ef3baf7e392ea"
+    "recordHash": "6ba28e14d51c7d85d7675c0c5bf938e9b37f0d86570b00a6f9d6d90b502cda0a"
    }
   },
   {
@@ -8077,7 +8365,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "22adf70670019ea4473689502d64cf24aa6d32d77aa0bdf9564d3f25fd378f7a"
+    "recordHash": "74e9e83cdc6ea193189986aa152b1879c8d215692a1e58487e430b4278c0c657"
    }
   },
   {
@@ -8109,7 +8397,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d35769f874c881fc33ee340c3ec0fadc76a94e045caa6193ed73c332a6d144aa"
+    "recordHash": "f769bb254ddad101e00a6055ac38854fd001f22f58603c9fc2bc1cd85317f75d"
    }
   },
   {
@@ -8141,7 +8429,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "96a1763b71fdd803a5a248314dec55b9d333c169992952b5279854cc9005114a"
+    "recordHash": "8ebb7bdfcfabe8aab6c67d93a7666a7ed0a9a2c80b00a250593385cbc9954b60"
    }
   },
   {
@@ -8173,7 +8461,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "35f9a88ced42d00dc64d528d10f7f83ebfa6a09c49bef445753b3f471bc61c51"
+    "recordHash": "b9745855c663c0d6752df6b0e9712c22942656256bedf37bb228e69c618bb062"
    }
   },
   {
@@ -8205,7 +8493,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "622aaf8173f95a17f1f673045e59282b8681c8ded11b659785af8f72e7de4066"
+    "recordHash": "0ba027de85f3bfbf898f28973d879b05cb80aa0f218c434bb21705623d8e6745"
    }
   },
   {
@@ -8237,7 +8525,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7d5911f4edfb73dffd56b05df63bfddd5c5a107cc53f1845577949bb3405c0d2"
+    "recordHash": "8be8c8b2920b032b437786ccf6eab733abcc1029eb91a940b0f2768c423879ac"
    }
   },
   {
@@ -8269,7 +8557,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "432e1deb9b237712c0d34e67c6610a6eae638cdae824ade1f600585954846c37"
+    "recordHash": "c897df82c19a20577193e356aed4297366218c7ef8a5a643e5fe8318e759a114"
    }
   },
   {
@@ -8301,7 +8589,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "94589b5f35552fb58107ce9779d80f5907be78253fdd4f669a008187b2879e78"
+    "recordHash": "5b6494365082d7022fce4ef7905f3067dff8b099b9650105a7bc72e4a186b177"
    }
   },
   {
@@ -8333,7 +8621,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "333741542a3d3fe7f2e8a05f432cbae200c9eb8a1f8092f9f9a7b4eeb9f9fb35"
+    "recordHash": "0e9c6308099cb1790c9eb5388ea4eb4942cebe2f482f7276d711f9856462b1eb"
    }
   },
   {
@@ -8365,7 +8653,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0f1e18cda7909183759a7ff2829690464a72e6c009599429d05877ba282e5d85"
+    "recordHash": "4af8a9f3745cc710ebe0da09efbe63709b24d7260c961107a252fa46cbca0425"
    }
   },
   {
@@ -8397,7 +8685,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "77951618aa9e092217dfc5723ad54c8fc640e48d3f5adabffac6b9d0378a4871"
+    "recordHash": "6d76d899ccab651a2af07ba9f980fa8b5d70690ea040ffe76403d46d572b5f93"
    }
   },
   {
@@ -8429,7 +8717,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2fe0e914c760720cba54debcaa1cd0a78ac7c05f65f01f55248ae4888836cd42"
+    "recordHash": "bff6390ed7c1e5fe3e97f62316a8e8eb5501b65dd030d9ed791a8e871c58d9bb"
    }
   },
   {
@@ -8461,7 +8749,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5684f0998488987a95638db6bea5c76441b05bf4fa91d7afabafe4ceafeed725"
+    "recordHash": "960951a496a106431a7db37dd904ba792ea3d130be086ff9a900f3364b684470"
    }
   },
   {
@@ -8493,7 +8781,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9cdf0995f35d4661edb67053f3fbd8a7930601acdad2a266c686bb176478a56a"
+    "recordHash": "64b926c5dcf9c20369a71aab76bb05cef0044f665e9adf59780640453619ca20"
    }
   },
   {
@@ -8525,7 +8813,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "400a7b2c7b3a6f3dad30ae19cad2786a9717150c4c4236a321b2b770073a4bb2"
+    "recordHash": "f75a69502167f38101fd71bcd2757418678aad8f6bd6afbe2d74ac47d61f7e49"
    }
   },
   {
@@ -8557,7 +8845,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a2812e222ac1c1e50f2f7f818e3d547a33622ec2abf83878ccdfec196c485186"
+    "recordHash": "a8ac8c925ff6f00a5bbaea25dc43b1ae35838cfa9e303bcf6343bfff068227b7"
    }
   },
   {
@@ -8589,7 +8877,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "bd090e298a97fdb5a71b11904a098b8fb302e2e63c934507a89bd2520c7532b1"
+    "recordHash": "ec56b27bbfa4dba9e745d37d364ae09bd5867fec46714bab33aca61dedf27edf"
    }
   },
   {
@@ -8621,7 +8909,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "07dbc4fe9295f2c068c0f1c9b37aca6329e7fbe7542735f7677449a9a6500b50"
+    "recordHash": "88cad2c9f5a0e2b228eab47dd5b2df568d0a8890a8437d285173532e04f14f34"
    }
   },
   {
@@ -8653,7 +8941,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d230a2d8a78c9b2dc491542c9bb591310f1bfdb26db0c924d79f761baf42b421"
+    "recordHash": "e61ee39dfc0567d39f4738906542b23008945422f46e905b82340a0f0f233d0f"
    }
   },
   {
@@ -8685,7 +8973,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "992b479ae9cef245ef1717c97e281f42031a28b73674fe50577724877752b377"
+    "recordHash": "c0d77b53992057732b3bea4836fa9f0218841fc8ad5f0167e4f695a457ab2f6a"
    }
   },
   {
@@ -8717,7 +9005,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b99ff185e7b9e8968be71a3694b65809c8162acafd19c28a0fc497fce0e9394f"
+    "recordHash": "58ad99a5c45fa362b36d37e4bb84792d44a08bb468cdadcab95c272224751782"
    }
   },
   {
@@ -8749,7 +9037,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "74038efc5ea2ae98cf8d542ef0963ff80159a6408b4833cc4c1756c14100d811"
+    "recordHash": "8770113e22b19d7eac346bbc42885de438aa04b43b1f50c878e2c33f68bbc3aa"
    }
   },
   {
@@ -8781,7 +9069,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4bf861ab479ae715dabd881db29fc54dce5a99391dd0e897aa40fa02da3baa79"
+    "recordHash": "ff26983ce924c098cb0714079c1d469bced2045cd670839c1f5ddde7f5fc977f"
    }
   },
   {
@@ -8813,7 +9101,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1e86a398813abeefac79eb6acb5864efdb6d167cb2a23e3305a001003bc36dec"
+    "recordHash": "09889d53d2b3781d87f22bf17f726c47c8a76f402f4c3d6a56c4b450e4967402"
    }
   },
   {
@@ -8845,7 +9133,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "87e1bdddb52d8f9e0115c910a576335f9d96087133eb69052f77158d7d6048e7"
+    "recordHash": "201ce8e56515cc101a16ec2e43ae71bc60602be6264650345fcc65e05c486825"
    }
   },
   {
@@ -8877,7 +9165,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a0c0b0a9d009e78aa845051c328ebb8137ca482beb1fe0261aef1f6e73860431"
+    "recordHash": "bc67482fae2cd8ffc1a836e528ee5e26815b9855f31572abc530392b45e10bf8"
    }
   },
   {
@@ -8909,7 +9197,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "918b8a6dfea4040fb57ae1bdd9c698d551e3b9d750a606ab9079d664572805f0"
+    "recordHash": "f7b02c3b25a3cfd8c95bac47a0efaee7a6dc017a737fe839f78d7884113cc931"
    }
   },
   {
@@ -8941,7 +9229,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "16bc468e074d469c5d6329bd49cbf660dcc697fd234036498a8244a8450c29b4"
+    "recordHash": "25ea48ef2e80ecf18fc50c3d49b467b8b0baae564c0211b7bd86454017ea0053"
    }
   },
   {
@@ -8973,7 +9261,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e955f804894a446930d1a18d25a56ff76ea68930b5b34b3a5e2244b9c022f6a0"
+    "recordHash": "c0633a39699d007199dad07c4e93b386683ad9da31cbb57f422f448b46e64eae"
    }
   },
   {
@@ -9005,7 +9293,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ff03d2d333be19c8e4450c8bf7ec9ffad952b19d59d95e160d0c881252f4692e"
+    "recordHash": "f2ec64f61df7af586d8121cdf27d614ccbdf1e0cb3c7434e77750b78f72af282"
    }
   },
   {
@@ -9037,7 +9325,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "277fe6c4ed9979603e28e4958e0dcff0102c62499efc94c49a441466ab4778ef"
+    "recordHash": "383836d37214448f43f200ae0d8988948aad0ce3bc6211b7b8048fca8ced5881"
    }
   },
   {
@@ -9069,7 +9357,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d0f49c976a618ef07cb3a55d72f462a505f726eeaa63302fac5e46e18834a474"
+    "recordHash": "3132a1cdbb4bf61f584226141ae1487ef6312e6de15b875c045bea125205decd"
    }
   },
   {
@@ -9101,7 +9389,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6c5a9b4b012fe8bcf79239befe07a81b9289b4b2ab19aad559b7f70a2318ebbf"
+    "recordHash": "138120974b8c3238edc33da02445974750900f59127d6de694772fde2795d841"
    }
   },
   {
@@ -9133,7 +9421,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "283e8734cfe36a72808e63d0717b109421f890f25a8aeb6156643754f7420f92"
+    "recordHash": "3ee6e42b265c66b522b4dc296465807d249659f132c9a2ecd0161486aa07117f"
    }
   },
   {
@@ -9165,7 +9453,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "395721bcb8048dbdfa953ece1ad13c59e465bb3edc956fe36bfe6aca66ede28d"
+    "recordHash": "db214506a188669ff8cccf06afed1610dfcc7b887531b7c7bf2d391b52272e75"
    }
   },
   {
@@ -9197,7 +9485,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6dbaf02ea69ef1ebecb3d2b437837c81238cab0ab4701a483afaaac45efd1bc6"
+    "recordHash": "476a6488c24255d16b237349d48f2372a324a4768403b28c76419c9843dc6de1"
    }
   },
   {
@@ -9229,7 +9517,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c205c69e069c4c8d0c2734484829c1f7fd48cd7ab6b9b32b4ce316ec1a1e8db6"
+    "recordHash": "9e1c3afc8402fb256799c670635740c58c486c7860089247d8c976d707003eb9"
    }
   },
   {
@@ -9261,7 +9549,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d13af8075a8d5cca8f01dfe42fd540036b0a3602a1bf8264b27a35a6a7d7d294"
+    "recordHash": "9fb1b4643b6e8c99e05fa97e21ad96f5aa7b121a19388350eadc37cefc5c4892"
    }
   },
   {
@@ -9293,7 +9581,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0767fdf42e156f0f80010d2b2e66e11da128786844d95e841f616d7cddc65a1b"
+    "recordHash": "261204390aeaae3630a5c6aaac24feec1a742c5924733e87082bfc48a9bc76c3"
    }
   },
   {
@@ -9325,7 +9613,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9ca455a80a81112964d3ff488254821624391b1e61025b449edc25c192c73301"
+    "recordHash": "8c3d5721e7b9fdc6f6eaf6663d1ca3898b00af9f835f5b01f96a9ca2c96b5200"
    }
   },
   {
@@ -9357,7 +9645,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f6172291d3943e55e61a3d048c45c063f59c3b3b9271b7d868e8560a8f44897d"
+    "recordHash": "c64b67801542b1258a4ba7b4c59ebb023e512798b0e9baf7b8b55c1d43c8453f"
    }
   },
   {
@@ -9389,7 +9677,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "47bcc509e2dee7dc9252c4583e3231179b162390f71ee58b1824a47a3d968d34"
+    "recordHash": "bd0dbfe035751ce8829a29987af1f02a10cefedb790e61ba3b10549cde6cc54f"
    }
   },
   {
@@ -9421,7 +9709,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4c1d3984c3b72706e022e39de32866f58bc6054fa0ae40bb99dd7b572229b47f"
+    "recordHash": "8c9f00d9029eddddc19cee61375b6d9b713f944768f36cd8bb867006bcdba1c0"
    }
   },
   {
@@ -9453,7 +9741,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "48dc1ffe39639607532005990796b91f379cfb849b1a7686493a37fbda244126"
+    "recordHash": "69545749d66911ef6d2145c5629c3caef07432781ec3a1da164c358d1339feaf"
    }
   },
   {
@@ -9485,7 +9773,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0aff2cb7811ca9068666450d11db972a149cdc75343dbd9b743ecf2c633689cd"
+    "recordHash": "223d5437021205decded58f5b5fe2181feadb5b6a6ab34dff4a39893b30a7315"
    }
   },
   {
@@ -9517,7 +9805,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cc6903548d10e909fc921fcb4d1f88a57de3da1c523c9b18c4eca742854cbc82"
+    "recordHash": "0979d2eac7cb254029a635d7c0fdb1401f5c43676711364b6717601ce5404ac0"
    }
   },
   {
@@ -9549,7 +9837,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "508acb9574c2cce76a0499ec42fab68e1fc21df0d066d7619e48d85589400fdc"
+    "recordHash": "9fe823bcbeb806b686cd8d20862bb648c4a0a09cf487c28c2149ce5f568c49b4"
    }
   },
   {
@@ -9581,7 +9869,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2ca97b396b1b38d60ad1360e0053ac5b817dec18dd359228174ff4c56f0ac103"
+    "recordHash": "0ea1b90d034320f6fc1c92c939b8fd42742bfb157d08865e9775724db7d18d88"
    }
   },
   {
@@ -9613,7 +9901,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1048c70a8e48459215f74ce7b46b55d7581a6dc90ace96e3df7fe9f448f60df7"
+    "recordHash": "c0e717e5998d0e93ae45c67b227813bee0dcf8b358dbfe1d313313890d0324bc"
    }
   },
   {
@@ -9645,7 +9933,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c396072aeeb79a6f9611d82fc297844dcb28d53254d4d43569c2df0aefc6f2d7"
+    "recordHash": "31934e4e39d4ad9cded6fac81ede23168ee61c95194fdc11f6a66f438fb5ad69"
    }
   },
   {
@@ -9677,7 +9965,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3e0416fdcffb1af15efe7371c2336b1c949f37423947e5553b75c3e540066c6d"
+    "recordHash": "f4c5c38f0722773f859f9fd17294016da2100e21d76c41b1cf5d26d37564a5a1"
    }
   },
   {
@@ -9709,7 +9997,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7376f7dc35e7804411d7f10bd342e329c69d37a0b953f95ddb8beda8f3cf7e14"
+    "recordHash": "6ff4a0bf6ee5de6bb7e5f83784f5547d376a1ab68604fcb5803e94e8979da23a"
    }
   },
   {
@@ -9741,7 +10029,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "09fc7e210560851d4004ecbad3c7977bc4ec1eb342f1bab29f1d9aac10e57a1e"
+    "recordHash": "3ab89d0020415db03a865df620db4e6a5f96f936d55f714bf220c6f3a25d2899"
    }
   },
   {
@@ -9773,7 +10061,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c85f201a738a4c3b66add762809fcb6895d704c171e5ddc866dbbe0bbd4826f6"
+    "recordHash": "8f3e47e5e3ab953119682cf177b398d0a0c808f7751e70656fecc5050425296d"
    }
   },
   {
@@ -9805,7 +10093,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "23eb90798b9c329b5e7d226ff3174a75c2dc82555a5ee27f3a7c6e7912d8064a"
+    "recordHash": "9b55d4ad159413b725b2b20137b9438e7e6991b346d0f483eed4a24cc05d60e5"
    }
   },
   {
@@ -9837,7 +10125,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f3f83815bd31e2b3acd76d46eda32e94d52e3dcd8801c776d9b2407dab5a2d85"
+    "recordHash": "9db4651573541fa441643b499380f3a2ef3aec9536f81178ade2178197f0e14a"
    }
   },
   {
@@ -9869,7 +10157,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b0b9658280af4e0032f34b13519b5e0781cd0f4e737b3adae1178841dfa9ec3b"
+    "recordHash": "4c51de2432276e47d969253648e1b646813cd835a4de2b935a44bab0be2c10f1"
    }
   },
   {
@@ -9901,7 +10189,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7cbe8412c6883309c2d13451a017e340a184d1d4f8503fcf25cf4a77e724ee6a"
+    "recordHash": "5e472475359eab72599da7d4b298508e3c4c7ec463a382d292706f5efd168231"
    }
   },
   {
@@ -9933,7 +10221,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0ca8b421bde0e859ee3bf5932e54dfbce5cba422b81af10182273a54c5d284f0"
+    "recordHash": "cf45fc95b68c8c5b8da7a360f6021fefa3257123d1dc35f1be74638d9c8ca8a6"
    }
   },
   {
@@ -9965,7 +10253,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cb02cb6c6e63803b82c5ef1acfd4dd9a0e20c6565395ebe291c1d26edc6a1281"
+    "recordHash": "fdc4d33b8312973ff1c19d9985685e1f0397dc10d2ae485e66dd8840705f5c6b"
    }
   },
   {
@@ -9997,7 +10285,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5abe669346dbc15726229e70921d16a7fec3c8362db1b3829bd689a6d173f257"
+    "recordHash": "eccedeacb517f92010f53c12dc4e3d34c957149c9531429dc1a5e99a67ebfe81"
    }
   },
   {
@@ -10029,7 +10317,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0057fade6ca7cc8c5ca6b2e3d193d0034445602b9d1076959b72c36e33327ee7"
+    "recordHash": "62e4f591c3658ff4c4800252fc77b3b92f55dcea925d222f825ac3326465f14a"
    }
   },
   {
@@ -10061,7 +10349,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ff675f6c11bd74872dee9a7185c79c02e7b32365c31d1f7ba0bf08e2321efcc8"
+    "recordHash": "6cc1058cb7ff762e7acd78699d6f88f3b5669976bd0a05ef37cbb38408fb07f4"
    }
   },
   {
@@ -10093,7 +10381,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "769b17998fcd255cc7ab5972ca552701fbe0fd93f9a2f647895401d3cc17a74d"
+    "recordHash": "64dd0c873a95f38ed0e174de4f076c97d86a8bd1867afb104e7b8e32415e97e4"
    }
   },
   {
@@ -10125,7 +10413,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a7cb6d77ba7aa0781be0a37e2692ad140f4eddf6f0334eb4931aada406fa38ff"
+    "recordHash": "e2b37be9016416374064ab6442dd19623cd384379ffb2c213bf7515cd942efa3"
    }
   },
   {
@@ -10157,7 +10445,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "88f3c6d34bc4e7827ba720606eedd6c86d1bfa102d1398a2aea8bf3aad5bc0bf"
+    "recordHash": "74c86ac9cb47dd1cd430b3b93fe9351ccd5f480bc7e9aad94061eed2eca6a213"
    }
   },
   {
@@ -10189,7 +10477,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c312a1488fbdc647cedbb0f3894673d07d755e480cd9eaab8e9e24adb8502e2f"
+    "recordHash": "de51dc80bd867318b556b8668c3a1a8185e07c4be839ea83e92819df414b58a7"
    }
   },
   {
@@ -10221,7 +10509,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "62156ce88448b69dd1d1f5b70b8446c2c7ff7bd3d55af710f21a9aad7d8a4392"
+    "recordHash": "5a6bb9f5c207eb15e9a1ad6b66c457b601d8f9d0ff0ab7f543975b1ce4364099"
    }
   },
   {
@@ -10253,7 +10541,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "008b75b347973d135527f8db21efea9190a712cd547fcb347f5132e509918e81"
+    "recordHash": "12a185d9b26e2066a7428768397e91a29de5f59d26dbbe4b47c154f7d90f2825"
    }
   },
   {
@@ -10285,7 +10573,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "df3475a2fbd264a0e87874b79139580db5c444550ae45e65b538e0f50a717cc8"
+    "recordHash": "e5dcd21cff0e11ac24517286310b94cd16ea4816533a865410537f8972f4a88b"
    }
   },
   {
@@ -10317,7 +10605,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ad531b0fbd0c059f6493a054e8886f8ff1af31a726cdff8709662ec731491096"
+    "recordHash": "1f51d729de4afb8dbb739db32a4278cd7d9789bfdd23a6d83249246ae85a1caa"
    }
   },
   {
@@ -10349,7 +10637,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f53e8d890ae4b1d93e91affdbc8aee1409d6f92c5ddfdc394facb0445c754621"
+    "recordHash": "7e11bbfc966ad1533616abcb47cd9e80523068fd73e1b5cd5b40ace3719fa11e"
    }
   },
   {
@@ -10381,7 +10669,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "94ed9a1ab9832848a3a6dccef537b67734fec52d4fe2e4be8184a42ba5532c64"
+    "recordHash": "5b61af022c7d52791848527c833ed0438bae0859106b0f55e10c95db91791265"
    }
   },
   {
@@ -10413,7 +10701,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1cc5aeedc67f1a0e7755375f8bca3ec803bd86fc4e293b1504070565e2723483"
+    "recordHash": "644bb0ea158469f061f6be5d02bfb8ff79d5de4acedb1a0db692c2b3125fb995"
    }
   },
   {
@@ -10445,7 +10733,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "82006129311cb047ff4475833f4b08da417e89cab00ba9cf71ceba4dc64fd7e5"
+    "recordHash": "ffe520dea1e72682dee652fe6876ddc06d7a3ec7a2cd8c8eb5603ea1ee485123"
    }
   },
   {
@@ -10477,7 +10765,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "56a038b6178842c931bb4e63a25d77a9d5b5bced8a4e79fea38de24dce52150e"
+    "recordHash": "8acf03b46e1fe1039d67b49f4696ceb9a0c3615aef2549470450adcfa691e222"
    }
   },
   {
@@ -10509,7 +10797,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "be6f326a4113690e27eb277db97b56d27ac33188238ef71b7b74c8f0d9b5f4a9"
+    "recordHash": "e7780b330182e4b92c250e18f5f5924830cd3d03275a7617561deb8827490aa0"
    }
   },
   {
@@ -10541,7 +10829,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8ccae526577f3658a50c24da07d6cc7f5538d8a45108a2c4a2f9a44b6b3440bb"
+    "recordHash": "5b9ea69a2cf1f88c0c48cd2c8faa10de293e79a352c5beaf0493672b1eed4d5f"
    }
   },
   {
@@ -10573,7 +10861,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b3c1f2ad470db5bb3e39842f06da1bec71d8a52dc90976a64825d2aff70fb6df"
+    "recordHash": "837fa1c88f9dbfc60306ab90153268cde9e90c3d2ea465f825c0e7f7e70f34ce"
    }
   },
   {
@@ -10605,7 +10893,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "968425a8cac7364b11be841da3593e943b2f1e5eb5c5c9e16a883b15836a5ab1"
+    "recordHash": "32ef71ee1f2b7be5140d95f0edba15084660c9e107b681cc731cc412b8d55bc5"
    }
   },
   {
@@ -10637,7 +10925,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3683d7b2cd0ffbf0a9c7dea32b8f48bcc8cd36d75b63c475af7123b82451a307"
+    "recordHash": "c04110588b142824470632e90c9ecf09305a4e62483caf55b80ff1cb0403821f"
    }
   },
   {
@@ -10661,15 +10949,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 10,
-    "updatedAt": "2026-11-14",
+    "revision": 12,
+    "updatedAt": "2026-11-16",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-14",
     "url": "https://droneincidents.com/incident/auto-ua-2026-11-07-548492845b/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "95c1cfc51cc93b6e7fb3d6061c0abe14406b360cd30ef468a9da8c7f7dd683c8"
+    "recordHash": "39d974930a55499986ff364ec71752ba2ab291d5359b037d0103d47fe3aa4f4d"
    }
   },
   {
@@ -10701,7 +10989,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6014e0760000e60d347a514c18659a48e7352cb96fe5d3e619093b94d1ec2035"
+    "recordHash": "a97a758065b270538c46032adee19639c983351d84540481774cd547c5a32537"
    }
   },
   {
@@ -10733,7 +11021,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b59e057ac8a2122b864394b6a307f7f76d87db0867b1e56b92377c67a0548b6b"
+    "recordHash": "6546f50ea435ee59b973c7e7e7b4b31e54a40f3d3d53c220c72c3fb73b18c4c2"
    }
   },
   {
@@ -10765,7 +11053,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1e5bf99e8a25d40efecc4c9928a912790074cbee015a8e9dbd698221943a6a11"
+    "recordHash": "cc1aa477b3c296482ac2d3fb66283ded132544edcf0fcf05a769178bc12017e2"
    }
   },
   {
@@ -10797,7 +11085,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c63ec247c2360fc7007adb9303462ded3c4231ea26239ca275a4fbd97f4ff555"
+    "recordHash": "3c131c4d31fe85d536e914d2e392740ed16b3b1923708c4f3f2055472e6e09eb"
    }
   },
   {
@@ -10829,7 +11117,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4df827dfd70bf028465e142b5f3768028a03b95d5c860e81acb97f0342a92819"
+    "recordHash": "07616d58e279e801f2776f4801efebc94247f0bd7a38e8c5025f49f7d76d40be"
    }
   },
   {
@@ -10861,7 +11149,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8913a3907c39ce80c9d0daf22858291e73b16460882c13c6e811b442da7c3218"
+    "recordHash": "4f7f2bcd88718c4dbf932e2de4088ed19c0c8c24ee659ec2d6bd4396e59b4502"
    }
   },
   {
@@ -10893,7 +11181,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "36910710f579182f019c71458be8dd2919edbc4b34455e9f45cd4ceec19f89cd"
+    "recordHash": "4c8458cbfd61a4c4ee686249d3690648275ee2ebde180a397d90172803035c44"
    }
   },
   {
@@ -10925,7 +11213,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6bd6c2918cb611bbb180adb1c3dd92024ea2e91340fc23a1c1fdfb8f4294598f"
+    "recordHash": "91e27ab076b43504c5de78b225948c01cc467a7bf9cb96495f50c49cef5962b9"
    }
   },
   {
@@ -10957,7 +11245,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f551ceb0e1a27c0008628d3760c0d5207007d691f0ab1f7f0a5c74245efc2e2e"
+    "recordHash": "7ee1bc7d955cada97e245811cf3d72c9b73b53713ddd2efb7a191e02c1125e75"
    }
   },
   {
@@ -10989,7 +11277,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "dd30242d9c15269e70e4fc59a31bc7ca4f5763effef4b48fdb8dd217529056f3"
+    "recordHash": "1cf110a1a5af26280536e67e218c3e0e9f534b10dbe1c7be23d1df65bb945844"
    }
   },
   {
@@ -11021,7 +11309,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0e79c7d6c3939ebdea649bb3745b2d533ce3fe48c648a303e94fcb36881b3972"
+    "recordHash": "d742bfbc547424cb0914f8d9fc9e705e7e8833f7df6159ac182bef34c7ec74df"
    }
   },
   {
@@ -11053,7 +11341,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "25146a7927a82fcda001b8d07a8d625a67271a891b541199d726a2a1045d1047"
+    "recordHash": "496c7eda30c7769aa7fa66af4186807219be9e284fe941a98f9887c8cdfef859"
    }
   },
   {
@@ -11085,7 +11373,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "89ef9eb491f02932cae3f0d58c3858b9814c33f8648ab37960d6e4411dde4e8f"
+    "recordHash": "59cabdf89cc3e63d5ced0273254abb328419ca8c0624e7296c74ab8efc50effd"
    }
   },
   {
@@ -11117,7 +11405,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d468500c90e31492f37d41bdb4bd6bd086cb70bb2f5b9a14a8f22d5da17289da"
+    "recordHash": "debf125db46d43c0ec37e4f55a686b5418d06c2a49cd01267a7bbebdcd654990"
    }
   },
   {
@@ -11149,7 +11437,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3bb912767f6c987fee213525a98d73d3e43e698f0169a35683967612b99961eb"
+    "recordHash": "cef6963ce3aa303fba7338484588300ddbf9f6e09772ac53ffe314e7dcf126d2"
    }
   },
   {
@@ -11181,7 +11469,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a794030748985c08c836878c9650f0358bcfb8dbcf6f2cf1083cb3ca89ee4fe3"
+    "recordHash": "06a08bef566b5a7bcffa25932dba621603ffb1b9acbb980eb30609b0ad602fde"
    }
   },
   {
@@ -11213,7 +11501,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "efb52a1cc3b161d13863a939a17e8944003e86a7d47f3c7ed86009f5cd2c335b"
+    "recordHash": "2b3a5728b5fc87a3a206094cf673b3b26f8863ad137dd781a0e6376424489b89"
    }
   },
   {
@@ -11245,7 +11533,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cee5386a4658ff6aa1d99fed74fb0468cc05bb6adaeb04dc45e2da4612f3c68a"
+    "recordHash": "3ced61a8948a616aa06e44e0bd67d27e3d3173ed4e9d007a8cf3ec48f74447f5"
    }
   },
   {
@@ -11277,7 +11565,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "097c2298c5f53b2c3e767720b49fb641ce921bc732db32ddfa55787c883bd839"
+    "recordHash": "8ce1cf0ffa0cbc1aed6009817bdff3fa0eda15cc5ad9a8d7755ed2376b825712"
    }
   },
   {
@@ -11309,7 +11597,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b5f9b69230e93bb252528701f06e6332d1eeab911f753aee46d7c6a3456bb483"
+    "recordHash": "5578db394c6ed02c49cb3d9f33325b1e14cc8ba1238560165088efb8ccf0681c"
    }
   },
   {
@@ -11341,7 +11629,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9596b1157939718c551f0b46292cdcde2daad95fe502611fcba4aff005f30f3f"
+    "recordHash": "dec0cf0e8fd03c02113c8805e937d040869ddd764d8c52c95e05268f9d71c2ac"
    }
   },
   {
@@ -11373,7 +11661,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1694d7f330cc296f6e1a425db94d46365181aa18c04d733030fc4c22d1cf6022"
+    "recordHash": "57cca6bfc980547a92fcfb920f8f2993e710274d629c2e82f548f9e9204e1d52"
    }
   },
   {
@@ -11405,7 +11693,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "220fd5a5e776dcf6ee1e39348e65a4d70ff0e601d5f273ab5e21a865c940ac21"
+    "recordHash": "7a747458785fbbd6eb8f3f35d949b953c099a3a5531006968b7ddcfc59c8a65a"
    }
   },
   {
@@ -11437,7 +11725,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1d93ff085b6f138f3743beefa36654b607db023de25f4f3abb3964c57eb0fea2"
+    "recordHash": "7de3fee225c596a9dfd719b2b45aa083be44246bff8beaa2088b6224e785f570"
    }
   },
   {
@@ -11469,7 +11757,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "bdc5bda3bd64980af52de40f06eb32955dde1c76f4f4b2dd3cedfff78247fdfa"
+    "recordHash": "279591450e5f0b14daccb9a372b48ed93ff456ea180a08ffcdb111761840dcb9"
    }
   },
   {
@@ -11501,7 +11789,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "90f3558ac5a5112f109727e790b99acd6199c93bf33940459b56374f8a8b0431"
+    "recordHash": "3e136e20ddac0b3eb4811fced1d975bf1506485ad9cf188c62f154911802d22e"
    }
   },
   {
@@ -11533,7 +11821,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "dc8281589aab54dcbf9005d96b86e5de85ff74ffb66116b75624f7c6991ea102"
+    "recordHash": "41e5bef04f329c416aedaea617d0fca1b7b4e9e11053b6aa727987afb6646818"
    }
   },
   {
@@ -11565,7 +11853,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ed131f91ccd7caa7a15e99cb04dd56a2a924621ea8263be579211c3a786148f6"
+    "recordHash": "6b05bc0d0db49409386c9e0116e32da1884e177904a96716b6e363095835a5f5"
    }
   },
   {
@@ -11597,7 +11885,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ea055b11449df9bd51ea1bb7ed0915fa2e310c3c900c834a4391baaf70eed066"
+    "recordHash": "28978e8d67984d2c22128485e879a20272ec44c161a31658953f8d5f450b8d55"
    }
   },
   {
@@ -11629,7 +11917,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "459dbae482a67014b41548d743e29dba2427465b99dc761f31dfa1a26916e02d"
+    "recordHash": "6523ae2afd70e0ad29503731d2a4838289f4ee23c78a982eb968f458a8a4b915"
    }
   },
   {
@@ -11661,7 +11949,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "275f672a0e045d4fd7c4093a1d6bbfec865530eb7086cff13b0bf875e3f8145d"
+    "recordHash": "eff34fb6e163f39f04dd9e4e038517b0c85cdece77227328d116fed00857cc0b"
    }
   },
   {
@@ -11693,7 +11981,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d31681f779d02072ed6d84d7002bc0fb4272219cc781bb458d82f1431c84233f"
+    "recordHash": "d8fbf092d8f0a1d2aef99225370c7159367701771f6b92fa2681082a0527ffd4"
    }
   },
   {
@@ -11725,7 +12013,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "19b738151e35566c96a376c6a5602d2c0b9916d048b0541cdc4a2f7e7a1b10fc"
+    "recordHash": "f0b644df3bfb8ca17ecf1ded5321269a6f78c7e0382d960788c904c6c38bb17d"
    }
   },
   {
@@ -11757,7 +12045,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7a58fd6e1d0d7f06ea3b8fab2ed0c251793d8ec633adf316c6e8f815e23a4f98"
+    "recordHash": "1abdf4255da2e03d78951c2aaf4a88379a5bf452a5e9330ea177b101e49c783e"
    }
   },
   {
@@ -11789,7 +12077,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "22904161674546a58029c6323b48b225e0e69c9df720f4d6bf506120410be447"
+    "recordHash": "8eab7fbb728c919b72e68b1e499a7c3f4928ee14b898d231eec3fc5874f303a2"
    }
   },
   {
@@ -11821,7 +12109,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c287639b686ded4a2862c9ff30b2c7ce495aa1e1e0357a6bd4da6acea9772d9b"
+    "recordHash": "0d909e393e5ae3a4b414eb793486074e4ce1a355534663a39a00351f7881baf1"
    }
   },
   {
@@ -11853,7 +12141,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9a874b6fd6ba3bc93b61caddbc7e00d4d99e9c381087815cd1455e22a39c110c"
+    "recordHash": "b9063b4addcb77c123990f9a1bade14d33ac22a9f8ce64295f5ba889dce83419"
    }
   },
   {
@@ -11885,7 +12173,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "74b01cb4dd7f025ec4d4e6482dc00a86e0ba8bfe4ab8054cce07a5c183db1758"
+    "recordHash": "17fa65878eda166d4f555ad5b9b9112c2bc4d44b162eec27102ad6b1729de462"
    }
   },
   {
@@ -11917,7 +12205,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d0aca67d2c6c57baebc759811da8a9e6b9ac4061f915aecad1ce059b3fb7094a"
+    "recordHash": "0f848144d55d69b9c1e6f1a356a3f8d478dc28517c35fb896f9d0920fb9327f5"
    }
   },
   {
@@ -11949,7 +12237,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "84f4128b1460bbe569abe2544185a196ce41724f97c1cc7f519c93c3677fbf9c"
+    "recordHash": "51f2459d94ed03d2cf4a55b4c5fd9e524812b618a9e5c587badb94a0e1831fcf"
    }
   },
   {
@@ -11981,7 +12269,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8a7718be3758132455943ff04d32e145b330422f66af95744f7a226b87a960b3"
+    "recordHash": "32494233cd4974507343a0db2116d04f8979b8de22720b58459703e00031be8e"
    }
   },
   {
@@ -12005,15 +12293,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 6,
-    "updatedAt": "2026-11-15",
+    "revision": 7,
+    "updatedAt": "2026-11-16",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-15",
     "url": "https://droneincidents.com/incident/auto-ua-2026-11-13-35c6cc5d91/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a920fa1689f26da7281a55ec44f7f38d799adfc8615325c425242c3efd02a2b7"
+    "recordHash": "9e66bd2483ed71cc3d5e1a12a03d1d9a454919f7106c79965cb4522d1155c38b"
    }
   },
   {
@@ -12045,7 +12333,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f5402644277474c08ec420e4dc14405c2d8e63b1d3d7ae373e5a2e0b48b9a017"
+    "recordHash": "84646f1e0c793bd432537bd7a0ca10ce201779441e41fc2e3d19c3ea3a6efcc7"
    }
   },
   {
@@ -12077,7 +12365,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5fd517c8dbe4df521d33e3dea691e2fba41f48c30f2e31f3c602983e1367c712"
+    "recordHash": "6ff67093237f33e7c80a7633f51a8b2fdbb079fed893b407a16ac357257257d3"
    }
   },
   {
@@ -12109,7 +12397,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "30d9ed5309d4b5da4215b8f226a4a4061b2e908da57ef08aab99c85024f1bb1e"
+    "recordHash": "b77b963fc6df5d0bed9fa0095096fd5301d4c5af5b6887cb0e6d68f27a21a496"
    }
   },
   {
@@ -12141,7 +12429,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "83a4a6a77c40fb040b76fcda1f5ff362aab33ff9b6892a0d6615bd61f395b302"
+    "recordHash": "b5ebb61ed98d0d77e9bf2523091c58f6b897de3b5659f71f48da50866912a0e0"
    }
   },
   {
@@ -12173,7 +12461,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8bd06c6694541432a9703ff77f860400d18be539e1d76b8dd1b05478da21d29a"
+    "recordHash": "0482ff6ecf1c974d8e1611c251793253d76248c0d7b5e1cbeb3963008a313e40"
    }
   },
   {
@@ -12205,7 +12493,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "476445f965a7ce521a6020d784b7f360ffee25229507711229a52a41f2da1b06"
+    "recordHash": "6f00d4a4dac220635ed0312361ca7acc57ee6528acc6b3c99ddbb00944219c36"
    }
   },
   {
@@ -12237,7 +12525,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0b16b7429adfe29f1eb64882ce8809ef3276ac4b97a7e88d979b2d5214cd1f59"
+    "recordHash": "4114fe26b39240604c42d568e4a3b5ed29c931a9611708aaa123882241171871"
    }
   },
   {
@@ -12269,7 +12557,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2d3dab602e4e106c36d6c75691250d18f3dd7077629aaad5b7f97fcc23b2b8ad"
+    "recordHash": "b4f2c7297dc0e324a80bfa0cee90fcecd0dd30c4a24f4795156478eb353a54c8"
    }
   },
   {
@@ -12301,7 +12589,71 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b87d8557f3967fd7a0da2e714db67c82586cba54699380dab7c3a8f2306c1aad"
+    "recordHash": "623fe7611b3012dd455b8f9435b83990ff96b3271e439ab18fdbde65c56979b4"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-15-f28c437443",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Sumy, Ukraine",
+    "place": "Sumy",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-15",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-16",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-15-f28c437443/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "bb6e0c58dedf8d64e692508301d1bac322403eb55c4bf0bcafd33f4b88941539"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-16-1e1ac00970",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Kyiv, Ukraine",
+    "place": "Kyiv",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-16",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "multiple",
+    "revision": 5,
+    "updatedAt": "2026-11-17",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-16-1e1ac00970/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "803f3898d66ea6f77a5d5f94a8740d24e2b9999879f7d0ced39310536fa0e5ed"
    }
   },
   {
@@ -12333,7 +12685,71 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d4914058acda80b63591bfd0e35ef504ed9168bac6d8b3e91532620b3a5e66ef"
+    "recordHash": "3031f26f19004d975d5ffef52f8921b84dc592724128a2d3cc425b15bdcf38bb"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-16-cd13dd68f6",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Kherson region, Ukraine",
+    "place": "Kherson region",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-16",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-16",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-16",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-16-cd13dd68f6/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "9d00bd2de9e92e4b87d668eb7b45e8711dc512ca6fc372e2eb469d25b0eb6170"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-16-e6d37c9a57",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Zaporizhzhia region, Ukraine",
+    "place": "Zaporizhzhia region",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-16",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 4,
+    "updatedAt": "2026-11-17",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-17",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-16-e6d37c9a57/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "1d9b0a2872874a4aebd66634c0d29f91b968aaeb422d1da308b7e32bfaae4db9"
    }
   },
   {
@@ -12365,7 +12781,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3b6dff975a4921fa7c9aafd78ccce81479869e7d2c8fa07892fa87ab38a9f609"
+    "recordHash": "9c65b9080dcc74f6022c23170c59e34695de58723c09722d16033b39e3d784d5"
    }
   },
   {
@@ -12397,7 +12813,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "97de5f20067fc068cfd0172ac28c2d26f60e77ae6e000f71b1c483f36b5736d3"
+    "recordHash": "5f18861e75a48dc8efbbbbb888f44d4995eb093d77b9cffbfc2f1879dfde2d0d"
    }
   },
   {
@@ -12429,7 +12845,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "68de753f0743f0b864cbfca6794a1302abcffaf34cca32d121bef9af4517d717"
+    "recordHash": "039620a0f7b1d1ed031d8450dfe9b66fb733232dedd58fabf980ba643944143a"
    }
   },
   {
@@ -12461,7 +12877,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b056c5dc576daf86b1991fecb352cb31f9f486981f677dc6f566b495e6b8a538"
+    "recordHash": "25ae0952c07cce73bb15c70dc04ba160d98d9d24cd3ea971cf4a537d71127c7d"
    }
   },
   {
@@ -12493,7 +12909,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "90a6361ab4a5276170e162413f1a9008346db2a7dd1cca56d59655c4da9cef6e"
+    "recordHash": "ef8d2c65f44bf6db3f6766a071bfd4a934195ebad234ab6e8c6954f96a090ae6"
    }
   },
   {
@@ -12531,7 +12947,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "d2fcfcd2a7e650b7f1747a9f970f43594231c4d165c14279a4fa2fc38a40396a"
+    "recordHash": "539bc91688d02497895685701779b36493c7d0349528ea3e35f8fbf6a83daafe"
    }
   },
   {
@@ -12569,7 +12985,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "8dc0e3693ca2668d40dc88c36d93f04f988dfa07d04c9076e2be913df26ddd69"
+    "recordHash": "8f55ba8bc3561cb2572ad349061fc5023323fa1ea0dc20f0a537fd24277f7a46"
    }
   },
   {
@@ -12607,7 +13023,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "6ced16938228dbcd7be36c29e66df3a90e908c38299448a921d4b6dc5aaa7801"
+    "recordHash": "67c38f8ba456341744c4760a7db7eda888e6b7331032614a1b0c3dfb037fb7cc"
    }
   },
   {
@@ -12639,7 +13055,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3b523166180e5f836699ff69063ddd694cba3445a2c15876be498fb7c8ae6fe8"
+    "recordHash": "af53769dc7a00c4509b024ff45e138567652fc8b0f0c40e5ced903cc10620ef7"
    }
   },
   {
@@ -12677,7 +13093,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "4c8c088215e69c01d44ce2e3e06df38fb79c16d363fc8c5d2fab94075289339f"
+    "recordHash": "4eaee2091283d2ead9c32b677d8a27ffcb1f05bd9cfd4ca1830a32e17ec5c16e"
    }
   },
   {
@@ -12715,7 +13131,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "b9cbecad1a5cad50418a0ea6b2fa959a0d28dc89b2248246c258b5218d0d8a0d"
+    "recordHash": "12ec0282a0052cab1247c8b6e438cd41690da563f07240d60738e98fe1509f4e"
    }
   },
   {
@@ -12753,7 +13169,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "08939b3096c698b3b37b042579f7a8c30f2d1305f1934784dda1c4d9a577750c"
+    "recordHash": "cf0536a8a591f8f6d68c4ca0d3ea640c951d91570284ecf2466312042d016c32"
    }
   },
   {
@@ -12791,7 +13207,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "db55388f70e76190b34f59941dc45b5d02b139a36c17a83b7a2beb9005172d07"
+    "recordHash": "18898dca4721d964cdf52303e7a53d6780bf822385ac1309f68e73b509107b7c"
    }
   },
   {
@@ -12829,7 +13245,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "8b64d72bdf8453b74ba1135e26b7e4ad262d22d1374df616fa7e536d8beaeb1a"
+    "recordHash": "696613a006d595b7a6596756edcbec84357476e8c84b8f7b7cf0dc190bfccedf"
    }
   },
   {
@@ -12867,7 +13283,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "14ed40590466ad622f69519610b502d97d0b261f2b360dedfa0a1c1d0e2610f8"
+    "recordHash": "05449617431fb97434c1d5f2db6967ffe8f0202e90c3a7cd2d5e29220a3f7459"
    }
   },
   {
@@ -12905,7 +13321,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "2608bb5abcda54b76f9fc7d7c74956184d80508b07879fc95a66d86a50a206fb"
+    "recordHash": "838358010df8b2b40a4a2c1a3b65b084870030f558c9903d46f8ae2d2ee8efb0"
    }
   },
   {
@@ -12943,7 +13359,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "3a0f819089ad01006bd34150aecf9759f3dbe2857578da8d70587a55c5bcdb21"
+    "recordHash": "b66bd99d1c9faebcbe7fd7baf5dbe0a425079a2050f60fac247f8faf119f2cdb"
    }
   },
   {
@@ -12981,7 +13397,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "e63da9917132a4290b3df866689deda768af124f7dd3987eee6c04e3505a52a3"
+    "recordHash": "e176b6a4a142f891f953ad926e31d1eae6c111b0c96f3a517853bb931a029d6e"
    }
   },
   {
@@ -13019,7 +13435,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "abb060a39a4780176498603bf92f9089b5d5c8b99ba29b3d90e0972983b2b043"
+    "recordHash": "91f3f7a892287c60398acec6713fb8f130a6b1259556e252236a9376b09ca6b1"
    }
   },
   {
@@ -13057,7 +13473,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "4e96524066bae3ae4ed7edd9110df01888be3430b73dc50607968647f2ff87bb"
+    "recordHash": "68c114e986ba8ecfcf65273004d9abb5255c6d1250151c5118cc6ae809756bea"
    }
   },
   {
@@ -13095,7 +13511,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "606cdba6a09147613ac54b34dadffa9e0171a0975f81f8c3588b941da1a66ed7"
+    "recordHash": "e8e9c5d85f35f65a9094ae3828056bbee3e9fdc2ffba6792d38fd03c0c5044cf"
    }
   },
   {
@@ -13133,7 +13549,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "77fa077faf8d7d4faaaec969131f610285d921202859d1c0c1d7cf53a28065f2"
+    "recordHash": "bcff91e56d7992efbeaf7b461746a26a85cfcc5be36ebeecdc34cd35bcd9ccad"
    }
   },
   {
@@ -13171,7 +13587,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "bfcd7712df684f0dfbbdfe2f20e43f922edbdc20261920d5d1abdbb3d3b9a0b5"
+    "recordHash": "50bc7191ea79b7a96c1918737bede4db028cc84650c70fa52d47e9ff228fa432"
    }
   },
   {
@@ -13209,7 +13625,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "538480690a2e3f8e26d9aa09c1227dd874e82b0b9d6a2d48190a5cd06abe19c5"
+    "recordHash": "e8b8dac8730ece350ad281e9168612e19fcc54b9127e0e9a78fc151752d6e46f"
    }
   },
   {
@@ -13241,7 +13657,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6f431545bbd4f5e9d9836948e78f5e2ce08a59e903b6222fc0804ee0725a5f3b"
+    "recordHash": "68123575d01450d383c6d831e58ba5319b8219b20b2e72413f112481881d20a2"
    }
   },
   {
@@ -13279,7 +13695,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "2971b2a71946b274f1576a48a847563d732f3bf0a31d0570789413cf780b12a9"
+    "recordHash": "6c9f4a1edbf2c6e9e658860413f5c79a338072372a03477c62b0590d1463a9c9"
    }
   },
   {
@@ -13317,7 +13733,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "833ab7e9b468319916a139bcf23e999a3d0d9591fa337790c62c1270e2414776"
+    "recordHash": "104ae87bfa91a0253d566b702d478e6464c1033d92df1f790c86ed47443479af"
    }
   },
   {
@@ -13355,7 +13771,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "a29f3508325e1570ba52ad75ee5799d892048e7fa5d3a977a94e8da599936801"
+    "recordHash": "6861416e360b72d1fbd09f3e3c49f982b394314f7b4057368352ee6bc3646241"
    }
   },
   {
@@ -13387,7 +13803,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d029f16a4cb34fcec498abfb10669d029ad287e9aa1ca98900d78ec8305af8b7"
+    "recordHash": "8ea6dd8a363b88f82ea37e442b2a2df2e2526db64de4d733753293676c130520"
    }
   },
   {
@@ -13425,7 +13841,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "4f5dba1918951967044e993c588af27eb8d2bed7793d012d9e539c7a50a48a86"
+    "recordHash": "f288ffc2202c923a0593316f31c451432b8c8e56f6fe7c8d1ad3f3ca19ed31b7"
    }
   },
   {
@@ -13463,7 +13879,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "3cb8e77a0f26fc5cba1def6122e7d95aa6e20f30193962597ce55822607dbd8e"
+    "recordHash": "413c13c82d859b5c23f9a649569bd6713cbf9de8de25b891f363bd96910d59cc"
    }
   },
   {
@@ -13501,7 +13917,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "a62b82be1288fe13ec04eadfc130bf1c377d527b762ed90c62f888f782dbf84f"
+    "recordHash": "4f7339be345f52b649f8990669810383f25883c2331b2c6bc884c1fc8c9e7a04"
    }
   },
   {
@@ -13539,7 +13955,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "789d373b5b5a71d1518592c6dbede7af30c7c65d9feb110cdd7fcb3eceb60a37"
+    "recordHash": "d7c7baaf06e52f0ecd7c93719035b7980c501324415a28b7862563ebfbd6682f"
    }
   },
   {
@@ -13577,7 +13993,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "b0601b3f3cb299449716fc1bcbec0255f07d0752f8e97d3754757795043ed05f"
+    "recordHash": "40dbff36e69c719486f79ffa9bb3a483468bf540a5bb1c1bce735428e5f002b0"
    }
   },
   {
@@ -13615,7 +14031,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "5bf9d3eda6eedd9c35532104bb6844d39b9c8ab13315a0fa8707a13629a6c778"
+    "recordHash": "f674c2a223abd1291ff7297afbf9b2b2a1c930288f547e54cf2c1ba8e883f015"
    }
   },
   {
@@ -13653,7 +14069,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "131a3118d64d9240db9fd3711d6f4a9b66561e2a9dbb1b2047080af3f0b84ab0"
+    "recordHash": "62bdbf4a947194fdd881307fa36be0d1c293403dfabb1d810a94c2f8c0f159e6"
    }
   },
   {
@@ -13691,7 +14107,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "27ce6d50afddbf08ab016c336ac485a7410ff3fb648a631fa98c8ac0c70ac10a"
+    "recordHash": "86e851988731de722c5f16a50370b2cdf601935366a5412a4f9b5c6bea4319ed"
    }
   },
   {
@@ -13729,7 +14145,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "c0ed867173bafc715c60fd0a657f577432de54537dc07d46467a671468ab05f4"
+    "recordHash": "7f58e3e699ee72991cf06caa072c0b651bdaa5d9669ced8c7a1015d301b2139a"
    }
   },
   {
@@ -13761,7 +14177,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0c7cb7bfa0351528b3141ec1e003a66fcc8b2ccb5a2cfe8f55003903cae1d37b"
+    "recordHash": "15770856ac5bd197c3fd43665856837abbd443d32247581aa8901bf0ee4d712f"
    }
   },
   {
@@ -13793,7 +14209,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3a069805487317f2df3b9fa687e9732ec46a510acf05cacc642919cd9287ab0c"
+    "recordHash": "e0d981e591e561a016d75a6d711fc891c509981a16a64fc2df27ae5e0b93613d"
    }
   },
   {
@@ -13825,7 +14241,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "922b3341be54a0f8a10c0d3e2b61196ab195c7cd309d8a347567c0b49678030e"
+    "recordHash": "23771faf523e2362e8f98fc9e6a969c1461c2cb4065380313af2f0b03b3693e9"
    }
   },
   {
@@ -13863,7 +14279,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "42c9c3b6e5c8357c7a40c0b95007117ee0f69780c2b5d0bc24e80e08f3af62b8"
+    "recordHash": "f0903d2bb7ebcf1ccc0cd9957b23a2436f44800d7e9e46afeab204a463f78680"
    }
   },
   {
@@ -13901,7 +14317,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "bdb7d11cadf75ec7254468781f6571f3d8eb0b56bbb18d858804c14df07b8309"
+    "recordHash": "b8de04d33302d2d4a1af1af03845ac02227fd88046aecafb409dd825c3a6e1a4"
    }
   },
   {
@@ -13939,7 +14355,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "cfe635625de730f7941c5b5c79fd12e602280bd8ac02ad3dc43410ccde9e4b3e"
+    "recordHash": "eaaa828030555e6f74768fd359813e703c766edd1a65b7f7556dadace4dec388"
    }
   },
   {
@@ -13977,7 +14393,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "e91421bf0ffe5288646fca05510d32f7d98e282cf9406ced6ebb898cbf241816"
+    "recordHash": "d7f352544fd6bbd6be71b86b383ebfbe3cdb21089a9651ddf9c8c883d2d98e2d"
    }
   },
   {
@@ -14015,7 +14431,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "2085ac07c7b329a04143d896590e20b458438643f9ef527c3b717cb09925e862"
+    "recordHash": "8703026cf156d0aa01f9ea5a6906548b26d0658ea39f1ca0f2b997d210d55323"
    }
   },
   {
@@ -14053,7 +14469,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "92a9810c214a61dd44c30a20ee10141ab9ede7e661d381d718a0ad5c3bb17633"
+    "recordHash": "efe7d223d5786275e442c7d3acd714c5095c38c976ed4ad673c1cf6791309da2"
    }
   },
   {
@@ -14091,7 +14507,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "49bd8c74eac050ca9ce4997f5401026d0913e4eb5ea59be8eb81df67c28e40ea"
+    "recordHash": "3eefd05c48d6f940b3eb7a8f39ad4c9dd6b6f6b3efb3c9e71f8cd93f59a89dbd"
    }
   },
   {
@@ -14129,7 +14545,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "8e17fbdd886710c8971dfb252a3ae3728581ec67c0db12cd65c4bbfa0fdbb109"
+    "recordHash": "a1e98e108d820024d865fefff77fb46eb97174d96caa8e9ad2dd4bfa4874f86f"
    }
   },
   {
@@ -14167,7 +14583,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "a1a1863e03952e39fbe9fc324f770830996037ecbb67989ea0a8ae5bc464ef4e"
+    "recordHash": "ace6eb5db58af4e083346b98fe164a534aaceb577b8377f017c830b4bdc812ba"
    }
   },
   {
@@ -14199,7 +14615,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "55df9c9fa28b866430bdc38b288f6b1ec5386ae52c66a654c61cf4899ab17b94"
+    "recordHash": "e5de8a6c6a8e09da9b7660e09a121c698a77f2e900be90ba0c5f5a84902da3eb"
    }
   },
   {
@@ -14237,7 +14653,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "45bb7664ffef4d45cc8f968f15bec87920211ded23cef718a748520b3d6531d1"
+    "recordHash": "5c57c397e16376c8613f0c3671bcea85640f4da0e1eb196d1c10e417aed9bf06"
    }
   },
   {
@@ -14275,7 +14691,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "113e96b352bbca75d869fa211aa6c5a4d1c271ab3333fda1efc29bc43f6ff0f7"
+    "recordHash": "efb140ee1682aab4be092698ce686a8f3c1d6a4340e0fa968262b701565e39fb"
    }
   },
   {
@@ -14307,7 +14723,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "763c01868f8a4c7c48266fde89fa5347bda11fb326f62da5bae6c9ca4c5c794d"
+    "recordHash": "e7e3076fca6ee6b2f5f5ed7c6a5e3c2c16d68fa8bcb060f6c43c2bdc06e5f730"
    }
   },
   {
@@ -14339,7 +14755,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "df6d7038a97ce0a2acb18e005ea3924ec8b171c6dbba01696b3634463f564b51"
+    "recordHash": "d9c1ff24872fb4c2ce5ff3ecc575e3e5c048671fc46a724e6fb1c9a4715c5e35"
    }
   },
   {
@@ -14371,7 +14787,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b338ff4a479af944a77640bbbc2f228651e84b17beba6d79c348f84419fad44c"
+    "recordHash": "498682d1ca1d1cb52957f4b5d1273144492fd5382deb0c6388a85efa499dcb55"
    }
   },
   {
@@ -14403,7 +14819,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "90efbc444476c8603b54ad629f341d3abe8ac7b988beef4cf8a83286a624dd41"
+    "recordHash": "ab815eb70ac210ed22f6d455523b8fa6d08979dedde6e3e2d60799540ccf6977"
    }
   },
   {
@@ -14435,7 +14851,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "148775d0ee7f3636fe2d4d8e24be77869a2fc7ebf38ee1bfe13a2fd74f5249f3"
+    "recordHash": "98892a9f2da2bae04d1b265ab23d6d8408230063e55c5bb17ea1e956698d264d"
    }
   },
   {
@@ -14473,7 +14889,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "e5c29954faad5c318e407191e4348b59749f10c6f1c484f11f874445d466f348"
+    "recordHash": "f11a19bc79fb92b381726683e16ecd54ea4f2893570a4066da93bef91106f812"
    }
   },
   {
@@ -14511,7 +14927,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "0649e1b27dc2a5d1dec662dfc997370b958cd5bcaab26b81015749542604ba60"
+    "recordHash": "c22ec5f07159f66fcf5a698cfa265b15f7ceda8227d2860260753962006ee040"
    }
   },
   {
@@ -14549,7 +14965,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "af535ec8146689cd3c51fea824581b761f874cca85dd97b64e4fbf16fccf99e7"
+    "recordHash": "952102092bc23eb9b6a2aeb4249fdae36ca101d44e320201032f2ba7cb50d843"
    }
   },
   {
@@ -14587,7 +15003,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "10c55bc531401935856a2a3984a80aef65ef3a341d072614224efa64bb654045"
+    "recordHash": "d516172f219aca4d6bd2d2a355ee757633f4757b67af926ac0afd1cfe17846ea"
    }
   },
   {
@@ -14625,7 +15041,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "daee9673d6090fa06e4d6bbcb0a33bbe38ea14d1606af767f282c23c583d70d5"
+    "recordHash": "93a592ed4f6628cda12d947dedb637094246fd29da267bc354c69d0df5f0c5a6"
    }
   },
   {
@@ -14663,7 +15079,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "8cfeab55c798e5bb862b4a6c5e663b95e3e293cc37415c3e30ca7aa9ebd3d4fe"
+    "recordHash": "f1f7edf86d9b315999529cc8e4439c6b91e0cdfb3dfb99fb1d099fdae1cdcf11"
    }
   },
   {
@@ -14701,7 +15117,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "9267222e82497b64d50d88d1981bf90515eabc4b051d0cefd5fc711ea7dcc1be"
+    "recordHash": "e80fa011c4ff15fec69c34dce36520fa549ab79e4fc41391de3883ddcfeca123"
    }
   },
   {
@@ -14739,7 +15155,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "e9d3ee8825885b260458c3ba8eb868bc919b6038e6fe545071f8e1eec852d401"
+    "recordHash": "1680613030dc3b852ff31bb7f75faa54b04ea6343630f1eb28a1145f51cd8e0c"
    }
   },
   {
@@ -14777,7 +15193,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "fd73de27eab813c33da4202b36c8b4c0e5c03908a1eb1945d46972cc16c799d6"
+    "recordHash": "abb5f3e5d4b7dc01779626fc0e5dca7b938deca6ec6f11e096435e8b086f57e7"
    }
   },
   {
@@ -14815,7 +15231,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "e26f3c9d08115a11edd77496696d2d03af3fecc6fcc1c388aad79f4c4e9775dc"
+    "recordHash": "347fbceefc143e30f0b560e0a621309b11c6580fe818f2ff7faab4eb699e1a03"
    }
   },
   {
@@ -14853,7 +15269,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "323bcf22ae729546efc4f8c91c582741de674bfafe4a3febae789a9d4a6307c6"
+    "recordHash": "02075c9cd02b0523975591e577a16acdd180d451293a15e93047a95573c249f6"
    }
   },
   {
@@ -14891,7 +15307,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "5c4b323744c0c0a2c46c2deac7394212d2da79ff71d5e6c6ff1c24dfa30501f4"
+    "recordHash": "c7d62e0ddbaded8f921aebd233268e1e891819ae32020614a188d94936a05aff"
    }
   },
   {
@@ -14929,7 +15345,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "d56a8a983a62b0226d7bfdaba54dd6d1216d1ae82c1a0287dac5a5bdf2e6b271"
+    "recordHash": "6443a791cddf88312b4de153b4dc6147155ac92aecf2cc1004a883547c2a9641"
    }
   },
   {
@@ -14967,7 +15383,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "93c2b3401cf34251eb2dbe5e5b4c19510f5ec6d1c2d4f0bc69537b9bc400ba2f"
+    "recordHash": "0e7d37dbf1917479de86d10e6ac52eb02736697ac7aa7587049604d2ac2a934f"
    }
   },
   {
@@ -15005,7 +15421,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "0e87bfe373c124814fe36e10352a7a426ad15fe5dd6b87fd790c5c56ba787bcf"
+    "recordHash": "554b7968750f1e6ad941512b9ec8b39058a639a4ee506240f7925c35fe66b3e6"
    }
   },
   {
@@ -15037,7 +15453,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ef8ff68df95e6e0e47711caf780faf27ad61aa6a915f099e91f820e047818493"
+    "recordHash": "1aa0a5c357e67278e75b17337e3621eb0d72e5a585debe308d5483bd3ee5c683"
    }
   },
   {
@@ -15075,7 +15491,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "e7eadb787b13290ed69d59275e68ea3b52f59e0d6329a8113fe0d0502cb941d7"
+    "recordHash": "ceb61b5b867457fbf24eadc0e6146a012af9a7cd4e5d38e2dc91da0967ffa012"
    }
   },
   {
@@ -15113,7 +15529,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "7d59de1933fa3e271a1b777bc890fd2ae83da28303cb92c974dc7471151c2558"
+    "recordHash": "400abbfa2dc5e13617bf2c3c444da47850040e623f0a0a5d604ce1f48173d85e"
    }
   },
   {
@@ -15151,7 +15567,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "09e61d99e0c9f3968a59d29b2b7afcb8452eb4246decdf34a193e10a8b61bc04"
+    "recordHash": "a46342bd0e1bfb1f31098da97e01a136cb9c2064e0a3fc2600f0d4cc46750bce"
    }
   },
   {
@@ -15189,7 +15605,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "a7b23b2673ad48dd6af008bb636372f41729b1c397e9b2503c25a8269c0c6565"
+    "recordHash": "620d65fae50c76113e29d1a41e75ce3963a221cb583bce5fb3aeb091f1801987"
    }
   },
   {
@@ -15227,7 +15643,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "391bf8e388ee2875638f7560bf7961115ee77525311291e411f3a6fc0fa0e42a"
+    "recordHash": "6a63eed69f863cdfdc142594ff11d49e895ab9f0db96ab784202b671f2733f3d"
    }
   },
   {
@@ -15259,7 +15675,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7894c849898ae76cb2a93d17aabcb5ff90b17f68a36bcd5a00b6cba13d79d513"
+    "recordHash": "d877d1d4f3a5157e3a670fb1d07eb5e0a0dc28d6d3e9de5c2d5ecd694f18463e"
    }
   },
   {
@@ -15297,7 +15713,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "a0a7e9b98883d68d183c2dcefcb429427a1c25ef10db015e67a1ce58191b4b6b"
+    "recordHash": "f10de7618e0838c2093207423a3b6f67a05a578b4f3b0a1745a3e4dc701887c6"
    }
   },
   {
@@ -15335,7 +15751,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "4293b93bdcd6f163a5e4832dc50125b9e0f1706d0fcf5f457f6054f9f97ec7d5"
+    "recordHash": "14876521eb8178f63c9452b667785d1203e422d725a89b127623108ac3ae5eeb"
    }
   },
   {
@@ -15373,7 +15789,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "772a70b67d9a782d5e03248bf7be4515ece7a55da637a612a1d8fc1ebfd40a93"
+    "recordHash": "8ac3c1f9324d1a4319695214f1415e785a9f0ab4ba66f9360a5badd2f720a62a"
    }
   },
   {
@@ -15411,7 +15827,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "5f36b5e02b2cf6dec36b878baacb1615e92545e689e7fafcdc5e679ed490c537"
+    "recordHash": "b1ea557d3dfb8c768e1d3f4d31963cba35d98a3d178523c4d7ec2428c1e800ba"
    }
   },
   {
@@ -15449,7 +15865,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "21d3cf0ce9849c60fa17ec15137597634012c66178550a6fa13f8586a7a9b140"
+    "recordHash": "d822686efce387fdc1f19850ea4b0467ebd6dffa71f6721eabe1cbe6800aa0a3"
    }
   },
   {
@@ -15487,7 +15903,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "495ba19c2f4533ae9e80a17d7e4e77b2b8e828aa3f88981e1af595ea3dcb0ff2"
+    "recordHash": "f227ba70d3e4b7de97c6fa020b57f987c15cd06bd1b1a42956578062625f8974"
    }
   },
   {
@@ -15525,7 +15941,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "8c8f4f062a6e8cc5dd1a72cce6bf84ad862e609f74594c6a4b79c1e3d0cf7244"
+    "recordHash": "e3db6d5496a91d5f2fc71cb6ecbbb949ca6a39517b0292b1f0b59493f9bb2ea2"
    }
   },
   {
@@ -15563,7 +15979,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "98cd387d5809154a2d585fc09b4a8a072e96f0e35b73eb03a1a155549c09b208"
+    "recordHash": "5f58350663e4943ad4238b34ca36dfe7f9131baed0d9bf8c0c2720f3a71b45c7"
    }
   },
   {
@@ -15601,7 +16017,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "a955e15138ef3a5578a1ef2162b382150bb51951c968702fff0c71342b14fcad"
+    "recordHash": "93e2346a5e4f6df0ba0cadd2d803dd1b0fda988bc815acd70c0df230a78bcab2"
    }
   },
   {
@@ -15639,7 +16055,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "6c70147424f0e1d3a0a1d90d85e7276570fb943738880fa0175bb81bdd652e27"
+    "recordHash": "eaf3963b577dfee71d104af27eb3e54ff4437df10dfd982a86436f24a4c5979b"
    }
   },
   {
@@ -15677,7 +16093,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "2258569b7150087153efcf139ac6b462e666aaf3fd250302368e4d44a1745525"
+    "recordHash": "f0c321432e711f49de1318503616e556cf63a053fdc9bcd036f5f6c2381351eb"
    }
   },
   {
@@ -15715,7 +16131,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "b884186989d2ed2c6e54ba69a919ba26b7f885bdce289b718ebf9f391a932b27"
+    "recordHash": "abe8547cf87c4fca689f14a953e3cc8b3f2d9bd812c71921e1ff1dd2b64f4f6b"
    }
   },
   {
@@ -15753,7 +16169,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "d4675fb10cc310267aaf5b4c712812fd84639344b8b6d3b74b23b4ea53cec9c2"
+    "recordHash": "5c1bca6bfe275861dab545a4a38f3a822690e2299c32fe272f18ac9965be3b2a"
    }
   },
   {
@@ -15785,7 +16201,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "40d250ad234512920739f8e184bd800c15d51cbb528bb5323c0b25cd61e4cfca"
+    "recordHash": "1b10cbc496d6e4ba7b73c149a7365e7be7cca736d1d9c8933bbd0c109c598970"
    }
   },
   {
@@ -15823,7 +16239,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "df4590ee9d6c396a85e090822ece89cc882d42cfc83b645506d5241b432b5601"
+    "recordHash": "4138a46b012851d6876b370cc8cea3c269a2515ffae7c96a051a6ba0ac732442"
    }
   },
   {
@@ -15855,7 +16271,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1a085af229bb51b80f7f9de6c51a1bb24db5fa7681e73727bbb9576b2d224142"
+    "recordHash": "5aa40786375ccba9dc487a8f43ea56c535c77a7a48ef24b4d8e12a6a5c70ee36"
    }
   },
   {
@@ -15893,7 +16309,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "386c29b5fc185ed4fb34b73ec378af96c5f5ab8048f5d798ee76faeba48355cc"
+    "recordHash": "c67a2b4211bc7555b4b16dd7c1c18e544d52ce89ea3a95df131c7913ecb0767e"
    }
   },
   {
@@ -15931,7 +16347,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "43aa9cc269468a3a8d36b53e3e6f8d71aaf863b7c6f0f599caa19a8e7fdf868e"
+    "recordHash": "0fe995a3b39507f83dd438f864c0872e70f8110483c4e068bc1f625e15b57155"
    }
   },
   {
@@ -15969,7 +16385,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "11ca328730f7d0772c35ad6922797e2d9e4359f5df19ace5b765e12c59e0d7f0"
+    "recordHash": "a9906373432f0fd8de53f44004bb32dd0b1b9465e1f51d51342ebc4770613cbf"
    }
   },
   {
@@ -16007,7 +16423,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "8e4045874bb54ae4a51d2331ddad766d3fd770193e096ad652f6ac989c14952e"
+    "recordHash": "4fd70ab19d108269a212db92aa0cb3a6f5425bcba1f4c4660bef0da909c99e62"
    }
   },
   {
@@ -16045,7 +16461,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "ae86efa6702237352cc8d520c037e2669fa95fd8f52235840c43f5bd6e831077"
+    "recordHash": "d8b079e755c9f8537df27b0f710dadb5e0d52a803e9974cafe59946e331415fd"
    }
   },
   {
@@ -16083,7 +16499,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "412687e28da8047e03b1233598d13acd65263f5d7f379bac7a490888db51efd8"
+    "recordHash": "b351eec5ea4d82edb7ec1c0d713065c10a875b29e9f0f6a4fbb24be280c0bef0"
    }
   },
   {
@@ -16121,7 +16537,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "88ae94d76d6c3beb6b719a33f2536834d5da51942f6ec5e2be1e3c03c1b7b85f"
+    "recordHash": "5f57c145e1c5c8fbf1e8e2ab08fa527628182d234895365c38ff6eadf62ae38c"
    }
   },
   {
@@ -16159,7 +16575,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "429198307a646721f4e8792177ebbb427bd8135a0a06fe041569226e322c6611"
+    "recordHash": "0c8e03a7dc589ab35467019dd42ccecc3b9144d4c12e375f37cca50d3af6902b"
    }
   },
   {
@@ -16191,7 +16607,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ba7accf2ddeb7b80eee6796076fe84a6de1bad2fa85a5da90894729d9c6b14cc"
+    "recordHash": "7047c358a25be693354a84d47e17cd97a98abed4140da65d4fa9f1410efc27ee"
    }
   },
   {
@@ -16229,7 +16645,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "bb44b1fa7e1e75d95b0665fd2538c090419682c5459a6a7f0ca77041e440c34f"
+    "recordHash": "50c13137ec0afcb93affd524676940c4c6d5219baefa3f924f54beb0696ecc70"
    }
   },
   {
@@ -16261,7 +16677,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f5060ad876ca78afd55f2b8c2ef34d3040d58b33a01764c81f71581bfde3e35e"
+    "recordHash": "cfce8b54a1665ed88b6d70860bb30e8182d991ecd1a106c99ff30ca013d62483"
    }
   },
   {
@@ -16299,7 +16715,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "d28807b47e688311bbc9c573ab02fd7c0ac35704a03a7de0437abe9163a164d3"
+    "recordHash": "750ea796d7c6a0662ff1be9d377122c2dd2707b4a111881dafd2a8ed53d8ab91"
    }
   },
   {
@@ -16337,7 +16753,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "cb36730ca429a017a430c55c8c8ff1c5889f7af496af8ed3632c49d64367bee6"
+    "recordHash": "52f63d46c0baa7c86d1e496c0d88523294d76e3fad0d5a0877fa44f6b9dc0836"
    }
   },
   {
@@ -16375,7 +16791,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "5253768c08b020363817ba7572a07b0801c44388eb1e5f7e05a091fe03dc5fc4"
+    "recordHash": "3c80b01d214560416ee60bac29351962436d1b601f1fb14bda8d313574ffb546"
    }
   },
   {
@@ -16413,7 +16829,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "724a7c43f6b9bedc6bbed136f97dbc41bfb19e3ee7ce79165388ff5870773eda"
+    "recordHash": "72caaf3b2049034df4ce28d45e90511ec47c6eec62eb318afdb0525b227aeb79"
    }
   },
   {
@@ -16451,7 +16867,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "f6747d8db4fa2ca36886f0b08f8e5e72a465d14bf87b530cc22816d85678d4ac"
+    "recordHash": "5c539f7ebac4182683bcf27bf7b7751072b22e0eedf0be01c40e1086c695f276"
    }
   },
   {
@@ -16489,7 +16905,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "34185b1c02efdab81dd3615cf4c53d872ee5092d37123dd0d2fa5e7ec743d8d6"
+    "recordHash": "6635504150aab312a17cfbdad08ce9018affbd64a8f76b8ff6255a3f97e6a966"
    }
   },
   {
@@ -16527,7 +16943,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "12facf58d8973c2b153e050616acb9dfb051b655c614fda01dc3643fdd1d4fef"
+    "recordHash": "1b69113875509dae47a90bc8639fc6955c1fc6ae190d2cad47eb19551005f2e3"
    }
   },
   {
@@ -16565,7 +16981,7 @@
     "sourceLocationPrecision": "point",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "92e431c2f123290e1e974d597b2b3c538fa5e39d56ecb869eab66c32360d2d3f"
+    "recordHash": "7ae33a87f8cafb04ae61f8db76f8686f35494ccd5644ba477e1145270e56c1d4"
    }
   },
   {
@@ -16603,7 +17019,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "d73d0308ec28988cef79eba8dda4a2ada0e7d5f0b31d99473b168f5be72b354d"
+    "recordHash": "249144f7650d46624539125c865cb45490db296d63d3285eafb7d6bc57f408ec"
    }
   },
   {
@@ -16641,7 +17057,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "fd17afc3d78ea1860d6f4f041fba74316b555177ab216e34e5ba05fb1f8f5ff5"
+    "recordHash": "5fab20f0d98691e149292fe575325ae53d49527b0005b64f6bfa8c009cbbe26e"
    }
   },
   {
@@ -16673,7 +17089,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f61ccbfad952c3267e342feab44120b93965dd6521aa89ebf52bc8634804bdbf"
+    "recordHash": "756aacb3afb424ede0537b645e3cdd46704c121f9efddc81707bee6a3e5ecc97"
    }
   },
   {
@@ -16711,7 +17127,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "396d9dc782b4330dec70b446f518dd41fb608df9f35bc0c7d3ca481e1d0fcc77"
+    "recordHash": "2a4874bf8cc689130430e7659326976c22c95c2419ab2f3d64139ed65a21399b"
    }
   },
   {
@@ -16749,7 +17165,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "69d5968112b0713b9447a49a9ff919185f6188667f753a64d78e50f216feb3f8"
+    "recordHash": "bf1abac99e6f6ef8170e1a431424ec6cb65c322adc1f48feb5187732e2598320"
    }
   },
   {
@@ -16781,7 +17197,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "092d9ba503193e19312c6159dcbb91e9da8b09046c69f6cfb58efa20a77c07cd"
+    "recordHash": "f5425da451fed4edd4313d389b7234312dc4eae68bfea4b6ade70e54b7f59eeb"
    }
   },
   {
@@ -16813,7 +17229,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6e57529d843072b4e574e1273d7cca37852f55d23722a5b3ff0b824161d7935e"
+    "recordHash": "438e4a62973521596c8d11feb723e9f12e2d309d00a1e116ed72c6ceafcdc5d3"
    }
   },
   {
@@ -16851,7 +17267,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "58415b871ec27f1c77f469fe9a1b97a56e2551605c732d7eb32d868cf09e9e87"
+    "recordHash": "08eed7555505640434510379698c67a7419eababe7f63124116638af9fc42526"
    }
   },
   {
@@ -16889,7 +17305,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "c5208fda25b3671eef47398aedbce57b20c2280d3087bce0ddc3010674abebf4"
+    "recordHash": "ba7ea899a497b551d37799c29b9efc3a72becd9d16df95dacadc8192f8a50340"
    }
   },
   {
@@ -16927,7 +17343,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "fc4f882987013d6204857621c9f42f0b0b6177aac1417821fe6f817b4452e13a"
+    "recordHash": "e5dfd65db45742fbedbbba168a001ebf34f569d1541d81ef4bfccdffe1adc174"
    }
   },
   {
@@ -16965,7 +17381,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "a06557041c53cb1a615114976fc29d8aac06ad33e6a0451818c466fb8e990f5f"
+    "recordHash": "be028ab30d8c1b1ec4bb0d6590b69771a22a18c005982e0bce08b56180656eb1"
    }
   },
   {
@@ -17003,7 +17419,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "44878b8ba48178f9676dd5cefae558df1b4987c7d26410f02ee55d3665493da2"
+    "recordHash": "734b5dc7f49ff9086c5047df279069d204fe889f55a669584012d309d0ae63c4"
    }
   },
   {
@@ -17041,7 +17457,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "4f10132d4085cf4e8e4f72e13199c866272f202149f23a357e8f7f6c7d3ed1ac"
+    "recordHash": "d3136f682588da1678ac7e5935833a5e9e1d48702d64db600c4bbbcb588d4abd"
    }
   },
   {
@@ -17079,7 +17495,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "bd35cd63de30b6d15138221dcc49e02e68f62df4bf801975c4e4ac609a6627d8"
+    "recordHash": "5f5c84177ab188fecec52422cc7154f871362afd3da069419296510a31866c70"
    }
   },
   {
@@ -17117,7 +17533,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "45407281d0484177f4ba761c7d60b11093d4549b2f92ad5c4eb07a7dae1d91db"
+    "recordHash": "af0b200d5af7f80468bfc7cd3ce98fafc6d99ee43c3a02a45811f488902d553b"
    }
   },
   {
@@ -17155,7 +17571,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "77482f835af6690e5594daf4e9ba3eeec637e163a64f7fb0bc30703123997888"
+    "recordHash": "af3927774f52b9bdf0772918c5d60dd468d022f1008dfec903a43b78989e3671"
    }
   },
   {
@@ -17193,7 +17609,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "b9ef7f4d7af32452f15f69ea66ff3ab7361efc0a7407c0d99ff2c1124ad2181a"
+    "recordHash": "329fc00bcb80d017fc5604b7d4bcab96f39ea7e1fa0bb86b1836f3a6b484871e"
    }
   },
   {
@@ -17231,7 +17647,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "0dc112f7279ac8cf052c8d89d0b34784709fdd8deea6ac8d4b329de5d3429540"
+    "recordHash": "395b2981a62e3a1a2e523a29f2a45bf0237d059965c8113c0267237ca94ad601"
    }
   },
   {
@@ -17269,7 +17685,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "30df40b57c3d248160d48c2e4237f79ecd089e9f17f74137a318766bec579df5"
+    "recordHash": "28d6ad3a0ab51f80432b2bdc463d1c44f48e9b32b300d46cd1c5ee420f0ed420"
    }
   },
   {
@@ -17301,7 +17717,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b70075ddde8385b9aa17d9badae202c75df34212e5c23a7417a00f14d61a8bc1"
+    "recordHash": "7a85919245d9bf566a843764bfbb0cd180abe133b69b830f92fa64ceaf695805"
    }
   },
   {
@@ -17333,7 +17749,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e7bcab5653e29f9061cf71e29225a5e9c542d70a91dbeea7ad7f3d78cc0c2ab9"
+    "recordHash": "9ae68b7e4b82eb301470ab2978b2c2ae580ada84cbb7192f740b00ae924ffb12"
    }
   },
   {
@@ -17371,7 +17787,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "6bb4659a9be464e629da902361e0ee7b0631a3e77390f0d81f4764eaa8afd158"
+    "recordHash": "6677012a85784df11bffa4727303fe22de81f116e352eaacefe07e79580fc706"
    }
   },
   {
@@ -17403,7 +17819,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "18c3f7b3acbdc6724762a8f9e069602cb0aa443ea2e47ff3a891a1b8ba8fff56"
+    "recordHash": "a3a1ca67d023c63d4fd56abb3969ceefdb9fb770d33ad9ae1bc87f74c7bdced2"
    }
   },
   {
@@ -17435,7 +17851,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d9fca1bb02686c9ea9864cd64d36b0cf9e7c9fcef7d562a4d4ea2c2f03cf9f48"
+    "recordHash": "58f99cf2df5a85497d02756cf1bc6b4ca6d1aa0d53ac2e3868d97825b841d121"
    }
   },
   {
@@ -17467,7 +17883,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "51f4d1aa2c4422d837b4eee9d23408abb4a22041f2f4db90b6afa94be445515b"
+    "recordHash": "287f8785f5df3e0995d86a3bab71698fbe3f120fed3ae1f65b5d9c117741e9d2"
    }
   },
   {
@@ -17505,7 +17921,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "b502f16ee34a16c64b9d3a95fe53ce9079078ec5ef77d8ce33c24c2bb3cbffb0"
+    "recordHash": "866f10b5368a2a3841ca1dc2258bfd7f33fd6f4d4814a268a8cd7d9878816050"
    }
   },
   {
@@ -17543,7 +17959,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "db342abf47b7e0e21597ab3b85cd65db38d3798998bdca0333eb91083346ec0f"
+    "recordHash": "0a6a730e4cf9350f1048dcedb8a55d57f679386496cb1bc70dcb5eae3da27856"
    }
   },
   {
@@ -17575,7 +17991,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "43dfcaf1ca72f8e5ab7408ca3c90fe1516ddda24ef563645c36533e4e3e9ae7c"
+    "recordHash": "fd07ce3f730410946a74d036fc9c4f9b9692e993f85408c886d072289a36b633"
    }
   },
   {
@@ -17613,7 +18029,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "9026ef0c14bac04f57ddf5abbf078867825fdf6a1c4496767af91ec05f4fa371"
+    "recordHash": "98b90186d0690421681cf4aed02535b021c42ebc9e36c41a78c99adc3fcf3aca"
    }
   },
   {
@@ -17651,7 +18067,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "b1559c813abe085d2ef8a41f70bd162e15325b386346259eb96feee073ada4a3"
+    "recordHash": "e8b8e93a360d1a4a6344187ab953cae12f80f795d5484b69c99b9fd69702e5ef"
    }
   },
   {
@@ -17689,7 +18105,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "8f48497447f00925ccc9fe1ace1ecfcb4e4ff841407a6e392582c00993a97cf8"
+    "recordHash": "160f9f49857980f2fe6866ffe728e8fae7f3540239d21bfd699ff8084d6a260e"
    }
   },
   {
@@ -17727,7 +18143,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "107d31f3910e1ce4e4405810fd5a783dfe6a7cdae2a6fd1e084c01c9c8254875"
+    "recordHash": "bc70bd8abbd592d1bfef140ef001f8565b40c51244fe66e5a59b09d9340e5216"
    }
   },
   {
@@ -17765,7 +18181,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "4148b8b81c3c026e0b328b94d974d09e650a34f191e3f4cdf3c59820a887cb69"
+    "recordHash": "c211c858c5e51c37c5219d40ff0ec30e34696a0eccb43543a8f4d81fccd84fe1"
    }
   },
   {
@@ -17803,7 +18219,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "f9a558ad5f91e1a95fafef049f3c5e01f85a05f346038688c955e7cce5036307"
+    "recordHash": "818173c92c113a2937969d27a04d9f6e3bcc103c467805d7247225570f9f735a"
    }
   }
  ]
