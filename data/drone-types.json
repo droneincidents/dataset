@@ -1,8 +1,8 @@
 {
  "publisher": "DroneLedger",
  "site": "https://droneincidents.com",
- "generated": "2026-11-17T02:14:44+00:00",
- "release": "20261117T021532168539-55c2e2",
+ "generated": "2026-11-18T04:47:02+00:00",
+ "release": "20261118T044705836068-e71750",
  "license": {
   "name": "CC BY 4.0",
   "url": "https://creativecommons.org/licenses/by/4.0/",
@@ -57,7 +57,7 @@
   "manifest": "https://droneincidents.com/data/doi-snapshots.json",
   "note": "Concept DOI identifies the archive series, not this live release or any particular dossier revision. Exact version membership is published in the DOI binding manifest."
  },
- "howToCite": "Cite the dossier URL and revision, e.g. DroneLedger, “Civilian infrastructure damage reported after drone attack in Zaporizhzhia region”, dossier auto-ua-2026-11-16-e6d37c9a57, revision 4, updated 2026-11-17. https://droneincidents.com/incident/auto-ua-2026-11-16-e6d37c9a57/",
+ "howToCite": "Cite the dossier URL and revision, e.g. DroneLedger, “Drone report in Kuwait”, dossier auto-kw-2026-11-18-40ab9f6773, revision 2, updated 2026-11-17. https://droneincidents.com/incident/auto-kw-2026-11-18-40ab9f6773/",
  "note": "Unit costs are published third-party estimates with source, year and price basis; they vary widely. DroneLedger selects and links them; it does not produce its own cost figures.",
  "acquisitionNote": "acquisition: how each user obtains the type (domestic-production, licensed-production, import, localised-production, local-assembly, commercial-off-the-shelf, captured, unknown), with stage (planned, contracted, in-production, delivered, observed-operational, unknown, not-assessed) and typeIdentification (named or inferred), from open sources researched 2026-10-12. confidence concerns the route claim; contested = a party denies it, sources disagree, or it rests only on a party's claim. Catalogue background, not evidence about any specific incident.",
  "specsNote": "specs is legacy catalogue text kept for continuity. Its values are not individually bound to a quoted source and can differ from the type page. Source-bound figures, each with a literal quote, are in research.observations and in /api/v1/drone-profiles/<id>.json; cite those.",
@@ -17723,6 +17723,477 @@
       "accessed": "2026-11-08"
      }
     ],
+    "relations": [],
+    "costs": [],
+    "counterLayers": []
+   },
+   "acquisition": []
+  },
+  {
+   "id": "tai-anka-3",
+   "name": "Anka-3",
+   "aliases": [
+    "ANKA-III",
+    "Anka III",
+    "TAI Anka-3",
+    "TUSAŞ Anka-3"
+   ],
+   "category": "ucav-jet",
+   "manufacturer": "Turkish Aerospace (TUSAŞ)",
+   "countries": [
+    "TR"
+   ],
+   "production": "See the dated, source-bound programme status in the research profile.",
+   "operators": [],
+   "unitCostUsd": {
+    "low": null,
+    "high": null,
+    "basis": "unknown",
+    "year": null,
+    "source": null,
+    "unit": "aircraft"
+   },
+   "otherEstimates": [],
+   "specs": {},
+   "confidence": "medium",
+   "notes": "Anka-3 is a jet-powered flying-wing combat drone from Turkish Aerospace (TUSAŞ). The manufacturer lists a maximum take-off weight of 7,250 kg and a combat radius of up to 1,075 km, and says the aircraft has begun armed flight tests. It is a different aircraft from the propeller-driven Anka; Anka figures do not describe Anka-3.",
+   "sources": [
+    "https://www.tusas.com/en/products/uav/operative-strategic-uav-systems/anka-III"
+   ],
+   "countermeasures": [],
+   "research": {
+    "schemaVersion": 1,
+    "edition": "2026-11-17",
+    "names": {
+     "en": "Anka-3",
+     "uk": "Anka-3",
+     "ru": "Anka-3",
+     "ar": "أنكا-3",
+     "fa": "آنکا-۳"
+    },
+    "summary": {
+     "en": "Anka-3 is a jet-powered flying-wing combat drone from Turkish Aerospace (TUSAŞ). The manufacturer lists a maximum take-off weight of 7,250 kg and a combat radius of up to 1,075 km, and says the aircraft has begun armed flight tests. It is a different aircraft from the propeller-driven Anka; Anka figures do not describe Anka-3.",
+     "uk": "Anka-3 є реактивним бойовим дроном схеми «літаюче крило» від Turkish Aerospace (TUSAŞ). Виробник указує максимальну злітну масу 7 250 кг і бойовий радіус до 1 075 км та повідомляє, що почалися випробування з озброєнням. Це інший апарат, ніж гвинтовий Anka; дані Anka не описують Anka-3.",
+     "ru": "Anka-3 является реактивным ударным дроном схемы «летающее крыло» от Turkish Aerospace (TUSAŞ). Производитель указывает максимальную взлётную массу 7 250 кг и боевой радиус до 1 075 км и сообщает о начале испытаний с вооружением. Это другой аппарат, чем винтовой Anka; данные Anka не описывают Anka-3.",
+     "ar": "Anka-3 مسيّرة قتالية نفاثة بتصميم الجناح الطائر من شركة الصناعات الجوية التركية (TUSAŞ). تذكر الشركة وزن إقلاع أقصى يبلغ 7250 كغ ونصف قطر قتالي يصل إلى 1075 كم، وتقول إن تجارب الطيران المسلح بدأت. وهي طائرة مختلفة عن Anka ذات المروحة، ولا تصف أرقام Anka طائرة Anka-3.",
+     "fa": "Anka-3 پهپاد رزمی جت با پیکربندی بال پرنده ساخت صنایع هوافضای ترکیه (TUSAŞ) است. سازنده حداکثر وزن برخاست ۷۲۵۰ کیلوگرم و شعاع رزمی تا ۱۰۷۵ کیلومتر را اعلام می‌کند و می‌گوید آزمایش‌های پروازی مسلح آغاز شده است. این هواگرد با Anka ملخی متفاوت است و ارقام Anka درباره Anka-3 صدق نمی‌کند."
+    },
+    "summarySourceIds": [
+     "tusas-anka3"
+    ],
+    "origin": "TR",
+    "originSourceIds": [
+     "tusas-anka3"
+    ],
+    "role": "reusable",
+    "sources": [
+     {
+      "id": "tusas-anka3",
+      "url": "https://www.tusas.com/en/products/uav/operative-strategic-uav-systems/anka-III",
+      "publisher": "Turkish Aerospace (TUSAŞ)",
+      "title": "ANKA-III product page",
+      "kind": "manufacturer",
+      "published": null,
+      "accessed": "2026-11-17",
+      "accessMethod": "page"
+     }
+    ],
+    "observations": [
+     {
+      "key": "lengthM",
+      "min": 8.9,
+      "max": 8.9,
+      "unit": "m",
+      "variant": "Anka-3 · manufacturer technical data",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "Length 8.9 m",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "manufacturer"
+     },
+     {
+      "key": "wingspanM",
+      "min": 13.1,
+      "max": 13.1,
+      "unit": "m",
+      "variant": "Anka-3 · manufacturer technical data",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "Wing Span 13.1 m",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "manufacturer"
+     },
+     {
+      "key": "massKg",
+      "min": 7250,
+      "max": 7250,
+      "unit": "kg",
+      "variant": "Anka-3 · maximum take-off weight",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "Maximum Take-off Weight 7,250 kg",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "manufacturer"
+     },
+     {
+      "key": "payloadKg",
+      "min": null,
+      "max": 1700,
+      "unit": "kg",
+      "variant": "Anka-3 · maximum payload capacity",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "Maximum Payload Capacity 1,700 kg",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "upper-bound"
+     },
+     {
+      "key": "enduranceH",
+      "min": 10,
+      "max": 10,
+      "unit": "h",
+      "variant": "Anka-3 · stated airborne time",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "remaining airborne for 10 hours",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "manufacturer"
+     },
+     {
+      "key": "operatingRadiusKm",
+      "min": null,
+      "max": 1075,
+      "unit": "km",
+      "variant": "Anka-3 · combat radius, air-to-air configuration",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "Combat Radius 1075 km (Air-to-Air Configuration)",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "upper-bound"
+     },
+     {
+      "key": "operatingRadiusKm",
+      "min": null,
+      "max": 750,
+      "unit": "km",
+      "variant": "Anka-3 · combat radius, air-to-ground configuration",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "750 km (Air-to-Ground Configuration)",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "upper-bound"
+     }
+    ],
+    "specFacts": [
+     {
+      "key": "speed",
+      "text": {
+       "en": "Maximum speed Mach 0.7 at 30,000 ft",
+       "uk": "Максимальна швидкість 0,7 Маха на висоті 30 000 футів",
+       "ru": "Максимальная скорость 0,7 Маха на высоте 30 000 футов",
+       "ar": "السرعة القصوى 0.7 ماخ على ارتفاع 30000 قدم",
+       "fa": "حداکثر سرعت ۰٫۷ ماخ در ارتفاع ۳۰٬۰۰۰ پا"
+      },
+      "variant": "Anka-3 · manufacturer technical data",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "Maximum Speed 0.7 Mach @30,000 ft",
+      "accessed": "2026-11-17"
+     },
+     {
+      "key": "engine",
+      "text": {
+       "en": "Turbofan engine",
+       "uk": "Турбовентиляторний двигун",
+       "ru": "Турбовентиляторный двигатель",
+       "ar": "محرك مروحي توربيني (توربوفان)",
+       "fa": "موتور توربوفن"
+      },
+      "variant": "Anka-3 · manufacturer description",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "the high speed delivered by its turbofan engine",
+      "accessed": "2026-11-17"
+     },
+     {
+      "key": "status",
+      "text": {
+       "en": "In flight testing; armed flight tests have begun (manufacturer, page undated)",
+       "uk": "Льотні випробування; почалися випробування з озброєнням (виробник, сторінка без дати)",
+       "ru": "Лётные испытания; начаты испытания с вооружением (производитель, страница без даты)",
+       "ar": "قيد اختبارات الطيران؛ بدأت تجارب الطيران المسلح (الشركة المصنعة، صفحة بلا تاريخ)",
+       "fa": "در حال آزمایش پروازی؛ آزمایش‌های پروازی مسلح آغاز شده است (سازنده، صفحه بدون تاریخ)"
+      },
+      "variant": "Anka-3 · manufacturer programme status",
+      "sourceIds": [
+       "tusas-anka3"
+      ],
+      "quote": "has begun armed flight tests",
+      "accessed": "2026-11-17"
+     }
+    ],
+    "recognition": [],
+    "relations": [],
+    "costs": [],
+    "counterLayers": []
+   },
+   "acquisition": []
+  },
+  {
+   "id": "altius",
+   "name": "Altius",
+   "aliases": [
+    "Altius-600",
+    "Altius-600M",
+    "Altius-700",
+    "Altius-700M",
+    "Anduril Altius",
+    "Area-I Altius",
+    "ALTIUS"
+   ],
+   "category": "loitering-munition",
+   "manufacturer": "Anduril Industries (formerly Area-I)",
+   "countries": [
+    "US"
+   ],
+   "production": "See the dated, source-bound programme status in the research profile.",
+   "operators": [],
+   "unitCostUsd": {
+    "low": null,
+    "high": null,
+    "basis": "unknown",
+    "year": null,
+    "source": null,
+    "unit": "aircraft"
+   },
+   "otherEstimates": [],
+   "specs": {},
+   "confidence": "medium",
+   "notes": "Altius is Anduril's tube-launched autonomous air vehicle, launched from ground, air or sea platforms. Anduril lists four versions: Altius-600 and Altius-700 for reconnaissance, signals intelligence and electronic warfare, and the Altius-600M and Altius-700M loitering munitions with a 9 lb and a 33 lb warhead. Ranges and endurance below are the manufacturer's approximate figures per version.",
+   "sources": [
+    "https://www.anduril.com/llms.txt"
+   ],
+   "countermeasures": [],
+   "research": {
+    "schemaVersion": 1,
+    "edition": "2026-11-17",
+    "names": {
+     "en": "Altius",
+     "uk": "Altius",
+     "ru": "Altius",
+     "ar": "ألتيوس",
+     "fa": "آلتیوس"
+    },
+    "summary": {
+     "en": "Altius is Anduril's tube-launched autonomous air vehicle, launched from ground, air or sea platforms. Anduril lists four versions: Altius-600 and Altius-700 for reconnaissance, signals intelligence and electronic warfare, and the Altius-600M and Altius-700M loitering munitions with a 9 lb and a 33 lb warhead. Ranges and endurance below are the manufacturer's approximate figures per version.",
+     "uk": "Altius є автономним літальним апаратом Anduril, який запускається з труби з наземних, повітряних або морських платформ. Anduril називає чотири версії: Altius-600 і Altius-700 для розвідки, радіоелектронної розвідки та РЕБ, а також баражуючі боєприпаси Altius-600M і Altius-700M з бойовою частиною 9 і 33 фунти. Дальність і тривалість польоту нижче є приблизними даними виробника для кожної версії.",
+     "ru": "Altius является автономным летательным аппаратом Anduril, запускаемым из трубы с наземных, воздушных или морских платформ. Anduril называет четыре версии: Altius-600 и Altius-700 для разведки, радиоэлектронной разведки и РЭБ, а также барражирующие боеприпасы Altius-600M и Altius-700M с боевой частью 9 и 33 фунта. Дальность и продолжительность полёта ниже являются приблизительными данными производителя для каждой версии.",
+     "ar": "Altius مركبة جوية ذاتية التشغيل من Anduril تُطلق من أنبوب من منصات برية أو جوية أو بحرية. تذكر Anduril أربع نسخ: Altius-600 وAltius-700 للاستطلاع واستخبارات الإشارات والحرب الإلكترونية، والذخيرتين الجوالتين Altius-600M وAltius-700M برأس حربي 9 و33 رطلاً. المدى والتحمل أدناه أرقام تقريبية من الشركة لكل نسخة.",
+     "fa": "Altius پرنده خودکار Anduril است که از لوله و از سکوهای زمینی، هوایی یا دریایی پرتاب می‌شود. Anduril چهار نسخه را نام می‌برد: Altius-600 و Altius-700 برای شناسایی، شنود سیگنال و جنگ الکترونیک، و مهمات پرسه‌زن Altius-600M و Altius-700M با کلاهک ۹ و ۳۳ پوندی. برد و مداومت پرواز زیر ارقام تقریبی سازنده برای هر نسخه است."
+    },
+    "summarySourceIds": [
+     "anduril-altius"
+    ],
+    "origin": "US",
+    "originSourceIds": [
+     "anduril-altius"
+    ],
+    "role": "loitering",
+    "sources": [
+     {
+      "id": "anduril-altius",
+      "url": "https://www.anduril.com/llms.txt",
+      "publisher": "Anduril Industries",
+      "title": "Anduril site text (llms.txt), Altius section; the product page anduril.com/altius renders the same data by script",
+      "kind": "manufacturer",
+      "published": null,
+      "accessed": "2026-11-17",
+      "accessMethod": "page"
+     }
+    ],
+    "observations": [
+     {
+      "key": "enduranceH",
+      "min": 3.5,
+      "max": 3.5,
+      "unit": "h",
+      "variant": "Altius-600 · manufacturer, approximate",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Endurance: ~3.5 hr",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "approximate"
+     },
+     {
+      "key": "rangeKm",
+      "min": 375,
+      "max": 375,
+      "unit": "km",
+      "variant": "Altius-600 · manufacturer, approximate",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Range: ~375 km",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "approximate"
+     },
+     {
+      "key": "enduranceH",
+      "min": 4,
+      "max": 4,
+      "unit": "h",
+      "variant": "Altius-700 · manufacturer, approximate",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Endurance: ~4 hr",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "approximate"
+     },
+     {
+      "key": "rangeKm",
+      "min": 460,
+      "max": 460,
+      "unit": "km",
+      "variant": "Altius-700 · manufacturer, approximate",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Range: ~460 km",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "approximate"
+     },
+     {
+      "key": "warheadKg",
+      "min": 4.08,
+      "max": 4.08,
+      "unit": "kg",
+      "variant": "Altius-600M · warhead, 9 lb × 0.45359237",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "payload: 9 lbs. Warhead",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "manufacturer",
+      "conversion": "9 lb × 0.45359237 = 4.08 kg",
+      "decimalPlaces": 1
+     },
+     {
+      "key": "enduranceH",
+      "min": 1.5,
+      "max": 1.5,
+      "unit": "h",
+      "variant": "Altius-600M · manufacturer, approximate",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Endurance: ~1.5 hrs",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "approximate"
+     },
+     {
+      "key": "rangeKm",
+      "min": 160,
+      "max": 160,
+      "unit": "km",
+      "variant": "Altius-600M and Altius-700M · manufacturer, approximate",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Range: ~160 km",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "approximate"
+     },
+     {
+      "key": "warheadKg",
+      "min": 14.97,
+      "max": 14.97,
+      "unit": "kg",
+      "variant": "Altius-700M · warhead, 33 lb × 0.45359237",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Payload: 33 lbs. Warhead",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "manufacturer",
+      "conversion": "33 lb × 0.45359237 = 14.97 kg",
+      "decimalPlaces": 1
+     },
+     {
+      "key": "enduranceH",
+      "min": 1.25,
+      "max": 1.25,
+      "unit": "h",
+      "variant": "Altius-700M · manufacturer, approximate",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Endurance: ~1.25 hr",
+      "accessed": "2026-11-17",
+      "year": null,
+      "qualifier": "approximate"
+     }
+    ],
+    "specFacts": [
+     {
+      "key": "payload",
+      "text": {
+       "en": "Reconnaissance (ISR), signals intelligence (SIGINT) or electronic warfare (EW) payloads",
+       "uk": "Корисне навантаження для розвідки (ISR), радіоелектронної розвідки (SIGINT) або РЕБ (EW)",
+       "ru": "Полезная нагрузка для разведки (ISR), радиоэлектронной разведки (SIGINT) или РЭБ (EW)",
+       "ar": "حمولات للاستطلاع (ISR) أو استخبارات الإشارات (SIGINT) أو الحرب الإلكترونية (EW)",
+       "fa": "محموله شناسایی (ISR)، شنود سیگنال (SIGINT) یا جنگ الکترونیک (EW)"
+      },
+      "variant": "Altius-600 and Altius-700",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "Payload: ISR, SIGINT, EW",
+      "accessed": "2026-11-17"
+     },
+     {
+      "key": "guidance",
+      "text": {
+       "en": "Autonomous; one operator can control several vehicles at once",
+       "uk": "Автономний; один оператор може керувати кількома апаратами одночасно",
+       "ru": "Автономный; один оператор может управлять несколькими аппаратами одновременно",
+       "ar": "ذاتي التشغيل؛ يستطيع مشغل واحد التحكم بعدة مركبات في وقت واحد",
+       "fa": "خودکار؛ یک اپراتور می‌تواند چند پرنده را هم‌زمان کنترل کند"
+      },
+      "variant": "Altius family · manufacturer description",
+      "sourceIds": [
+       "anduril-altius"
+      ],
+      "quote": "enables one operator to control multiple assets simultaneously",
+      "accessed": "2026-11-17"
+     }
+    ],
+    "recognition": [],
     "relations": [],
     "costs": [],
     "counterLayers": []
