@@ -2,8 +2,8 @@
  "type": "FeatureCollection",
  "publisher": "DroneLedger",
  "site": "https://droneincidents.com",
- "generated": "2026-11-23T04:31:05+00:00",
- "release": "20261123T043145397566-0b3c98",
+ "generated": "2026-11-23T22:28:40+00:00",
+ "release": "20261123T222844276514-75dcfa",
  "license": {
   "name": "CC BY 4.0",
   "url": "https://creativecommons.org/licenses/by/4.0/",
@@ -269,7 +269,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "91952339579494f872911c5ca9875c11611002bc002f29bdffec33823821f6cd"
+    "recordHash": "c66c2c6a3c5cf6d3757c29ab57ba511ab00b419bcc5b097e0428f9f6b3a6f8b7"
    }
   },
   {
@@ -365,7 +365,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "777b374f75fa38d516d43c48ce423848244cff8844db020845dec9e63cbe641d"
+    "recordHash": "b8852a4aba2983b9f21923a48ba91431830ea8725def65cc801017763c1e897b"
    }
   },
   {
@@ -397,7 +397,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "af16ea53089013fa5b65b247e82e3e3c74810b649deb221e93c94f122850dea1"
+    "recordHash": "3ca7b6e8a47c8d8887d1ab9daffc5f7fb9c6bd91363094ae557bd72a7c081e31"
    }
   },
   {
@@ -429,7 +429,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "53f9daf1487f64ffb77b56cc39687d75c94d2b9ed15035f0526ca24feac01c06"
+    "recordHash": "8b99fe70e89eda0a0793eec0788471458535766784b4d45a14499b4cb4402510"
    }
   },
   {
@@ -461,7 +461,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8256103d5ff3a81c930cb61f8e2f654ae8d3906b817e74edea50e3445626c2f7"
+    "recordHash": "fa52ef5aa4cefa131b9ec90219ba906dade1fbdd574109aa3a233d1970880b31"
    }
   },
   {
@@ -754,6 +754,70 @@
   },
   {
    "type": "Feature",
+   "id": "auto-co-2026-11-23-875b19db8f",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Cúcuta, Colombia",
+    "place": "Cúcuta",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 8,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-co-2026-11-23-875b19db8f/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "a433d9d1fc6e0c1737e7787455895f4a99eb8e3a3550a755579322350a5f445b"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-co-2026-11-23-bf9c2b3d21",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Curumaní, Colombia",
+    "place": "Curumaní",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "multiple",
+    "revision": 6,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-co-2026-11-23-bf9c2b3d21/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "f4e0ab2e5af19f518c6ef1d80df82f1279a27a1b278acc68384da469242c968f"
+   }
+  },
+  {
+   "type": "Feature",
    "id": "auto-de-2026-11-08-3bdf245832",
    "geometry": null,
    "properties": {
@@ -813,7 +877,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "67dde8dbeb193b4fd430ed362cf79d1ed35ff1511745182d089288433bcf6eac"
+    "recordHash": "eaaaf9cfa23a309bf563663f6be8f97f89070a9cb04a4083585b9ea0f758074a"
    }
   },
   {
@@ -909,7 +973,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d0dcdf1a76eccd35b57116020ad37aec2e64d468653e0da6d60044592ca3fc02"
+    "recordHash": "1c181109977a347a3ea7d2b53345ad08da8e58121898b5ab405ea4e7584224da"
    }
   },
   {
@@ -941,7 +1005,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a40ebc6eefebcfe6e346fd30194b9b39b32f6c3fb171398f9dfaa42eba33918f"
+    "recordHash": "05aeb1fd9e45a30a814efb939d854d1a7a7b68159aa6afe566380f5405ea4658"
    }
   },
   {
@@ -1165,7 +1229,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "53f8f632f55fb9eb726aeb3b8deed42e911450b7f666378aa15712f3452e96c5"
+    "recordHash": "2bae0678e49005cf90364e5edf018a402ee4d7b011c757e70841f9f0a6ae8494"
    }
   },
   {
@@ -1229,7 +1293,39 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a4a09bd397ef6003e0ef9fbb4bf591db48f1d2910b43bafa265bce7770ab5a7b"
+    "recordHash": "bc78b04253c7cf5714231b69973eb5700b33ef9fbf26a40410771987cb7cf522"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-it-2026-11-20-27191719a4",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report: Sicily region, Italy",
+    "place": "Sicily region",
+    "country": "Italy",
+    "countryCode": "IT",
+    "date": "2026-11-20",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "sightings",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 3,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-it-2026-11-20-27191719a4/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "82b69a993185db669a3406217cb937588199dcc5d722b2ee77fff9225317b5d0"
    }
   },
   {
@@ -1261,7 +1357,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "20598848571aec9560760d3c180fa2fcb6e523466f8bc14479fc697d3a9686d7"
+    "recordHash": "f102f9461272e2ac610c8fbc4a6a1832eefee36946769e848e5f0d3413765167"
    }
   },
   {
@@ -1389,7 +1485,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "02ac9e4c2d82560c882e0ac807d759884308e2c2b96b8a690ab2333e2f65083e"
+    "recordHash": "81d7cbffb1efc70d0aeb683634be5751b35b6f8ba74305475569552eb6532b06"
    }
   },
   {
@@ -1421,7 +1517,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7ddadf752787e1ff2a5668eaf8826530ff126b9e588f805f4f6867c693870ddb"
+    "recordHash": "889e1b02b2ab0316d4b10b68101ec4f063751f7265f442b48f1f56ba2e870508"
    }
   },
   {
@@ -1453,7 +1549,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "eba8b3251635587299d7ded44218edea7b30adb70aa23bf42d2f94bc5c3b6b67"
+    "recordHash": "ad25cf8c55e7cdb1d9f818637a0ceb80e6bfedc130a9795e5e8417fb171d91b1"
    }
   },
   {
@@ -1805,7 +1901,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8506b716dea2f7600b546839bb558d6219f95d3d57480018fc99e2c99a5456e9"
+    "recordHash": "bf4026f30419e86678ec98f726380db9a96fde64ec976f4a60324d8a7af90aaf"
    }
   },
   {
@@ -1837,7 +1933,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d08b0d097c0557e8c2c0d05704d076997c36811fd7cdfa943dbddbba0e61b1f8"
+    "recordHash": "710a26171e65b223d1eb211534a7b8c0ac6b947ad08fad28c44baf8ee20f6bf0"
    }
   },
   {
@@ -1869,7 +1965,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6b04b6e1a467e29afc8b90a0e79362d1cd891a251e4354762a0590c8f29e53eb"
+    "recordHash": "752a12ff024a14766f9929fe86a484fb5a973747dd20e1ad006743ae36ec6462"
    }
   },
   {
@@ -1901,7 +1997,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5581df93721be54ad647c2d350eadab0477574264d26beba1241369c321f3cb3"
+    "recordHash": "d90cfa04eff31d5624d3e76fab46ba799290f1172db8f6bde49b3e5ba498fc83"
    }
   },
   {
@@ -1933,7 +2029,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "beb03caa4c392e852c67f4837ce4d88911ab5e03fc23b45a6d5d48c3e59c2288"
+    "recordHash": "3047e749a33fdc790e35c4e715a12055982a76aece2034168202bd7b73cde37a"
    }
   },
   {
@@ -1965,7 +2061,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "cd2344b6fd87522ce958eff03f11138f5ea04bf2adadd29cd0bd1682e4d3890f"
+    "recordHash": "53fc87bd235c492e974e7d46aa68be92aad05f59f7e0a221a55558c4fa8b207d"
    }
   },
   {
@@ -1997,7 +2093,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3f1e90ffdda0a76f68a841c02e88ffe8f32f45e21cc43a487db1f455207528eb"
+    "recordHash": "a5d38f5fb33fac335d9e7d26b9d2bf4d36cccbfb8f574bae7cb6305fc2cc8980"
    }
   },
   {
@@ -2029,7 +2125,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5bc3a6b848d03266f7a258df4ef90111a980ab01b1c2f495b1fa07fe6b32d284"
+    "recordHash": "fb1d59eb330bee3ee66110ba12ac58ac49b9784f9178f5b87fee7f581625e430"
    }
   },
   {
@@ -2413,7 +2509,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "601209e4a7dc1a4d6359c2a5af79c889dbf60cf88cc441bce4d6af10e538edc8"
+    "recordHash": "a814f8b7947c61c39abc95b6fc7a4fccbddde62bed7d78f413e36f45340594cc"
    }
   },
   {
@@ -2741,7 +2837,7 @@
    "id": "auto-ru-2026-10-13-c58316ee8f",
    "geometry": null,
    "properties": {
-    "title": "Drone wave reported in Kaluga Oblast, Russia",
+    "title": "Residential damage reported after drone attack in Kaluga Oblast",
     "place": "Kaluga Oblast",
     "country": "Russia",
     "countryCode": "RU",
@@ -2757,15 +2853,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 6,
-    "updatedAt": "2026-10-28",
+    "revision": 7,
+    "updatedAt": "2026-11-23",
     "checkedAt": null,
     "autoCheckedAt": "2026-10-14",
     "url": "https://droneincidents.com/incident/auto-ru-2026-10-13-c58316ee8f/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ea49bcfeb6a74ab3160235d1e6f66e4ca5208ff2fa4a8d261ebe913e3c816c12"
+    "recordHash": "d9583fd2e158cddf97ec19a117dea0763e95e04a1a014a1666d3371805780cca"
    }
   },
   {
@@ -2773,7 +2869,7 @@
    "id": "auto-ru-2026-10-13-f32459372f",
    "geometry": null,
    "properties": {
-    "title": "Drone wave reported in Tula Oblast, Russia",
+    "title": "Drone wave reported: Tula Oblast, Russia",
     "place": "Tula Oblast",
     "country": "Russia",
     "countryCode": "RU",
@@ -2789,15 +2885,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 2,
-    "updatedAt": "2026-10-14",
+    "revision": 3,
+    "updatedAt": "2026-11-23",
     "checkedAt": null,
     "autoCheckedAt": "2026-10-14",
     "url": "https://droneincidents.com/incident/auto-ru-2026-10-13-f32459372f/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6e60a42e7a2da2acbfd8829dc5b898b3f9048f21184a7dcd8b2ee1b68e2d2bbc"
+    "recordHash": "f695b5bc8bbdd64b4d0db687022b4d2edcce0fe8a69338a1b64e823d3bc3b67d"
    }
   },
   {
@@ -2925,7 +3021,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0f1581d682ada2c3ba9da361088323137d56078e48828cd26c2a53f6ac6e8d88"
+    "recordHash": "459fe74e6f5c6d9e83ba44c9816064a0bdbbc68852d962a2f19b55426b0aea82"
    }
   },
   {
@@ -3437,7 +3533,7 @@
     "sourceLocationPrecision": "country",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "35c5ac0da004d864efaa4213c0ffb387cd05dd750f6647e2e7e046cae33458e2"
+    "recordHash": "ce72e9c2c66d7ac473c4146536ccbd656e15ca2a802da321dfcbfb92f171846c"
    }
   },
   {
@@ -4013,7 +4109,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5bddeaad97d8dcafc1aefb74b5b637b8517cfe637458779872d40f38c41f4676"
+    "recordHash": "b097b0e3657d67cd90a968c0199c485459dbc3a149400b20d9788d11a9826adb"
    }
   },
   {
@@ -6061,7 +6157,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6de455b880bdbcb38164d514d1675d4f510103e1ee15c80598da9325f773f200"
+    "recordHash": "4f31d10f80fce94a43d9c38bafe9ad9ab2cf6d37427a733a1f8bb8335db1488d"
    }
   },
   {
@@ -6189,7 +6285,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f24d26f8d02ed5861b2bebf0630431e91c9508fdfb269a6d38248c2b95af7cfe"
+    "recordHash": "beda033c1d9968a721a33ffe31191d3f9963c693ce9980a60184b66265b2c105"
    }
   },
   {
@@ -6317,7 +6413,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "88e39faba79627bb04753044e1bd0f11a95841bce1299905519b4823779e3166"
+    "recordHash": "9d352d069aa06e5e94dd5571287f3169d341a625d873d9d5e6c0ef9f959a67c8"
    }
   },
   {
@@ -6381,7 +6477,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f93aa69024f628a76c8c657bac3f7da97ea71a8af1af40731f6b085a763d5f0d"
+    "recordHash": "0d43a9a5f871f4854fa9b2230072efcc5f8b21d5d4e6e3be415f85c10ede6d82"
    }
   },
   {
@@ -6413,7 +6509,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5d3e9ed23634873aa20d9670b865ef84e7fc02d4f9f80378ed45ecfb7eeaaf7f"
+    "recordHash": "5619be18a442c4ce3368c813705a50333be3869cc25a2d44f1e762d4d1f72011"
    }
   },
   {
@@ -6445,7 +6541,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c639cf61fbeea7905a74aca9f08a456638e62f59f43e84cfecc129dcd24929b4"
+    "recordHash": "1bb1206742771f8a1f97a46e2ee7bd0133e9bf36e833769e5e3ef43fd27b9695"
    }
   },
   {
@@ -6509,7 +6605,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "70785728390bc82ecf9f24cc51dad646a751412e0fb35d0daf2e156672acc382"
+    "recordHash": "ca9566a2a67c802cbcaddd2bcd3c7705d413f27a3db46cacea6f9dddc96c0c13"
    }
   },
   {
@@ -6541,7 +6637,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9b14187d8a809c9af982436e05314e62570616ac2046051297286cba89defdf0"
+    "recordHash": "3d4beba69f3c8fe0173f0997beab583a9d4b054805ac2871793dd1ce763aa07f"
    }
   },
   {
@@ -6573,7 +6669,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9319479167f999cb781b0f702da53306af3ada0df6225715c3e773a113dd3590"
+    "recordHash": "93e8a74b6a15c2a3b81ed8d94764edf0a512bbc19b709a7e39720d976ce567e1"
    }
   },
   {
@@ -6637,7 +6733,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1d6d4f3f4c5ff2045ace1d080a24a21a9f793ccab90be77e09bf12de69e3af6c"
+    "recordHash": "12fecacc2848a5c5ee44d1af7b0eb1bf284542d2d0fc59db6347dca84a371459"
    }
   },
   {
@@ -6669,7 +6765,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "498453d3c1ab61d59c8ed2b70335c8b2856e4cdcd4f4c04b5ee3d3be5475204a"
+    "recordHash": "b269ff16c4734830c0401368646cf464b3ec8499f23b12d3788037765638992a"
    }
   },
   {
@@ -6701,7 +6797,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "98f4c6ac82e4bb8a02aa5614773fd9bc5e550da77144a7965014d0957d0429f5"
+    "recordHash": "1b79e609eabc2636c0ccb4086f1c475d1b2b48b5c0c5db17123c3cd5999f5e44"
    }
   },
   {
@@ -6733,7 +6829,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "98c5dbe0a377e8b879446083959225ba2c9efcfed2607abb3c1461bb0c57dbec"
+    "recordHash": "af39db7d6cab77f5784a17e9a7f804795a7c7f687c8eb4f4cfc66c72e856e5fd"
    }
   },
   {
@@ -6765,7 +6861,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "9b1995447b5c185c85e51b15ca2171230b5bb8b686225fb0f55b75401de5afbc"
+    "recordHash": "dd5a90eb80398613becc6aaa3dd0cdb0d66a7299edde48d6b684c642b4d0d3ff"
    }
   },
   {
@@ -6797,7 +6893,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7efcd32e123e5732aa0c4f99cc4f7f861e28b3bb176397d0e375b9f9ee8443b1"
+    "recordHash": "47f4b95bd58f48de1422ed1eddb1a4d0d063cfe5ed2229a77315d6f40017aab9"
    }
   },
   {
@@ -6829,7 +6925,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "48468aa0c6721e5525c27cda0f5e6837b58fb6c0678dbc8a2e6d28df8b5b8c6d"
+    "recordHash": "7425aea0d6a86fbcaa6178a6dbfba1ddc2fb52f6b75cb3f5b458a8d2b5cbc77f"
    }
   },
   {
@@ -6861,7 +6957,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ef9ad6c218e2123695d5fed0f3e8bb6c3cc0a55d4fdea0eabfe4ced332d8b0f6"
+    "recordHash": "8e2e55d929d49f9057f79cf48cc5970b950a82ebe5d38bc17c3d6fd66088caea"
    }
   },
   {
@@ -6893,7 +6989,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1e1befefcec4d483d1a0d9020fbcb5f82332e6cc4726ae3333cad3bb681118ad"
+    "recordHash": "de5eeaa76fca881500df495ee89d6450c464531dd2bad642125d68581d871b72"
    }
   },
   {
@@ -6925,7 +7021,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "79e4b641766f2c5ea0bc39ea4bf72f82cc96ba4fef506dbe632593c17fca1e90"
+    "recordHash": "180e65a8d22206eba7a5a1388f19e065b3a9df2efa07151a0b594e6ee678fa2a"
    }
   },
   {
@@ -6957,7 +7053,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e34d7500aa8e9d3a3dca08719c62c11f3402d8a132d1e3bc51cb140f109cf8a7"
+    "recordHash": "264ad7e1ab67f831eae54138977c190646d4163ea2a0fc2f5ba07ca35dc00d9f"
    }
   },
   {
@@ -6989,7 +7085,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7eb52f5d47814c96bedb2b1710fed1bb70192b71bd0bc7c608f8f41be34b5fb6"
+    "recordHash": "a948c39e1d434c27aa5db7e40c76664ad70c9af0c24d8908cc28b602bb33914f"
    }
   },
   {
@@ -7021,7 +7117,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "433f037739bf61bae74124abf95d8a9b3849f808f24ca73e2d9880b5bbf8ccdc"
+    "recordHash": "600a6a30caba45e02f2d202b29dfdf78ac999ca05504447fe9714614fbd56833"
    }
   },
   {
@@ -7053,7 +7149,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a2cb9d06ae4aab8b5bd93944c89f08d3293dd9263a96dbd6783f518785e51f78"
+    "recordHash": "6650aaa445b0f2f814df60150ccf2df0d6cdb7d39e0eaebee22a5ea4333e4005"
    }
   },
   {
@@ -7085,7 +7181,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "30685d999d1603ed3d83a7781819770e7d9fef9dec2e3341bc07795e76935376"
+    "recordHash": "ba2b4781ae814acf3e21bd9f23da3de387f79a29b75f9bea05625f9b7b5fbf44"
    }
   },
   {
@@ -7117,7 +7213,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "65a988349b13e3790b1d4e1f3d06db31dec6ee73399c09c0fb0aeae8c2829dba"
+    "recordHash": "d9974cdeb70a7e053e9fd6e0dfc3b7b5381b7de7566c831f8be4d01ec3b97762"
    }
   },
   {
@@ -7125,7 +7221,7 @@
    "id": "auto-ru-2026-11-21-9c01c35a56",
    "geometry": null,
    "properties": {
-    "title": "Drone report in Baltiysk, Russia",
+    "title": "Explosions reported during drone attack on Baltiysk",
     "place": "Baltiysk",
     "country": "Russia",
     "countryCode": "RU",
@@ -7140,16 +7236,16 @@
     "impactStatus": "unknown",
     "attributionStatus": "none",
     "review": "auto",
-    "corroboration": "multiple",
-    "revision": 11,
-    "updatedAt": "2026-11-22T18:01:02+00:00",
+    "corroboration": "single",
+    "revision": 12,
+    "updatedAt": "2026-11-23",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-22",
     "url": "https://droneincidents.com/incident/auto-ru-2026-11-21-9c01c35a56/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "acb153fc9826eeb6072ee4cafea3653cc387a962c4c5d6d835c314bc5be27d6d"
+    "recordHash": "6d12fa582a18b741653e27ca0dcb8aa4fd75fd46babcf2750b6a70f42ca3c329"
    }
   },
   {
@@ -7181,7 +7277,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e465da075ca953db1941293d7428c9d5171a527c7423fa3d01923e9d76d39334"
+    "recordHash": "ba095dccae5b1cf5c59e58cd599f8a6d080282deffbef1ec26a4a572d921e92f"
    }
   },
   {
@@ -7213,7 +7309,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d316785be6709b96b0890e8a76c03dce5d1d2e36b8a3ffcae842ac91c1be3503"
+    "recordHash": "57cfe7c54bfb7b7fbbc7d232d7df148d6e4e88ef4f85d4acea4d8ef80b112b85"
    }
   },
   {
@@ -7237,7 +7333,7 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 2,
+    "revision": 6,
     "updatedAt": "2026-11-23",
     "checkedAt": null,
     "autoCheckedAt": "2026-11-23",
@@ -7245,7 +7341,71 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "82f5a3eb186c0870279275f6f2fd0848416283c99f072e0732fc9004a4d77d65"
+    "recordHash": "5734f0409d3bd3b8c29b1e439d29640967dacb95ccfcaf5ab9d05f3bbfa901dd"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ru-2026-11-23-97d663957b",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Perm Krai, Russia",
+    "place": "Perm Krai",
+    "country": "Russia",
+    "countryCode": "RU",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 6,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-ru-2026-11-23-97d663957b/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "17c5f023fa37c0ba6b901276509ad0d83182c6f4d2affa5c8374b5fcec62ea58"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ru-2026-11-23-f410b32c78",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Tatarstan Republic, Russia",
+    "place": "Tatarstan Republic",
+    "country": "Russia",
+    "countryCode": "RU",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 3,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-ru-2026-11-23-f410b32c78/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "ecab62db05142b85dd510c613d1a6d8bb6b55d5482e3aba46e23e84ddf797a4a"
    }
   },
   {
@@ -7277,7 +7437,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7affa5a144537426547bef6a032cebe53a1151fea941c60977ed998d6da266b1"
+    "recordHash": "1515bea2e6227dc646c0f2f20b346102e812b7dd296e6e45487a71980f10fca0"
    }
   },
   {
@@ -7341,7 +7501,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "673df8b6784c0da84ff1958f439af3d7a0094b57c2c3d7fe25ae443c347df2df"
+    "recordHash": "47926c2d3707a6f312cce4253551a3d0684cd1ca15dd590e923e932f03993f79"
    }
   },
   {
@@ -7469,7 +7629,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d2a00e967bd6527eb4c3561d342c6197ba81ff8f809d335b7414eb5702e351e8"
+    "recordHash": "6a7780f9a3561d1c160d5e4713938f37c0d9ad6fc33ff196e10263e2bd7e208c"
    }
   },
   {
@@ -7501,7 +7661,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "13b33780b9dcd3390871b067b9f91f7eb5a7dbf3d27c3ec4257678e61d3f7769"
+    "recordHash": "e8d8f7fc2eb5ca5ed65653dc1117d8821cda957cc126246e60b890ee6b9d09de"
    }
   },
   {
@@ -7629,7 +7789,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "6b5b03ef38bb43320bbefee79987d8cea832ac729da9e84033bd7c995d64d88c"
+    "recordHash": "d5d09cc126aa21b5fb7d9bade38feefac5f490aeb2a2af8fa3a9acc37a2e2792"
    }
   },
   {
@@ -8173,7 +8333,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b4c74376051de4ffb9e0e82d92b50f1230b7a9a392c1b92a0b458fc273de4623"
+    "recordHash": "f8511612521159f4877a79b33396c546ca8e4e982966949442d4546fa5f6eaec"
    }
   },
   {
@@ -8205,7 +8365,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "727264027595c492884d17092380c1fc110d13e6d0071ca0a113361ef2700182"
+    "recordHash": "1348ea0fd6ccd73a823ba131b5922e69797af562f0475bb59f5137ea4c6124ac"
    }
   },
   {
@@ -8269,7 +8429,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "bbd44d93cd79998ba509c91988ebb0a9d8050ea0d9d50f49f2b8822147067f93"
+    "recordHash": "5b3b858d2edc4db5520aa7dd66398df92044e62fdb31210f154f5401bf425e6f"
    }
   },
   {
@@ -8301,7 +8461,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "bac8426c657acdb26e1fd48e70c4a00160bff39cd425e26c521807ae9fede354"
+    "recordHash": "0275eedeb63b164a528d578e64322d5f31fadb8cead809e6cea69b326c1cfa8e"
    }
   },
   {
@@ -8397,7 +8557,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7e9b97559a66c051115a68f576457b72612e4fcabce81633a9c25fe045d21fbd"
+    "recordHash": "ee49f6a9fcbd2d2660cf21c6993918df8c920e3f4096cc3126890cbae9597198"
    }
   },
   {
@@ -8813,7 +8973,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0c6c720334eb13319c97da521b327bf3bb58db92d2efb64fff2821432f6444db"
+    "recordHash": "9215c40ac63ad5aca9cd921b348003bbab82b2bb0bac6ba8b2978f0a4aad7dbe"
    }
   },
   {
@@ -8845,7 +9005,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "4510f05bf449518a0228b51e9ae865d50aa343d364d2d8c2c601ff303cd3b55c"
+    "recordHash": "1c147eddd662b780ae2b9ee2e3df65b913eaba3b3b6560f0683e97773623ddfc"
    }
   },
   {
@@ -8877,7 +9037,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "05ca6f3333a4d3927639ba479a5c629f13676a81433f498578efb2702c4cbc33"
+    "recordHash": "82d96d935ba3656350047b4c1161a63795cee87b20199347a18b4d82feba320b"
    }
   },
   {
@@ -8909,7 +9069,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8286dc653ff3fed30939b2caff46d866527bed535d511eaac652277d05b06610"
+    "recordHash": "44f95e1e8abc75a2be38947077e91a38509801e675a948093e3637009ae25e78"
    }
   },
   {
@@ -8974,6 +9134,38 @@
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
     "recordHash": "e474fb82f803c9b4a599a3f5f3fa0411a9183b8bd59fbc39e70f3f3e887e7d13"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-sy-2026-11-22-c6b515a253",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Suwayda region, Syria",
+    "place": "Suwayda region",
+    "country": "Syria",
+    "countryCode": "SY",
+    "date": "2026-11-22",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-sy-2026-11-22-c6b515a253/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "07eba97e165092f78da5fe56abff6007e27542e13d4f57b63a62f1b5147d8be1"
    }
   },
   {
@@ -9261,7 +9453,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "f9bad8e7a8fc9ee7ab229f2c254ad389a02077d42c717a22727e2e5b3230c9a7"
+    "recordHash": "31240ab66c9d01986768abb550a044c930eaf6da1b2a25b0e652731fea688cb5"
    }
   },
   {
@@ -9301,7 +9493,7 @@
    "id": "auto-ua-2026-10-13-58193235c4",
    "geometry": null,
    "properties": {
-    "title": "Drone report in Kyiv, Ukraine",
+    "title": "Fire reported after drone attack in Kyiv",
     "place": "Kyiv",
     "country": "Ukraine",
     "countryCode": "UA",
@@ -9317,15 +9509,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 10,
-    "updatedAt": "2026-11-02T21:24:49+00:00",
+    "revision": 12,
+    "updatedAt": "2026-11-23",
     "checkedAt": null,
     "autoCheckedAt": "2026-10-14",
     "url": "https://droneincidents.com/incident/auto-ua-2026-10-13-58193235c4/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7234c4c1e976e0fe10fc611957ca1870b4ccd2406655fdb3b6ad153981b09bc8"
+    "recordHash": "820fed51f78ea7a7127f82a804deb8034e1df895d992c5196cd1820eebbb4b92"
    }
   },
   {
@@ -9357,7 +9549,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "ea0e2b3f317e2a2335b5040ea4a8fe71a5e6455118de9db2e8d8284ba9780211"
+    "recordHash": "0908a6a2487c3dd99ae1f5ffe38257a9e1d89b0882f365ac333308f2667b5667"
    }
   },
   {
@@ -9549,7 +9741,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2cb6162557810f27611bd74a276be18e31e3c5046eeb2928844b135d195aa0a0"
+    "recordHash": "c7b93ffeb22b0f77b4cfba520b689ab44ce88d0bfe6a65745c0a6933c9b50320"
    }
   },
   {
@@ -10477,7 +10669,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "57c93d0bdb8bf9f1ae704e4296230a47468d69d398121d7196285c56964af1ea"
+    "recordHash": "3a493769c857516e79341056cb07a15e4cfda79db24d4a88e4657261414adb90"
    }
   },
   {
@@ -10709,7 +10901,7 @@
    "id": "auto-ua-2026-10-24-21f8a9dff6",
    "geometry": null,
    "properties": {
-    "title": "Drone report in Dnipropetrovsk region, Ukraine",
+    "title": "Drone hit on residential building reported in Dnipropetrovsk region",
     "place": "Dnipropetrovsk region",
     "country": "Ukraine",
     "countryCode": "UA",
@@ -10725,15 +10917,15 @@
     "attributionStatus": "none",
     "review": "auto",
     "corroboration": "single",
-    "revision": 5,
-    "updatedAt": "2026-11-02T20:57:28+00:00",
+    "revision": 6,
+    "updatedAt": "2026-11-23",
     "checkedAt": null,
     "autoCheckedAt": "2026-10-25",
     "url": "https://droneincidents.com/incident/auto-ua-2026-10-24-21f8a9dff6/",
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "7f7f2af5e895291d43289b254b21cb19244fcaddd83bb9921254520d4b8a665d"
+    "recordHash": "b43081a3b524deaee3a5652b5a12c235cfcc702438029f45514da92291518c27"
    }
   },
   {
@@ -11437,7 +11629,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "1defe3bc16da68c1ac6e43ec3a9998b07e4b0240bc5aaa898df394ce2aede37f"
+    "recordHash": "d196d17987170aa5ec4fe791320b214b1403660607886cca1f99449c89893e77"
    }
   },
   {
@@ -12365,7 +12557,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b2836014c634c39f949311323620b4ca97f5f75f8689c38b2ef20b0eb9a15d74"
+    "recordHash": "f2fd0f0d42fc4384034c21b56c54a00cfdafe03110b3c1a28bdc74d4ac1298af"
    }
   },
   {
@@ -13325,7 +13517,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3963d904afac5c9c1201984cf5a8f624c6fa33de266f860c3ee8484a287ab869"
+    "recordHash": "15926d6494b407ec4e4306cb9b31379f170b23c64e1fefb2299d07a03856a717"
    }
   },
   {
@@ -13741,7 +13933,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c60c8b5d3213f6e16f29abff73b9719b41dce42327ee39e2b3d701f5cc472d8d"
+    "recordHash": "79ae0ee23c53f5d2faec25d4ba7c5491837008b360b5d2937e56ebc59984eafa"
    }
   },
   {
@@ -13773,7 +13965,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "bb9c297103ce2a3fbde4215f2d024936776e679a0a35d6add0b04643f5e28347"
+    "recordHash": "96390de8fdd7c8a35e444b9739898dc4d01a1acc439f1ad5fd849d908c220487"
    }
   },
   {
@@ -13933,7 +14125,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "99f4e8ee64b10e1cbc903650f038fefa3d65c38fcb6646bdb72d18a54444b342"
+    "recordHash": "5130a6ad9f864f95eff70e1f6e47f1b22e55431e6d8878cc1bdc9e3e9cd1476f"
    }
   },
   {
@@ -13965,7 +14157,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5097c9a65714ed5d70500399c4d084701ccd673ce786d0923c18bfac282eec12"
+    "recordHash": "e24620876e06574a74248ebbe5e6295fe8d08a118574f4c8cf896b0901419c57"
    }
   },
   {
@@ -13997,7 +14189,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d6f7a3ba58a94b749e87a8853e8a609b13cb88b77e5e5dba98371f31416ca012"
+    "recordHash": "0e8fb4fafb89d24b2ba76ed169df9a7eb2b563259569f47011d380aac9061726"
    }
   },
   {
@@ -14029,7 +14221,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "307002d4e6689724ab0169ae1aeb6e302603d24ff10a2e5fa4969971d09c9d2d"
+    "recordHash": "2eb21a888df7c5b2a3e2076765bed3bccba38b021bf18c4f448bfa21460b6e96"
    }
   },
   {
@@ -14061,7 +14253,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8414e659a331590967c13d310b2db5960dd1d8d3448fffca6dd16252d32fd758"
+    "recordHash": "332062acd7f1bbb86599806caf9adcc95912aab7df7898b3f6053c3feb62e093"
    }
   },
   {
@@ -14093,7 +14285,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c6a2ab5b591c13a7c6aa225f9100ef23c64a31c66dcfa1d7c3b00ccfb116a783"
+    "recordHash": "4f1e88146dbe8870c2d5d9046ab62f83d66f4b769ae0f265332400da620ba419"
    }
   },
   {
@@ -14125,7 +14317,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b5caa1586cefc170d95bfcf85cfb65f711b4fbec3f9e1ba310325a77a9573654"
+    "recordHash": "043ea339d9d6b32ef58f237a96f1c70445a79f9df6ee474c5d7c96857374d11e"
    }
   },
   {
@@ -14157,7 +14349,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d18e9a2ee84b9def5e1d373761ee15b7f1f40e225459a4dbf3413b8f27468dd9"
+    "recordHash": "3e824fd7b2016c5233d9809568321b2ce01932f212f0584ab957128391a65680"
    }
   },
   {
@@ -14189,7 +14381,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2352b9be5f42034770fd7327feae64a27d02754fc92a73f1db8fe064a8233b23"
+    "recordHash": "baa535b0d2066eb91678da8f920f2c776f5f838d058227720eecc020726b3922"
    }
   },
   {
@@ -14221,7 +14413,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "287683f880f907287bee90548282d7d946530bef6af8179a633e4d9075cf4e01"
+    "recordHash": "297ffb1c980cf323c3db80b695f7db5f54f8c26e4c42cdd7a446cda6f9508f29"
    }
   },
   {
@@ -14253,7 +14445,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a2d181b735849d8f1dd0ee419273ab2b92c49c57920c6dc481dcc58f84a955ff"
+    "recordHash": "87696f81b7b5398393dab7994f18a3fdbc938e6f2fb0e6fafb8058aa9e1f185a"
    }
   },
   {
@@ -14285,7 +14477,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3117eeedbf0c819ba31dcbe2e846d4ca73cb0c8583013ec4dbce65f8beefe70b"
+    "recordHash": "5ee1eec537a6135d695ca9a3957fb38967224c6897048b16c6c35bc3ed31f7b4"
    }
   },
   {
@@ -14317,7 +14509,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "5935a84194707d04f3b470423a6b5df79f9b975aeeba3659f94c98e5a5aa32bd"
+    "recordHash": "1ab6012edf7654c341a8cad7bacac662c72e8403aa238a8d7613ec3887d7d11e"
    }
   },
   {
@@ -14349,7 +14541,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "267e99c19daeef9b654f744633985fe1dfb570eded195d83d7255c3b8f0540ce"
+    "recordHash": "d22caec9f4475f7eafbf397f23fe74197e60ba9cf72171d8fa8ed5b26f41d0aa"
    }
   },
   {
@@ -14381,7 +14573,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3f6972b0763c25fcfbc8768a7ef353a3cf92cdaf7a9fd14212d00043734cd74a"
+    "recordHash": "3b56551863177bd5e3c0a923ded5adf01ca4c17be863922179e5a3e0c4ff561c"
    }
   },
   {
@@ -14413,7 +14605,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0b7e95a0f82da1fc0a2e07cbbd5fb7b4acede0eccdeea918ba1b22689d895302"
+    "recordHash": "792435f6bdf42a52c99ec10d9af3760d2e18de540db3ac3a0fc237f603e01f87"
    }
   },
   {
@@ -14445,7 +14637,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8ee2cca919445e68563567d2f6712594667f004ea6f27dfdb8062ca37229ab99"
+    "recordHash": "8841393580a7f0c41be396dfec7a8f6098cb7ec91795237c2b0ebd40cb6a10f7"
    }
   },
   {
@@ -14477,7 +14669,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "2e76a1f19a7b90af25b993b717d745653a9c6e966bda283ea7cf5b47a55d4493"
+    "recordHash": "3890ba9ba10bb4ed665ba3dec9e169e96ce3e4779f1e72453b490cc371ff8632"
    }
   },
   {
@@ -14509,7 +14701,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c1ba0c131d893e1edbc73eccb7e9999197007799a4437f162ddfb8d2046789c2"
+    "recordHash": "8d7bea8e2ef00438798a058d1fd38fcb8515b7ac18b79df624b72e8e3126658e"
    }
   },
   {
@@ -14541,7 +14733,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a8738b7d01c024336462fbe0be0766394a25be1e49e939dfdcdd2da6dbf91d11"
+    "recordHash": "c427c2a8ad70cf51039f7762a52cae27ec89a6a62d48503618e22f9dfc0fcee2"
    }
   },
   {
@@ -14573,7 +14765,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "d44a44d0f3df048ea2b42ac3b948cb714ae4b922ddab5f9e7ad6e1b8f14b0cc3"
+    "recordHash": "9154577632cadaa04d95a97191cc58aaa3001992e328fcfac9f6a74e24054395"
    }
   },
   {
@@ -14605,7 +14797,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "80e328ba060ed3d1e09bd9a3563a68100bcba206a846cf1ee9d76ee853792921"
+    "recordHash": "d164eafab26515ccaaf8bd9e39d3ddec6ca6682166ab59acc8469b56789774b7"
    }
   },
   {
@@ -14637,7 +14829,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e76bb90671f0b895a66e5b9b00fccfe4e49263635db6c2b9cca6db000c3d9c78"
+    "recordHash": "6dcbd828dc842872eececdcd904b3527c9b5bfe123a7790ce1b5d4b9e3821554"
    }
   },
   {
@@ -14669,7 +14861,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "c6f899d95b4d3c09a4f52682dca9d373edc241537aa2aa0ef124e0a65907394f"
+    "recordHash": "e9a55c432d16815bbf1d91f563a655ad20b88050d5cbeb09b2e658c094b6812d"
    }
   },
   {
@@ -14701,7 +14893,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "89532c1cd542eb4b3986f2893085f19500e6450ce85a694b2fae40fa671c3f12"
+    "recordHash": "cb4509a2cc0068649612beb350307552fb0931a467a0f4a12c3336623280b9d5"
    }
   },
   {
@@ -14733,7 +14925,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "597d6c0e0855dc0d2f6ab6156d64c8120f653c12f84b7017af836fca04a66b32"
+    "recordHash": "a6620f055fcfae0e973b38df3109295831566e1a6f5fc1befa28b0743b330140"
    }
   },
   {
@@ -14765,7 +14957,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8fe12127a6ce78f0e0348e281101bb00787a654d8ab981d4b7e5f04b40c5f43f"
+    "recordHash": "6c23370dd70d331badaa46f8b6d562f330a1514267da99d28273e2a469626a84"
    }
   },
   {
@@ -14797,7 +14989,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b2f97e1d4f2267f8361559a0ed7f7f8b39727c00fc8bf5543b77ff6e913e029e"
+    "recordHash": "937af62a45b20f0c0ec5de3d2866c811b21402dde0e736cac475aafea75b591f"
    }
   },
   {
@@ -14829,7 +15021,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0c9288928198680ba9ce0eb94be08f198e6893e56a089115e4b1311015fdba45"
+    "recordHash": "96d06fe75f6b1cd33a8260c59ca34b2389656d4188b5a94b16c0c61e64cc4b21"
    }
   },
   {
@@ -14861,7 +15053,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "b56b1a502b8471244f625a2e110dad46558513f56df301910e91ca51d15eb579"
+    "recordHash": "43aa02820b19f9c3b6cd53a18d1f0800de16dd6b4358c1fa1d17c8bade033b4a"
    }
   },
   {
@@ -14893,7 +15085,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "3920100d1c22780af0c74b52ae5c68491beb21cbe69ab10e3e1378f4e6a0dd32"
+    "recordHash": "d077609068e4978db79ade7ce3f4d1c2164d4e9de1bb1c1b76f42075e679e6ec"
    }
   },
   {
@@ -14925,7 +15117,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0f837893ed6896e15fb601dcf8a15eded695fd3a028faa781980d0fc3cb18487"
+    "recordHash": "ca200834bfb9b04e9db2662ffa163efedffb2d6af5f3dbab77d146f159ded375"
    }
   },
   {
@@ -14957,7 +15149,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "dbf2dbedaea2aacefe75c37ce42c9047b703c477ee7b395cbba5625264ab00b4"
+    "recordHash": "0cecf335405062aefca3ba766fd41e818490d49e10cb439edd5bef5238a7f63a"
    }
   },
   {
@@ -14989,7 +15181,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e44c1b36894cdec4652341e287ce041b6905527dfbf094b27e3703b7c9c2c369"
+    "recordHash": "290af5c3501400c82415063fe52c231ba3512eb4b17af015e9a84b532a0c84fb"
    }
   },
   {
@@ -15021,7 +15213,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8bf02aa5d4ff79c3e8415c283520a2ae82ce2a17f7b0276c71fc8279d57aaeb4"
+    "recordHash": "d4d3ff99be1b2ffeb7538041667a21a8c24cd03723d7840310d71a90c9e1f180"
    }
   },
   {
@@ -15053,7 +15245,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "0be25b2c44df540fee8d204d320d0638e39055d86f6a8ca9d0d87da345f44501"
+    "recordHash": "06aa39c240ef533cf6a8931e21a69e6f9dc5d2fbff5f39a8334d839e3099f260"
    }
   },
   {
@@ -15085,7 +15277,39 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "20cd3295f6251bdceaafb5195ebfd2c0a9e82c3001b1698292d09bf675107996"
+    "recordHash": "c12ac3bbda04c54b59a043d42c498ab797fbdf3f23dc4832ba6201f5eac46a32"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-22-3cdecc954a",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Vyshneve, Ukraine",
+    "place": "Vyshneve",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-22",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 4,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-22-3cdecc954a/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "b5a22a79ad0a7c595c8337e73adca61a52338dd776563b65457311904432ed0d"
    }
   },
   {
@@ -15117,7 +15341,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "a890fc797fa937bc753d381664f8a63d6c7f5e92c1234cb761800b863097dd8a"
+    "recordHash": "e71e2a453ff3e9d698ab3eb42a0688b1ff05b551c83bb6efd40368dd63d3b79a"
    }
   },
   {
@@ -15149,7 +15373,7 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "fa6f7dc64b543d09ebe41a40ed5adf38bb9da382ae741afbf5c48f0d4ce72325"
+    "recordHash": "408a0813a666fe72e5d2009e55a5ee10fcfc8159ccbaf5507fb8b00c907bbede"
    }
   },
   {
@@ -15181,7 +15405,135 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "8ee38223bead96675f565bad99039a598dcc1617c4dced89154cb5f773cab235"
+    "recordHash": "dab14d994ee067217e4b85aa1fc2b4a556bf85d13356704d9dc89ba7125e30f7"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-23-0142ea9769",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Chernihiv Oblast, Ukraine",
+    "place": "Chernihiv Oblast",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-23-0142ea9769/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "c972e7e0d48124185f38acbed38fc61147b3b5deefb70435bd5dc18ec8dc3258"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-23-349eec962a",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Kramatorsk, Ukraine",
+    "place": "Kramatorsk",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 4,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-23-349eec962a/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "3c2418e2c62c877a39bf0ae073a2a5fff3a9b4daf2d776a7339bcbf78e4cca37"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-23-4d077758b2",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Kharkiv, Ukraine",
+    "place": "Kharkiv",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 4,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-23-4d077758b2/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "c4a6555e9c632c4354c12d80d5794220dd5e32b94574fd6d45e29395926218a9"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ua-2026-11-23-ceff95778e",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Sumy region, Ukraine",
+    "place": "Sumy region",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "reported",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-ua-2026-11-23-ceff95778e/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "7d73369678e3514939b3c9deb70a049234a5dc7b32eb63eb7528c7b6d0a91ae4"
    }
   },
   {
@@ -15373,7 +15725,39 @@
     "sourceLocationPrecision": "unknown",
     "geometryBasis": "unavailable",
     "coordinateGridDegrees": null,
-    "recordHash": "e2d28240bbb8e384ef6f25d9aeb20fb96101de257991af966935b5ea3b763bfa"
+    "recordHash": "0a6dee135f62618788dce54e053cb62d77c0bcf0bba1c5d1bc82640dae8993fc"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "auto-ye-2026-11-23-4356be4130",
+   "geometry": null,
+   "properties": {
+    "title": "Drone report in Sanaa, Yemen",
+    "place": "Sanaa",
+    "country": "Yemen",
+    "countryCode": "YE",
+    "date": "2026-11-23",
+    "dateKind": "event",
+    "windowStart": null,
+    "windowEnd": null,
+    "windowBasis": null,
+    "scope": "single",
+    "category": "conflict",
+    "droneStatus": "reported",
+    "impactStatus": "unknown",
+    "attributionStatus": "none",
+    "review": "auto",
+    "corroboration": "single",
+    "revision": 2,
+    "updatedAt": "2026-11-23",
+    "checkedAt": null,
+    "autoCheckedAt": "2026-11-23",
+    "url": "https://droneincidents.com/incident/auto-ye-2026-11-23-4356be4130/",
+    "sourceLocationPrecision": "unknown",
+    "geometryBasis": "unavailable",
+    "coordinateGridDegrees": null,
+    "recordHash": "299f5d3e166331a700db56bac67e4ea63ee81513d26a8088991ce5b005570f87"
    }
   },
   {
@@ -15501,7 +15885,7 @@
     ]
    },
    "properties": {
-    "title": "Russian ship hit by explosion at Benghazi naval base, Libya; eastern government suspects a drone attack",
+    "title": "Russian corvette hit at Benghazi naval base, Libya; Ukraine's president claims a sea drone attack",
     "place": "Benghazi naval base, Benghazi, Libya",
     "country": "Libya",
     "countryCode": "LY",
@@ -15514,18 +15898,18 @@
     "category": "maritime",
     "droneStatus": "reported",
     "impactStatus": "reported",
-    "attributionStatus": "none",
+    "attributionStatus": "claimed",
     "review": "editor",
     "corroboration": "curated",
-    "revision": 1,
-    "updatedAt": "2026-11-22",
-    "checkedAt": "2026-11-22",
+    "revision": 2,
+    "updatedAt": "2026-11-23",
+    "checkedAt": "2026-11-23",
     "autoCheckedAt": null,
     "url": "https://droneincidents.com/incident/benghazi-russian-ship-drone-2026-11-22/",
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "42b12022bd8c82e113c0292b820fb6caeeac76ce191081adc1e14ecf2b6740f3"
+    "recordHash": "9b59e434051c8d2bf64891f168ac515ac4b88821584d5c2f87595ce5ae75f958"
    }
   },
   {
@@ -16381,7 +16765,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "aff391469e225638349cc48cc27a749c914b74f98bd98dac2638b0dc012f48c4"
+    "recordHash": "486b1fcb56592f248bb7f2c462fdcb9fe7e455afdbdca4ff31d34b496310847f"
    }
   },
   {
@@ -17009,7 +17393,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "7ecca8ee7085e51d8b92cc3cab97bc788dcb3728fe0eaa837a78672cd8d24bf6"
+    "recordHash": "9d79a4d0865c8ce9fe0dd7e230a38981f642b85d9fe8e9ae8bb308ed9087907c"
    }
   },
   {
@@ -17085,7 +17469,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "1f08da3379fb3b7b08d88686c4735a9909b753d07b0285571efb1b969cd15e82"
+    "recordHash": "c40738cba274ff378f844c99285a560e2008b892d36c96e54be4d4743cb22717"
    }
   },
   {
@@ -17923,7 +18307,7 @@
     "sourceLocationPrecision": "city",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "78d9f6f872db36569ce507614fc15fc57d8f0ddb7622c8c1d675e8294df33d8b"
+    "recordHash": "29fc7cbd5c3c3462295d4e66d741adb1f7041e55bea0ad9a08dfb7ff1776f6b9"
    }
   },
   {
@@ -18099,15 +18483,15 @@
     "attributionStatus": "none",
     "review": "editor",
     "corroboration": "curated",
-    "revision": 2,
-    "updatedAt": "2026-10-21",
+    "revision": 3,
+    "updatedAt": "2026-11-23",
     "checkedAt": "2026-10-21",
     "autoCheckedAt": null,
     "url": "https://droneincidents.com/incident/line-fire-drone-interference-report-2024-09-20/",
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "4bdffc20d155a1b741e058cc3652cdd1a8572b29ded00489fb2d216a9fd6e729"
+    "recordHash": "16094c93cf4c0c77aeac28df16939f0229534add78a1aa1ce110252abe083f93"
    }
   },
   {
@@ -20073,7 +20457,7 @@
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "4354027856bee7799402f8ee31d3cde8275a6320b898e04f73c41d54ac2e468e"
+    "recordHash": "3a4685a721a1223b9282565ccd1e591a9747647816e71d626084bfeb0f3ce1bb"
    }
   },
   {
@@ -20637,15 +21021,15 @@
     "attributionStatus": "none",
     "review": "editor",
     "corroboration": "curated",
-    "revision": 5,
-    "updatedAt": "2026-11-08",
-    "checkedAt": "2026-11-08",
+    "revision": 6,
+    "updatedAt": "2026-11-23",
+    "checkedAt": "2026-11-23",
     "autoCheckedAt": null,
     "url": "https://droneincidents.com/incident/wine-trader-fire-off-romania-2026-10-15/",
     "sourceLocationPrecision": "region",
     "geometryBasis": "coarsened-public-dossier-coordinates",
     "coordinateGridDegrees": 0.1,
-    "recordHash": "bda1871072acca3185acccfa8e2576a3ca80a02f18c5309ed0b6d1ca10f977f0"
+    "recordHash": "e785277537557d1e0a64b48425cad46b185ad2354fd3b1d0a7ed48b26b0f41a9"
    }
   },
   {
