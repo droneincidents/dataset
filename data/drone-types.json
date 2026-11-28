@@ -1,8 +1,8 @@
 {
  "publisher": "DroneLedger",
  "site": "https://droneincidents.com",
- "generated": "2026-11-27T04:47:14+00:00",
- "release": "20261127T044719828870-a76b68",
+ "generated": "2026-11-28T03:53:43+00:00",
+ "release": "20261128T035348403623-b2aac7",
  "license": {
   "name": "CC BY 4.0",
   "url": "https://creativecommons.org/licenses/by/4.0/",
@@ -57,7 +57,7 @@
   "manifest": "https://droneincidents.com/data/doi-snapshots.json",
   "note": "Concept DOI identifies the archive series, not this live release or any particular dossier revision. Exact version membership is published in the DOI binding manifest."
  },
- "howToCite": "Cite the dossier URL and revision, e.g. DroneLedger, “Civilian infrastructure damage reported after drone attack in Odesa”, dossier auto-ua-2026-11-26-f91138c675, revision 2, updated 2026-11-26. https://droneincidents.com/incident/auto-ua-2026-11-26-f91138c675/",
+ "howToCite": "Cite the dossier URL and revision, e.g. DroneLedger, “Fire reported after drone attack in Russia”, dossier auto-ru-2026-11-28-e794facc28, revision 2, updated 2026-11-28. https://droneincidents.com/incident/auto-ru-2026-11-28-e794facc28/",
  "note": "Unit costs are published third-party estimates with source, year and price basis; they vary widely. DroneLedger selects and links them; it does not produce its own cost figures.",
  "acquisitionNote": "acquisition: how each user obtains the type (domestic-production, licensed-production, import, localised-production, local-assembly, commercial-off-the-shelf, captured, unknown), with stage (planned, contracted, in-production, delivered, observed-operational, unknown, not-assessed) and typeIdentification (named or inferred), from open sources researched 2026-10-12. confidence concerns the route claim; contested = a party denies it, sources disagree, or it rests only on a party's claim. Catalogue background, not evidence about any specific incident.",
  "specsNote": "specs is legacy catalogue text kept for continuity. Its values are not individually bound to a quoted source and can differ from the type page. Source-bound figures, each with a literal quote, are in research.observations and in /api/v1/drone-profiles/<id>.json; cite those.",
